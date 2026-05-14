@@ -14,7 +14,7 @@ const REFRESH_TOKEN = "e5e20ca445a62cc19c051ffbb022918ee1351d88";
 // Add or remove club IDs here. Format: { id, name }
 // To find a club's numeric ID: go to strava.com/clubs/CLUBNAME and note the number in the URL.
 const CLUBS = [
-  { id: 205018,   name: "PAS NORMAL STUDIOS — ICC Copenhagen" },
+  { id: 205018,   name: "PAS NORMAL STUDIOS — ICC Copenhagen", localOnly: true },
   { id: 1048788,  name: "Pas Normal Studios Copenhagen" },
   { id: 120055,   name: "Rapha Cycle Club Copenhagen" },
   { id: 557816,   name: "Mikkeller Cycling Club Copenhagen" },
@@ -106,6 +106,23 @@ function formatEvent(event, club) {
   };
 }
 
+const COPENHAGEN_KEYWORDS = [
+  "copenhagen", "københavn", "nordhavn", "klampenborg", "hellerup",
+  "frederiksberg", "amager", "nørrebro", "østerbro", "vesterbro",
+  "valby", "vanløse", "brønshøj", "bispebjerg", "denmark", "danmark",
+  "cph", "ccc", "flyveren", "mosehuset", "uvelse", "bregnerød",
+  "kettinge", "nordsjælland", "zealand",
+];
+
+function isCopenhagen(event) {
+  const text = [
+    event.title ?? "",
+    event.description ?? "",
+    event.address ?? "",
+  ].join(" ").toLowerCase();
+  return COPENHAGEN_KEYWORDS.some(kw => text.includes(kw));
+}
+
 function isUpcoming(event) {
   const now = new Date();
   const ninetyDaysFromNow = new Date(now.getTime() + 90 * 24 * 60 * 60 * 1000);
@@ -137,7 +154,7 @@ async function main() {
     console.log(`  → ${events.length} event(s) found`);
 
     for (const event of events) {
-      if (isUpcoming(event)) allRides.push(formatEvent(event, club));
+      if (isUpcoming(event) && (!club.localOnly || isCopenhagen(event))) allRides.push(formatEvent(event, club));
     }
   }
 
