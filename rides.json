@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T15:23:23.520Z",
+  "generated_at": "2026-05-14T15:29:05.547Z",
   "total_rides": 27,
   "clubs_checked": 12,
   "rides": [
@@ -22,7 +22,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:14.381Z"
+      "fetched_at": "2026-05-14T15:28:57.292Z"
     },
     {
       "id": 3489725517126777000,
@@ -43,7 +43,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:14.381Z"
+      "fetched_at": "2026-05-14T15:28:57.292Z"
     },
     {
       "id": 3485951363319653400,
@@ -64,7 +64,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:19.449Z"
+      "fetched_at": "2026-05-14T15:29:01.735Z"
     },
     {
       "id": 3487681984273707500,
@@ -85,7 +85,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:23.520Z"
+      "fetched_at": "2026-05-14T15:29:05.546Z"
     },
     {
       "id": 3481417590111661000,
@@ -106,7 +106,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:14.381Z"
+      "fetched_at": "2026-05-14T15:28:57.292Z"
     },
     {
       "id": 3466012401428104000,
@@ -127,7 +127,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:17.448Z"
+      "fetched_at": "2026-05-14T15:28:59.876Z"
     },
     {
       "id": 3487830789699846000,
@@ -148,7 +148,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:18.873Z"
+      "fetched_at": "2026-05-14T15:29:01.214Z"
     },
     {
       "id": 3486384250803219000,
@@ -169,7 +169,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:14.381Z"
+      "fetched_at": "2026-05-14T15:28:57.292Z"
     },
     {
       "id": 3489239368071329000,
@@ -190,7 +190,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:14.381Z"
+      "fetched_at": "2026-05-14T15:28:57.292Z"
     },
     {
       "id": 3481936645449361000,
@@ -211,7 +211,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:17.448Z"
+      "fetched_at": "2026-05-14T15:28:59.876Z"
     },
     {
       "id": 3466011351443059700,
@@ -232,7 +232,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:17.448Z"
+      "fetched_at": "2026-05-14T15:28:59.876Z"
     },
     {
       "id": 3466011859093106700,
@@ -253,7 +253,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:17.448Z"
+      "fetched_at": "2026-05-14T15:28:59.876Z"
     },
     {
       "id": 3476630108573175000,
@@ -274,7 +274,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:23.520Z"
+      "fetched_at": "2026-05-14T15:29:05.547Z"
     },
     {
       "id": 3488832617530176000,
@@ -295,7 +295,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:14.381Z"
+      "fetched_at": "2026-05-14T15:28:57.292Z"
     },
     {
       "id": 3489243540158583000,
@@ -316,7 +316,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:14.381Z"
+      "fetched_at": "2026-05-14T15:28:57.292Z"
     },
     {
       "id": 3489246745020609500,
@@ -337,7 +337,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:14.381Z"
+      "fetched_at": "2026-05-14T15:28:57.292Z"
     },
     {
       "id": 3489270381004728300,
@@ -358,7 +358,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:17.448Z"
+      "fetched_at": "2026-05-14T15:28:59.876Z"
     },
     {
       "id": 3436640998592377000,
@@ -379,7 +379,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:23.520Z"
+      "fetched_at": "2026-05-14T15:29:05.547Z"
     },
     {
       "id": 3482314965869216300,
@@ -400,7 +400,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:19.449Z"
+      "fetched_at": "2026-05-14T15:29:01.735Z"
     },
     {
       "id": 3425187862968180000,
@@ -421,7 +421,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:19.449Z"
+      "fetched_at": "2026-05-14T15:29:01.735Z"
     },
     {
       "id": 3489551601471613400,
@@ -442,7 +442,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:17.448Z"
+      "fetched_at": "2026-05-14T15:28:59.876Z"
     },
     {
       "id": 3488933799502066700,
@@ -463,7 +463,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:17.448Z"
+      "fetched_at": "2026-05-14T15:28:59.876Z"
     },
     {
       "id": 3488833378240840700,
@@ -484,7 +484,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:17.448Z"
+      "fetched_at": "2026-05-14T15:28:59.876Z"
     },
     {
       "id": 3482382006930789400,
@@ -505,7 +505,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:19.449Z"
+      "fetched_at": "2026-05-14T15:29:01.735Z"
     },
     {
       "id": 2166645,
@@ -526,7 +526,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:19.449Z"
+      "fetched_at": "2026-05-14T15:29:01.735Z"
     },
     {
       "id": 3425188804025399300,
@@ -547,7 +547,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:19.449Z"
+      "fetched_at": "2026-05-14T15:29:01.735Z"
     },
     {
       "id": 2166682,
@@ -568,7 +568,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-14T15:23:19.449Z"
+      "fetched_at": "2026-05-14T15:29:01.735Z"
     }
   ]
 }
