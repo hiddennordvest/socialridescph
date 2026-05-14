@@ -1,0 +1,30 @@
+name: Update rides
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # every night at 3am UTC (5am Copenhagen time)
+  workflow_dispatch:       # also allows manual trigger
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch rides from Strava
+        run: node fetch-rides.js
+
+      - name: Scrape rides from rundedrehen.de
+        run: node scrape-rundedrehen.js
+
+      - name: Commit updated rides.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add rides.json
+          git diff --staged --quiet || git commit -m "Update rides $(date -u +%Y-%m-%d)"
+          git push
