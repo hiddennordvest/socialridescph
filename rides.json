@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-15T06:30:16.597Z",
-  "total_rides": 33,
+  "generated_at": "2026-05-16T05:50:28.296Z",
+  "total_rides": 34,
   "rides": [
     {
       "id": 3485951363319653400,
-      "title": "Social Ride - Gravel 80 km | Nordic Chase 2026",
+      "title": "Social Ride - Gravel 90 km | Nordic Chase 2026",
       "source": "strava",
       "club": {
         "id": 1383419,
@@ -17,13 +17,13 @@
         "2026-05-16T06:30:00Z"
       ],
       "location": null,
-      "description": "🚴‍♂️ Nordic Chase: Gravel Social Ride (80 km)\nJoin us for a Social Ride in the spirit of the legendary Nordic Chase! We’re heading out to tackle the first 40 km of the official Copenhagen-to-Oslo Gravel Edition route, then looping back for a well-deserved caffeine fix.\n\nThis is a social ride, but we’ll be moving at a steady pace to keep things spicy. Expect a morning of prime gravel, good company, and great coffee.\n\n📍 The Details\n- GRAVEL RIDE\n- When: Saturday, May 16th\n- Meetup: 08:25 AM\n- Roll-out: 08:30 AM Sharp ⏱️\n- Start Point: GoNordic Cruiseline HQ (Official Race Start)\n- Distance: ~80 km\n- Pace: 27–28 km/h (approx. 3 hours of riding)\n- Finish: ~12:00 PM at Kliché Værksted (Islands Brygge) for coffee and post-ride chats.\n\n🛠️ What You Need to Know\n\nGroup Size: Limited to 20 riders. We will split into smaller groups on the road to ensure safety.\n\nPlease bring:\n- Enough water and snacks to fuel 3 hours of effort.\n- A flat kit in case of punctures.\n\n⚠️ Note: Please ensure you have the route downloaded to your head unit.\n\nWeather Policy: We’re here for the fun, not the suffer-fest. If it rains, the event is cancelled. Check this event page at 07:00 AM on the day for the final go/no-go.\n\n🗺️ The Route\nWe follow the official Nordic Chase Gravel Edition outbound for 40 km before turning back toward the city.\n\nReady to chase? Hit 'Going' to secure your spot—first come, first served!",
+      "description": "🚴‍♂️ Nordic Chase: Gravel Social Ride (90 km)\nJoin us for a Social Ride in the spirit of the legendary Nordic Chase! We’re heading out to tackle the first 40 km of the official Copenhagen-to-Oslo Gravel Edition route, then looping back for a well-deserved caffeine fix.\n\nThis is a social ride, but we’ll be moving at a steady pace to keep things spicy. Expect a morning of prime gravel, good company, and great coffee.\n\n📍 The Details\n- GRAVEL RIDE\n- When: Saturday, May 16th\n- Meetup: 08:25 AM\n- Roll-out: 08:30 AM Sharp ⏱️\n- Start Point: GoNordic Cruiseline HQ (Official Race Start)\n- Distance: ~90 km\n- Pace: 27–28 km/h (approx. 3.5 hours of riding)\n- Finish: ~12:30 PM at Kliché Værksted (Islands Brygge) for coffee and food.\n\n🛠️ What You Need to Know\n\nGroup Size: Limited to 20 riders. We will split into smaller groups on the road to ensure safety.\n\nPlease bring:\n- Enough water and snacks to fuel 3 hours of effort.\n- A flat kit in case of punctures.\n\n⚠️ Note: Please ensure you have the route downloaded to your head unit.\n\nWeather Policy: We’re here for the fun, not the suffer-fest. If it rains, the event is cancelled. Check this event page at 07:00 AM on the day for the final go/no-go.\n\n🗺️ The Route\nWe follow the official Nordic Chase Gravel Edition outbound for 40 km before turning back toward the city.\n\nReady to chase? Hit 'Going' to secure your spot—first come, first served!",
       "activity_type": "Ride",
-      "route_id": 3485375022220524000,
+      "route_id": 3490367026655626000,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:10.317Z"
+      "fetched_at": "2026-05-16T05:50:22.115Z"
     },
     {
       "id": 3487681984273707500,
@@ -46,7 +46,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:15.009Z"
+      "fetched_at": "2026-05-16T05:50:26.038Z"
     },
     {
       "id": 3466012401428104000,
@@ -69,7 +69,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:08.081Z"
+      "fetched_at": "2026-05-16T05:50:19.996Z"
     },
     {
       "id": 3487830789699846000,
@@ -92,7 +92,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:09.393Z"
+      "fetched_at": "2026-05-16T05:50:21.414Z"
     },
     {
       "id": 3481936645449361000,
@@ -115,7 +115,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:08.081Z"
+      "fetched_at": "2026-05-16T05:50:19.997Z"
     },
     {
       "id": 3466011351443059700,
@@ -138,7 +138,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:08.081Z"
+      "fetched_at": "2026-05-16T05:50:19.997Z"
     },
     {
       "id": 3466011859093106700,
@@ -161,7 +161,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:08.081Z"
+      "fetched_at": "2026-05-16T05:50:19.997Z"
     },
     {
       "id": 3476630108573175000,
@@ -184,7 +184,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:15.009Z"
+      "fetched_at": "2026-05-16T05:50:26.038Z"
     },
     {
       "id": 3479419016960838700,
@@ -207,7 +207,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:12.372Z"
+      "fetched_at": "2026-05-16T05:50:23.600Z"
     },
     {
       "id": 3479417034516131000,
@@ -230,7 +230,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:12.372Z"
+      "fetched_at": "2026-05-16T05:50:23.600Z"
     },
     {
       "id": 3479417783254889500,
@@ -253,7 +253,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:12.372Z"
+      "fetched_at": "2026-05-16T05:50:23.600Z"
     },
     {
       "id": 3479419395551435000,
@@ -276,7 +276,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:12.372Z"
+      "fetched_at": "2026-05-16T05:50:23.600Z"
     },
     {
       "id": "hybridsocial-g3o4ngna",
@@ -296,7 +296,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-15T06:30:16.596Z"
+      "fetched_at": "2026-05-16T05:50:28.295Z"
     },
     {
       "id": "hybridsocial-ywxnkyrt",
@@ -316,7 +316,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-15T06:30:16.597Z"
+      "fetched_at": "2026-05-16T05:50:28.295Z"
     },
     {
       "id": 3489270381004728300,
@@ -339,7 +339,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:08.081Z"
+      "fetched_at": "2026-05-16T05:50:19.997Z"
     },
     {
       "id": "hybridsocial-zsa57wfd",
@@ -359,7 +359,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-15T06:30:16.597Z"
+      "fetched_at": "2026-05-16T05:50:28.295Z"
     },
     {
       "id": "hybridsocial-aoww3mib",
@@ -379,7 +379,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-15T06:30:16.597Z"
+      "fetched_at": "2026-05-16T05:50:28.295Z"
     },
     {
       "id": 3436640998592377000,
@@ -402,7 +402,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:15.009Z"
+      "fetched_at": "2026-05-16T05:50:26.038Z"
     },
     {
       "id": 3482314965869216300,
@@ -425,7 +425,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:10.317Z"
+      "fetched_at": "2026-05-16T05:50:22.115Z"
     },
     {
       "id": 3425187862968180000,
@@ -448,7 +448,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:10.317Z"
+      "fetched_at": "2026-05-16T05:50:22.115Z"
     },
     {
       "id": 3489551601471613400,
@@ -471,7 +471,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:08.081Z"
+      "fetched_at": "2026-05-16T05:50:19.997Z"
     },
     {
       "id": 3488933799502066700,
@@ -494,7 +494,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:08.081Z"
+      "fetched_at": "2026-05-16T05:50:19.997Z"
     },
     {
       "id": "hybridsocial-gmyvzvb5",
@@ -514,7 +514,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-15T06:30:16.597Z"
+      "fetched_at": "2026-05-16T05:50:28.295Z"
     },
     {
       "id": 3488833378240840700,
@@ -537,7 +537,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:08.081Z"
+      "fetched_at": "2026-05-16T05:50:19.997Z"
     },
     {
       "id": "hybridsocial-hgmmh1pb",
@@ -557,7 +557,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-15T06:30:16.597Z"
+      "fetched_at": "2026-05-16T05:50:28.295Z"
     },
     {
       "id": "hybridsocial-rvq5nxml",
@@ -577,7 +577,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-15T06:30:16.597Z"
+      "fetched_at": "2026-05-16T05:50:28.295Z"
     },
     {
       "id": 3482382006930789400,
@@ -600,7 +600,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:10.317Z"
+      "fetched_at": "2026-05-16T05:50:22.115Z"
     },
     {
       "id": 2166645,
@@ -623,7 +623,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:10.317Z"
+      "fetched_at": "2026-05-16T05:50:22.115Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -643,7 +643,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-15T06:30:16.597Z"
+      "fetched_at": "2026-05-16T05:50:28.295Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -663,7 +663,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-15T06:30:16.597Z"
+      "fetched_at": "2026-05-16T05:50:28.295Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -683,7 +683,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-15T06:30:16.597Z"
+      "fetched_at": "2026-05-16T05:50:28.295Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -703,7 +703,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-15T06:30:16.597Z"
+      "fetched_at": "2026-05-16T05:50:28.295Z"
     },
     {
       "id": 3425188804025399300,
@@ -726,7 +726,30 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-15T06:30:10.317Z"
+      "fetched_at": "2026-05-16T05:50:22.115Z"
+    },
+    {
+      "id": 2166682,
+      "title": "Copenhagen to Oslo - Gravel Edition - Part of Nordic Chase 2026 (Ultra Cycling Series)",
+      "source": "strava",
+      "club": {
+        "id": 1383419,
+        "name": "Nordic Chase",
+        "strava_url": "https://www.strava.com/clubs/1383419"
+      },
+      "event_url": "https://www.strava.com/clubs/1383419/group_events/2166682",
+      "date": "2026-08-14T05:00:00Z",
+      "upcoming_dates": [
+        "2026-08-14T05:00:00Z"
+      ],
+      "location": null,
+      "description": "🌲 Nordic Chase – Gravel Edition 2026 🚴‍♀️\nCopenhagen → Oslo | Self-Supported Ultra-Distance Race\n\nThe Nordic Chase returns in 2026!\n\nThis Strava event is for the Gravel Edition, taking riders on a wild and scenic journey from Copenhagen to Oslo, crossing Denmark, Sweden, and Norway through remote gravel paths, dense forests, serene meadows, and untouched Nordic wilderness.\n\n🔘 Official Dotwatcher.cc event\n📍 Live tracking via FollowMyChallenge.com\n\n🌍 Full route details and event schedule will be posted on:\n👉 www.nordicchase.com/gravel\n\nRegistrations are now full — we’ve reached our limit of 100 riders.\n\nFor more information, please visit www.nordicchase.com or contact us at info@nordicchase.com\n\nPlease note that the final route and exact start location will be provided in the race manual.\n\nThe race manual will be shared by email with all registered participants. The race manual is scheduled for release on July 23rd, 2026.",
+      "activity_type": "Ride",
+      "route_id": 3418641720520500000,
+      "women_only": false,
+      "skill_levels": 4,
+      "terrain": [],
+      "fetched_at": "2026-05-16T05:50:22.115Z"
     }
   ]
 }
