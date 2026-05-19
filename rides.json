@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-05-18T06:53:12.769Z",
-  "total_rides": 33,
+  "generated_at": "2026-05-19T06:44:31.976Z",
+  "total_rides": 34,
   "rides": [
-    {
-      "id": 3481936645449361000,
-      "title": "Women's Social Ride x Pizza ",
-      "source": "strava",
-      "club": {
-        "id": 1048788,
-        "name": "Pas Normal Studios Copenhagen",
-        "strava_url": "https://www.strava.com/clubs/1048788"
-      },
-      "event_url": "https://www.strava.com/clubs/1048788/group_events/3481936645449361000",
-      "date": "2026-05-18T15:00:00Z",
-      "upcoming_dates": [
-        "2026-05-18T15:00:00Z"
-      ],
-      "location": null,
-      "description": "Join us for a Women's Social Ride and Pizza in the store after the ride. We will ride together all the way and change taking turns at the front along the route. We will clearly go through how to ride in a group and which signals we are using before heading out, if anyone is new. We expect you have click pedals, are capable of sitting on someone's wheel, and can handle your bike safely. Please make sure to download the route to your cycling computer, or ask the store staff or rideleader for help in advance.\n\nIt cost 100 DKK, if you wan't to join for Pizza in the store after the ride. You can pay at the desk before heading out on the ride. It is possible to leave a bag in the store. If you have any questions always reach out to our rideleaders or come by the store.\nLooking forward to see you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 17.00\nStart time: 17.15\nDistance: 55 km +/-\nPace: 26-28 km/h +/-\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event. If you have any questions do not hesitate to contact us via copenhagen@pasnormalstudios.com\n#Socialride #Womensride\n",
-      "activity_type": "Ride",
-      "route_id": 3465993752143147000,
-      "women_only": true,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-05-18T06:53:05.141Z"
-    },
     {
       "id": 3491070950998892000,
       "title": "DIRTY TUESDAY | AMAGER SOCIAL | GRAVEL BEERS N BURGERS 🍔",
@@ -46,7 +23,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:10.758Z"
+      "fetched_at": "2026-05-19T06:44:30.554Z"
     },
     {
       "id": 3466011351443059700,
@@ -69,7 +46,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:05.141Z"
+      "fetched_at": "2026-05-19T06:44:24.804Z"
     },
     {
       "id": 3466011859093106700,
@@ -92,7 +69,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:05.141Z"
+      "fetched_at": "2026-05-19T06:44:24.804Z"
     },
     {
       "id": 3476630108573175000,
@@ -115,7 +92,30 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:10.758Z"
+      "fetched_at": "2026-05-19T06:44:30.554Z"
+    },
+    {
+      "id": 3491466997051888600,
+      "title": "Women's Social ",
+      "source": "strava",
+      "club": {
+        "id": 120055,
+        "name": "Rapha Cycle Club Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/120055"
+      },
+      "event_url": "https://www.strava.com/clubs/120055/group_events/3491466997051888600",
+      "date": "2026-05-21T15:00:00Z",
+      "upcoming_dates": [
+        "2026-05-21T15:00:00Z"
+      ],
+      "location": null,
+      "description": "Join us on May21st  for this Women’s Social ride led by our Rapha Ride Leaders; Lola and Olivia.\n\nIf you’re looking for a relaxed ride at a conversation pace then this ride is for you. These rides will take place with an average speed of 24-26kmh over a lap of Amager.\n\nPlease ensure you have knowledge of the common hand and voice signals before joining.\n\nPlease remember to bring inner tubes, CO2 cartridges, water and snacks for the ride. Please also download the route onto your computer in advance.\n\nMeet-up: 17:00 at the Rapha Copenhagen Clubhouse (Kristen Bernikows Gade 7)\nDeparture: 17:15\nPace: 24-26kmh\n\nWe look forward to riding with you!\n\nIf you can no longer join this ride, we kindly ask you to leave the ride on Strava so we can open your spot up to the next rider.",
+      "activity_type": "Ride",
+      "route_id": 3385226983193510400,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-05-19T06:44:26.207Z"
     },
     {
       "id": 3479419016960838700,
@@ -138,7 +138,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:08.233Z"
+      "fetched_at": "2026-05-19T06:44:27.972Z"
     },
     {
       "id": 3479417034516131000,
@@ -161,7 +161,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:08.233Z"
+      "fetched_at": "2026-05-19T06:44:27.972Z"
     },
     {
       "id": 3479417783254889500,
@@ -184,7 +184,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:08.233Z"
+      "fetched_at": "2026-05-19T06:44:27.972Z"
     },
     {
       "id": 3479419395551435000,
@@ -207,7 +207,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:08.233Z"
+      "fetched_at": "2026-05-19T06:44:27.972Z"
     },
     {
       "id": "hybridsocial-g3o4ngna",
@@ -227,7 +227,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-18T06:53:12.768Z"
+      "fetched_at": "2026-05-19T06:44:31.975Z"
     },
     {
       "id": "hybridsocial-ywxnkyrt",
@@ -247,7 +247,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-18T06:53:12.769Z"
+      "fetched_at": "2026-05-19T06:44:31.975Z"
     },
     {
       "id": 3489270381004728300,
@@ -259,18 +259,18 @@
         "strava_url": "https://www.strava.com/clubs/1048788"
       },
       "event_url": "https://www.strava.com/clubs/1048788/group_events/3489270381004728300",
-      "date": "2026-05-29T14:00:00Z",
+      "date": "2026-05-29T16:00:00Z",
       "upcoming_dates": [
-        "2026-05-29T14:00:00Z"
+        "2026-05-29T16:00:00Z"
       ],
       "location": null,
-      "description": "SAVE THE DATE! \nMore information next week. Event for both runners and bikers! ",
+      "description": "ONLY ON INVITE OR DM SIGN-UPS. \nSpots for 10 teams in total. Sign-up in pairs either 2 runners or 2 riders to ck.cph@pasnormalstudios.com \n\nJoin us for a run and ride relay to celebrate the launch of our collaboration with Salomon. You can either join as a part of a team, or join us for cheering.\n\nJOIN THE OPEN CHEERING ZONE, \nWe encourage everyone to come and cheer to support the race. There will be music, snacks and drinks. You will be able to leave your belongings at the cheering zone. We will arrange a bus going from the store to Hørsholm.  \n  \nCONCEPT: \n2 runners and 2 riders makes 1 team. The runners do a 2,4k loop and then send the riders off to a 4,5k loop twice. The fastest overall time takes the win. \nRunning loop: https://www.strava.com/routes/3491347760795930536 \nCycling loop:  https://www.strava.com/routes/3491347675385924520 \n\nTeams will be paired on the day. You can let us know if you have any wishes for the team pairing.\n\nBefore sending the teams off, we will do a recon of the loops. The course is not closed to the public, so please be aware of people on the route. \n\nPRACTICAL INFORMATION: \nMeet-up at the store (Århusgade 126): 16.00 \nEvent start at Hørsholm, Folehaven: 17.15 \nSmall snacks and drinks will be provided at the cheering zone at Hørsholm. \n\nA bus will take the runners to the spot at 16.15 and everyone else who wants to come and cheer. Everyone joining on bike, will ride together up there.  \n\nIf you have any questions, please reach out to ck.cph@pasnormalstudios.com ",
       "activity_type": "Workout",
       "route_id": null,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:05.141Z"
+      "fetched_at": "2026-05-19T06:44:24.804Z"
     },
     {
       "id": 3491090958405896000,
@@ -293,7 +293,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:10.758Z"
+      "fetched_at": "2026-05-19T06:44:30.554Z"
     },
     {
       "id": "hybridsocial-zsa57wfd",
@@ -313,7 +313,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-18T06:53:12.769Z"
+      "fetched_at": "2026-05-19T06:44:31.975Z"
     },
     {
       "id": "hybridsocial-aoww3mib",
@@ -333,7 +333,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-18T06:53:12.769Z"
+      "fetched_at": "2026-05-19T06:44:31.975Z"
     },
     {
       "id": 3436640998592377000,
@@ -356,7 +356,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:10.758Z"
+      "fetched_at": "2026-05-19T06:44:30.554Z"
     },
     {
       "id": 3482314965869216300,
@@ -379,7 +379,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:07.178Z"
+      "fetched_at": "2026-05-19T06:44:26.719Z"
     },
     {
       "id": 3425187862968180000,
@@ -402,7 +402,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:07.178Z"
+      "fetched_at": "2026-05-19T06:44:26.720Z"
     },
     {
       "id": 3491096617069993500,
@@ -425,7 +425,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:10.758Z"
+      "fetched_at": "2026-05-19T06:44:30.554Z"
     },
     {
       "id": 3489551601471613400,
@@ -448,7 +448,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:05.141Z"
+      "fetched_at": "2026-05-19T06:44:24.804Z"
     },
     {
       "id": 3488933799502066700,
@@ -471,7 +471,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:05.141Z"
+      "fetched_at": "2026-05-19T06:44:24.804Z"
     },
     {
       "id": "hybridsocial-gmyvzvb5",
@@ -491,7 +491,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-18T06:53:12.769Z"
+      "fetched_at": "2026-05-19T06:44:31.975Z"
     },
     {
       "id": 3488833378240840700,
@@ -514,7 +514,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:05.141Z"
+      "fetched_at": "2026-05-19T06:44:24.804Z"
     },
     {
       "id": "hybridsocial-hgmmh1pb",
@@ -534,7 +534,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-18T06:53:12.769Z"
+      "fetched_at": "2026-05-19T06:44:31.975Z"
     },
     {
       "id": "hybridsocial-rvq5nxml",
@@ -554,7 +554,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-18T06:53:12.769Z"
+      "fetched_at": "2026-05-19T06:44:31.975Z"
     },
     {
       "id": 3482382006930789400,
@@ -577,7 +577,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:07.178Z"
+      "fetched_at": "2026-05-19T06:44:26.720Z"
     },
     {
       "id": 2166645,
@@ -600,7 +600,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:07.178Z"
+      "fetched_at": "2026-05-19T06:44:26.720Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -620,7 +620,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-18T06:53:12.769Z"
+      "fetched_at": "2026-05-19T06:44:31.975Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -640,7 +640,30 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-18T06:53:12.769Z"
+      "fetched_at": "2026-05-19T06:44:31.975Z"
+    },
+    {
+      "id": 3481936645449361000,
+      "title": "Women's Social Ride x Pizza",
+      "source": "strava",
+      "club": {
+        "id": 1048788,
+        "name": "Pas Normal Studios Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/1048788"
+      },
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3481936645449361000",
+      "date": "2026-06-29T15:00:00Z",
+      "upcoming_dates": [
+        "2026-06-29T15:00:00Z"
+      ],
+      "location": null,
+      "description": "Join us for a Women's Social Ride and Pizza in the store after the ride. We will ride together all the way and change taking turns at the front along the route. We will clearly go through how to ride in a group and which signals we are using before heading out, if anyone is new. We expect you have click pedals, are capable of sitting on someone's wheel, and can handle your bike safely. Please make sure to download the route to your cycling computer, or ask the store staff or rideleader for help in advance.\n\nIt cost 100 DKK, if you wan't to join for Pizza in the store after the ride. You can pay at the desk before heading out on the ride. It is possible to leave a bag in the store. If you have any questions always reach out to our rideleaders or come by the store.\nLooking forward to see you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 17.00\nStart time: 17.15\nDistance: 55 km +/-\nPace: 26-28 km/h +/-\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event. If you have any questions do not hesitate to contact us via copenhagen@pasnormalstudios.com\n#Socialride #Womensride\n",
+      "activity_type": "Ride",
+      "route_id": 3465993752143147000,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-05-19T06:44:24.804Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -660,7 +683,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-18T06:53:12.769Z"
+      "fetched_at": "2026-05-19T06:44:31.975Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -680,7 +703,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-18T06:53:12.769Z"
+      "fetched_at": "2026-05-19T06:44:31.975Z"
     },
     {
       "id": 3425188804025399300,
@@ -703,7 +726,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:07.178Z"
+      "fetched_at": "2026-05-19T06:44:26.720Z"
     },
     {
       "id": 2166682,
@@ -726,7 +749,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-18T06:53:07.178Z"
+      "fetched_at": "2026-05-19T06:44:26.720Z"
     }
   ]
 }
