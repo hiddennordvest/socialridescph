@@ -1,33 +1,10 @@
 {
-  "generated_at": "2026-05-19T06:44:31.976Z",
-  "total_rides": 34,
+  "generated_at": "2026-05-20T06:45:43.647Z",
+  "total_rides": 33,
   "rides": [
     {
-      "id": 3491070950998892000,
-      "title": "DIRTY TUESDAY | AMAGER SOCIAL | GRAVEL BEERS N BURGERS 🍔",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3491070950998892000",
-      "date": "2026-05-19T15:20:00Z",
-      "upcoming_dates": [
-        "2026-05-19T15:20:00Z"
-      ],
-      "location": null,
-      "description": "Hey all,\n\nJoin our Dirty Tuesday gravel training in and around Amager with a new weekly route.\n\nWhat to expect:\nWarm up, hill sprint at km 3, vo2 sprints at km 16-18 and 33-34.\n\nDetails:\nMeet up 17:20 - Roll out 17:30\nTempo 24-25 - Distance 50km +/-\n2 flats on the house (find your own way)\nRemember plugs, Co2 & energy.\nWe ride in 10-12 pax groups in same tempo.\nCancellation protocol: < 5 riders & heavy rain \n\nWe look forward to riding dirt with you and wrap it up with beer & burgers at our favourite hangout spot - Bootleggers.\n\nTeam Dirty Tuesday ",
-      "activity_type": "Ride",
-      "route_id": 3491065746711289300,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-05-19T06:44:30.554Z"
-    },
-    {
       "id": 3466011351443059700,
-      "title": "Women's Training Ride ",
+      "title": "Women's Training Ride",
       "source": "strava",
       "club": {
         "id": 1048788,
@@ -40,13 +17,13 @@
         "2026-05-20T15:00:00Z"
       ],
       "location": null,
-      "description": "Join us for our Women’s Training Ride — a challenging group session designed to push your limits alongside dedicated women. We'll ride intervals on different loops, and always regrouping afterwards to return to the city together. During transport we’ll ride as a one group, rotating turns at the front. Riders should be comfortable with group riding and familiar with standard hand and vocal signals. If you have a puncture or mechanical issue, we expect you have the route downloaded and will to rejoin the group on your own. We encourage doing intervals in smaller groups when appropriate.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 17.00\nStart time: 17.15\nDistance: 70 +/-\nPace: 30 km/h +/-\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#TrainingRide #WomensRide",
+      "description": "Join us for our Women’s Training Ride — a challenging group session designed to push your limits alongside dedicated women. We'll ride intervals on different loops, and always regrouping afterwards to return to the city together. During transport we’ll ride as a one group, rotating turns at the front. Riders should be comfortable with group riding and familiar with standard hand and vocal signals. If you have a puncture or mechanical issue, we expect you have the route downloaded and will to rejoin the group on your own. We encourage doing intervals in smaller groups when appropriate.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 17.00\nStart time: 17.15\nDistance: 70 +/-\nPace: 30 km/h +/-\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n #WomensRide",
       "activity_type": "Ride",
       "route_id": 3395064997204133400,
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:24.804Z"
+      "fetched_at": "2026-05-20T06:45:33.548Z"
     },
     {
       "id": 3466011859093106700,
@@ -69,7 +46,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:24.804Z"
+      "fetched_at": "2026-05-20T06:45:33.549Z"
     },
     {
       "id": 3476630108573175000,
@@ -92,7 +69,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:30.554Z"
+      "fetched_at": "2026-05-20T06:45:40.348Z"
     },
     {
       "id": 3491466997051888600,
@@ -115,7 +92,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:26.207Z"
+      "fetched_at": "2026-05-20T06:45:35.178Z"
     },
     {
       "id": 3479419016960838700,
@@ -138,7 +115,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:27.972Z"
+      "fetched_at": "2026-05-20T06:45:37.348Z"
     },
     {
       "id": 3479417034516131000,
@@ -161,7 +138,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:27.972Z"
+      "fetched_at": "2026-05-20T06:45:37.348Z"
     },
     {
       "id": 3479417783254889500,
@@ -184,7 +161,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:27.972Z"
+      "fetched_at": "2026-05-20T06:45:37.348Z"
     },
     {
       "id": 3479419395551435000,
@@ -207,7 +184,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:27.972Z"
+      "fetched_at": "2026-05-20T06:45:37.348Z"
     },
     {
       "id": "hybridsocial-g3o4ngna",
@@ -227,7 +204,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-19T06:44:31.975Z"
+      "fetched_at": "2026-05-20T06:45:43.646Z"
     },
     {
       "id": "hybridsocial-ywxnkyrt",
@@ -247,11 +224,11 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-19T06:44:31.975Z"
+      "fetched_at": "2026-05-20T06:45:43.646Z"
     },
     {
       "id": 3489270381004728300,
-      "title": "Pas Normal Studios x Salomon RunRideRelay ",
+      "title": "Pas Normal Studios x Salomon RunRideRelay",
       "source": "strava",
       "club": {
         "id": 1048788,
@@ -266,11 +243,11 @@
       "location": null,
       "description": "ONLY ON INVITE OR DM SIGN-UPS. \nSpots for 10 teams in total. Sign-up in pairs either 2 runners or 2 riders to ck.cph@pasnormalstudios.com \n\nJoin us for a run and ride relay to celebrate the launch of our collaboration with Salomon. You can either join as a part of a team, or join us for cheering.\n\nJOIN THE OPEN CHEERING ZONE, \nWe encourage everyone to come and cheer to support the race. There will be music, snacks and drinks. You will be able to leave your belongings at the cheering zone. We will arrange a bus going from the store to Hørsholm.  \n  \nCONCEPT: \n2 runners and 2 riders makes 1 team. The runners do a 2,4k loop and then send the riders off to a 4,5k loop twice. The fastest overall time takes the win. \nRunning loop: https://www.strava.com/routes/3491347760795930536 \nCycling loop:  https://www.strava.com/routes/3491347675385924520 \n\nTeams will be paired on the day. You can let us know if you have any wishes for the team pairing.\n\nBefore sending the teams off, we will do a recon of the loops. The course is not closed to the public, so please be aware of people on the route. \n\nPRACTICAL INFORMATION: \nMeet-up at the store (Århusgade 126): 16.00 \nEvent start at Hørsholm, Folehaven: 17.15 \nSmall snacks and drinks will be provided at the cheering zone at Hørsholm. \n\nA bus will take the runners to the spot at 16.15 and everyone else who wants to come and cheer. Everyone joining on bike, will ride together up there.  \n\nIf you have any questions, please reach out to ck.cph@pasnormalstudios.com ",
       "activity_type": "Workout",
-      "route_id": null,
+      "route_id": 3491347906256735000,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:24.804Z"
+      "fetched_at": "2026-05-20T06:45:33.549Z"
     },
     {
       "id": 3491090958405896000,
@@ -293,7 +270,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:30.554Z"
+      "fetched_at": "2026-05-20T06:45:40.348Z"
     },
     {
       "id": "hybridsocial-zsa57wfd",
@@ -313,7 +290,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-19T06:44:31.975Z"
+      "fetched_at": "2026-05-20T06:45:43.646Z"
     },
     {
       "id": "hybridsocial-aoww3mib",
@@ -333,7 +310,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-19T06:44:31.975Z"
+      "fetched_at": "2026-05-20T06:45:43.646Z"
     },
     {
       "id": 3436640998592377000,
@@ -356,7 +333,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:30.554Z"
+      "fetched_at": "2026-05-20T06:45:40.348Z"
     },
     {
       "id": 3482314965869216300,
@@ -379,7 +356,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:26.719Z"
+      "fetched_at": "2026-05-20T06:45:35.863Z"
     },
     {
       "id": 3425187862968180000,
@@ -402,7 +379,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:26.720Z"
+      "fetched_at": "2026-05-20T06:45:35.863Z"
     },
     {
       "id": 3491096617069993500,
@@ -425,7 +402,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:30.554Z"
+      "fetched_at": "2026-05-20T06:45:40.348Z"
     },
     {
       "id": 3489551601471613400,
@@ -448,7 +425,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:24.804Z"
+      "fetched_at": "2026-05-20T06:45:33.549Z"
     },
     {
       "id": 3488933799502066700,
@@ -471,7 +448,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:24.804Z"
+      "fetched_at": "2026-05-20T06:45:33.549Z"
     },
     {
       "id": "hybridsocial-gmyvzvb5",
@@ -491,7 +468,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-19T06:44:31.975Z"
+      "fetched_at": "2026-05-20T06:45:43.646Z"
     },
     {
       "id": 3488833378240840700,
@@ -514,7 +491,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:24.804Z"
+      "fetched_at": "2026-05-20T06:45:33.549Z"
     },
     {
       "id": "hybridsocial-hgmmh1pb",
@@ -534,7 +511,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-19T06:44:31.975Z"
+      "fetched_at": "2026-05-20T06:45:43.646Z"
     },
     {
       "id": "hybridsocial-rvq5nxml",
@@ -554,7 +531,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-19T06:44:31.975Z"
+      "fetched_at": "2026-05-20T06:45:43.646Z"
     },
     {
       "id": 3482382006930789400,
@@ -577,7 +554,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:26.720Z"
+      "fetched_at": "2026-05-20T06:45:35.863Z"
     },
     {
       "id": 2166645,
@@ -600,7 +577,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:26.720Z"
+      "fetched_at": "2026-05-20T06:45:35.863Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -620,7 +597,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-19T06:44:31.975Z"
+      "fetched_at": "2026-05-20T06:45:43.646Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -640,7 +617,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-19T06:44:31.975Z"
+      "fetched_at": "2026-05-20T06:45:43.646Z"
     },
     {
       "id": 3481936645449361000,
@@ -663,7 +640,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:24.804Z"
+      "fetched_at": "2026-05-20T06:45:33.549Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -683,7 +660,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-19T06:44:31.975Z"
+      "fetched_at": "2026-05-20T06:45:43.646Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -703,7 +680,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-19T06:44:31.975Z"
+      "fetched_at": "2026-05-20T06:45:43.646Z"
     },
     {
       "id": 3425188804025399300,
@@ -726,7 +703,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:26.720Z"
+      "fetched_at": "2026-05-20T06:45:35.863Z"
     },
     {
       "id": 2166682,
@@ -749,7 +726,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-19T06:44:26.720Z"
+      "fetched_at": "2026-05-20T06:45:35.863Z"
     }
   ]
 }
