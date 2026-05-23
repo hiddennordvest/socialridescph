@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-05-22T06:45:46.664Z",
+  "generated_at": "2026-05-23T06:10:20.811Z",
   "total_rides": 30,
   "rides": [
-    {
-      "id": "hybridsocial-g3o4ngna",
-      "title": "Hybrid Social x Davinci Cykler — Social Ride",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/g3o4ngna",
-      "date": "2026-05-23",
-      "upcoming_dates": [
-        "2026-05-23"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
-    },
     {
       "id": "hybridsocial-ywxnkyrt",
       "title": "Hybrid Social Ride+ (Pace 27-29)",
@@ -40,7 +20,30 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
+      "fetched_at": "2026-05-23T06:10:20.811Z"
+    },
+    {
+      "id": 3428498322104233500,
+      "title": "Last prep before Dirty Sunday🔥",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3428498322104233500",
+      "date": "2026-05-26T15:20:00Z",
+      "upcoming_dates": [
+        "2026-05-26T15:20:00Z"
+      ],
+      "location": null,
+      "description": "Join us for our weekly women’s gravel\n\nThe ride will be a training ride with a steady pace. We will do intervals on Manglebjerg (2 loops) and a “mini race” at Chaussen at Dyrehaven (everything is optional) \n\nRemember to bring your light (minimum 1000lumen), snacks, spare parts and good vibes🫶🏻\n\n*****************************************\nMeeting point: Klubben aka Copenhagen Cycling Club\nMeet up: 17:20\nRoll-out: 17:30\nDistance: aprox. 60km\nPace: +/- 24-25 km/h\nSurface: gravel \n\nSee you for a fun training \n// Caroline & Julie",
+      "activity_type": "Ride",
+      "route_id": 3486114179545144000,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-05-23T06:10:18.522Z"
     },
     {
       "id": 3466011859093106700,
@@ -63,7 +66,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:38.828Z"
+      "fetched_at": "2026-05-23T06:10:12.951Z"
     },
     {
       "id": 3476630108573175000,
@@ -86,7 +89,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:44.207Z"
+      "fetched_at": "2026-05-23T06:10:18.522Z"
     },
     {
       "id": 3479419395551435000,
@@ -109,7 +112,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:41.585Z"
+      "fetched_at": "2026-05-23T06:10:16.013Z"
     },
     {
       "id": 3489270381004728300,
@@ -132,7 +135,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:38.828Z"
+      "fetched_at": "2026-05-23T06:10:12.951Z"
     },
     {
       "id": 3492093796034949000,
@@ -155,7 +158,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:40.588Z"
+      "fetched_at": "2026-05-23T06:10:14.790Z"
     },
     {
       "id": 3491090958405896000,
@@ -178,7 +181,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:44.207Z"
+      "fetched_at": "2026-05-23T06:10:18.522Z"
     },
     {
       "id": "hybridsocial-zsa57wfd",
@@ -198,7 +201,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
+      "fetched_at": "2026-05-23T06:10:20.811Z"
     },
     {
       "id": "hybridsocial-aoww3mib",
@@ -218,7 +221,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
+      "fetched_at": "2026-05-23T06:10:20.811Z"
     },
     {
       "id": 3436640998592377000,
@@ -241,7 +244,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:44.207Z"
+      "fetched_at": "2026-05-23T06:10:18.522Z"
     },
     {
       "id": 3482314965869216300,
@@ -264,7 +267,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:40.588Z"
+      "fetched_at": "2026-05-23T06:10:14.790Z"
     },
     {
       "id": 3425187862968180000,
@@ -287,7 +290,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:40.588Z"
+      "fetched_at": "2026-05-23T06:10:14.790Z"
     },
     {
       "id": 3491096617069993500,
@@ -310,7 +313,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:44.207Z"
+      "fetched_at": "2026-05-23T06:10:18.522Z"
     },
     {
       "id": 3489551601471613400,
@@ -333,7 +336,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:38.828Z"
+      "fetched_at": "2026-05-23T06:10:12.951Z"
     },
     {
       "id": 3488933799502066700,
@@ -356,7 +359,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:38.828Z"
+      "fetched_at": "2026-05-23T06:10:12.951Z"
     },
     {
       "id": "hybridsocial-gmyvzvb5",
@@ -376,7 +379,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
+      "fetched_at": "2026-05-23T06:10:20.811Z"
     },
     {
       "id": 3488833378240840700,
@@ -393,13 +396,13 @@
         "2026-06-12T07:30:00Z"
       ],
       "location": null,
-      "description": "Chasing Daylight with VELUX and PAS Racing during 3 Days of Design\n \nJoin our social design ride (65K) from the Pas Normal Studios location in Nordhavn.\n \nWe depart from Århusgade 126 at 9:30 am and return at 11:30 am for a cozy lunch bite cooked over an open fire.\n \nWe’ll split into two groups, and everyone is welcome, whether you ride a road or a gravel bike.\n\nSign up here - we look forward to seeing you!",
+      "description": "Chasing Daylight with VELUX and PAS Racing during 3 Days of Design\n \nJoin our social design ride (70K) from the Pas Normal Studios location in Nordhavn.\n \nWe depart from Århusgade 126 at 9:30 am and return at 11:30 am for a cozy lunch bite cooked over an open fire.\n \nWe’ll split into two groups, and everyone is welcome, whether you ride a road or a gravel bike.\n\nSign up here - we look forward to seeing you!",
       "activity_type": "Ride",
       "route_id": 3488818568703558000,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:38.828Z"
+      "fetched_at": "2026-05-23T06:10:12.951Z"
     },
     {
       "id": "hybridsocial-hgmmh1pb",
@@ -419,7 +422,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
+      "fetched_at": "2026-05-23T06:10:20.811Z"
     },
     {
       "id": "hybridsocial-rvq5nxml",
@@ -439,7 +442,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
+      "fetched_at": "2026-05-23T06:10:20.811Z"
     },
     {
       "id": 3482382006930789400,
@@ -462,7 +465,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:40.589Z"
+      "fetched_at": "2026-05-23T06:10:14.791Z"
     },
     {
       "id": 2166645,
@@ -485,7 +488,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:40.589Z"
+      "fetched_at": "2026-05-23T06:10:14.791Z"
     },
     {
       "id": "hybridsocial-ye9eh9r0",
@@ -505,7 +508,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
+      "fetched_at": "2026-05-23T06:10:20.811Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -525,7 +528,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
+      "fetched_at": "2026-05-23T06:10:20.811Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -545,7 +548,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
+      "fetched_at": "2026-05-23T06:10:20.811Z"
     },
     {
       "id": 3481936645449361000,
@@ -568,7 +571,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:38.828Z"
+      "fetched_at": "2026-05-23T06:10:12.951Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -588,7 +591,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
+      "fetched_at": "2026-05-23T06:10:20.811Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -608,7 +611,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-22T06:45:46.663Z"
+      "fetched_at": "2026-05-23T06:10:20.811Z"
     },
     {
       "id": 3425188804025399300,
@@ -631,7 +634,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:40.589Z"
+      "fetched_at": "2026-05-23T06:10:14.791Z"
     },
     {
       "id": 2166682,
@@ -654,7 +657,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-22T06:45:40.589Z"
+      "fetched_at": "2026-05-23T06:10:14.791Z"
     }
   ]
 }
