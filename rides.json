@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-05-25T07:11:20.163Z",
-  "total_rides": 31,
+  "generated_at": "2026-05-26T06:42:39.106Z",
+  "total_rides": 30,
   "rides": [
-    {
-      "id": "hybridsocial-ywxnkyrt",
-      "title": "Hybrid Social Ride+ (Pace 27-29)",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/ywxnkyrt",
-      "date": "2026-05-26",
-      "upcoming_dates": [
-        "2026-05-26"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-05-25T07:11:20.162Z"
-    },
     {
       "id": 3428498322104233500,
       "title": "Last prep before Dirty Sunday🔥",
@@ -43,7 +23,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:18.919Z"
+      "fetched_at": "2026-05-26T06:42:36.043Z"
     },
     {
       "id": 3493730299025324500,
@@ -66,7 +46,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:18.919Z"
+      "fetched_at": "2026-05-26T06:42:36.043Z"
     },
     {
       "id": 3466011859093106700,
@@ -89,7 +69,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:13.742Z"
+      "fetched_at": "2026-05-26T06:42:29.629Z"
     },
     {
       "id": 3476630108573175000,
@@ -112,7 +92,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:18.919Z"
+      "fetched_at": "2026-05-26T06:42:36.043Z"
     },
     {
       "id": 3479419395551435000,
@@ -135,7 +115,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:16.688Z"
+      "fetched_at": "2026-05-26T06:42:33.704Z"
     },
     {
       "id": 3489270381004728300,
@@ -158,7 +138,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:13.742Z"
+      "fetched_at": "2026-05-26T06:42:29.629Z"
     },
     {
       "id": 3492093796034949000,
@@ -181,7 +161,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:15.627Z"
+      "fetched_at": "2026-05-26T06:42:31.739Z"
     },
     {
       "id": 3491090958405896000,
@@ -204,7 +184,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:18.919Z"
+      "fetched_at": "2026-05-26T06:42:36.043Z"
     },
     {
       "id": "hybridsocial-zsa57wfd",
@@ -224,7 +204,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-25T07:11:20.162Z"
+      "fetched_at": "2026-05-26T06:42:39.106Z"
     },
     {
       "id": "hybridsocial-aoww3mib",
@@ -244,7 +224,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-25T07:11:20.162Z"
+      "fetched_at": "2026-05-26T06:42:39.106Z"
     },
     {
       "id": 3436640998592377000,
@@ -267,7 +247,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:18.919Z"
+      "fetched_at": "2026-05-26T06:42:36.043Z"
     },
     {
       "id": 3482314965869216300,
@@ -290,7 +270,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:15.627Z"
+      "fetched_at": "2026-05-26T06:42:31.739Z"
     },
     {
       "id": 3425187862968180000,
@@ -313,7 +293,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:15.627Z"
+      "fetched_at": "2026-05-26T06:42:31.739Z"
     },
     {
       "id": 3491096617069993500,
@@ -336,7 +316,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:18.919Z"
+      "fetched_at": "2026-05-26T06:42:36.043Z"
     },
     {
       "id": 3489551601471613400,
@@ -359,7 +339,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:13.742Z"
+      "fetched_at": "2026-05-26T06:42:29.629Z"
     },
     {
       "id": 3488933799502066700,
@@ -382,7 +362,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:13.742Z"
+      "fetched_at": "2026-05-26T06:42:29.629Z"
     },
     {
       "id": "hybridsocial-gmyvzvb5",
@@ -402,7 +382,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-25T07:11:20.162Z"
+      "fetched_at": "2026-05-26T06:42:39.106Z"
     },
     {
       "id": 3488833378240840700,
@@ -425,7 +405,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:13.742Z"
+      "fetched_at": "2026-05-26T06:42:29.629Z"
     },
     {
       "id": "hybridsocial-hgmmh1pb",
@@ -445,7 +425,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-25T07:11:20.162Z"
+      "fetched_at": "2026-05-26T06:42:39.106Z"
     },
     {
       "id": "hybridsocial-rvq5nxml",
@@ -465,7 +445,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-25T07:11:20.162Z"
+      "fetched_at": "2026-05-26T06:42:39.106Z"
     },
     {
       "id": 3482382006930789400,
@@ -488,7 +468,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:15.627Z"
+      "fetched_at": "2026-05-26T06:42:31.739Z"
     },
     {
       "id": 2166645,
@@ -511,7 +491,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:15.627Z"
+      "fetched_at": "2026-05-26T06:42:31.739Z"
     },
     {
       "id": "hybridsocial-ye9eh9r0",
@@ -531,7 +511,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-25T07:11:20.162Z"
+      "fetched_at": "2026-05-26T06:42:39.106Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -551,7 +531,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-25T07:11:20.162Z"
+      "fetched_at": "2026-05-26T06:42:39.106Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -571,7 +551,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-25T07:11:20.162Z"
+      "fetched_at": "2026-05-26T06:42:39.106Z"
     },
     {
       "id": 3481936645449361000,
@@ -594,7 +574,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:13.742Z"
+      "fetched_at": "2026-05-26T06:42:29.629Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -614,7 +594,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-25T07:11:20.162Z"
+      "fetched_at": "2026-05-26T06:42:39.106Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -634,7 +614,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-25T07:11:20.162Z"
+      "fetched_at": "2026-05-26T06:42:39.106Z"
     },
     {
       "id": 3425188804025399300,
@@ -657,7 +637,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:15.627Z"
+      "fetched_at": "2026-05-26T06:42:31.739Z"
     },
     {
       "id": 2166682,
@@ -680,7 +660,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-25T07:11:15.627Z"
+      "fetched_at": "2026-05-26T06:42:31.739Z"
     }
   ]
 }
