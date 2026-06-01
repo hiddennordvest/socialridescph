@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-05-31T06:55:45.594Z",
-  "total_rides": 26,
+  "generated_at": "2026-06-01T08:31:22.479Z",
+  "total_rides": 25,
   "rides": [
-    {
-      "id": 3436640998592377000,
-      "title": "DIRTY SUNDAY ",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3436640998592377000",
-      "date": "2026-05-31T07:00:00Z",
-      "upcoming_dates": [
-        "2026-05-31T07:00:00Z"
-      ],
-      "location": null,
-      "description": "Dirty Sunday – Gravel in Northern Zealand\nDistance: 80 or 130 km - (Early Bird until 15.01.2026)\n\nDirty Sunday offers the perfect gravel route in Northern Zealand, featuring wide gravel roads, deep woodland sections, and rolling farm tracks. We welcome all riders — from the fast boys and girls chasing the front to those here to enjoy the scenery and maybe spend a little extra time at the midway shooting range for a chance to win one of the day’s prizes.\n\nWe once again invite you to a full-scale gravel celebration. Starting from Teglovnen Nordsjælland, we have everything we need to create a true festival atmosphere around one of Zealand’s biggest gravel events.\n\nWe’ve put a lot of effort into designing a safe and well-marked route with route marshals at key points, traffic officials, and barriers where needed.\n\nProfessional photographers will be on course to capture the energy before, during, and after the race.\n\nBefore the race: Free coffee for everyone.\n\nAfter the race: Food from the grill, beer from a Danish brewery, ice cream, and all the cake and coffee you can consume.\n\n🥃🎯 Whiskey & Gun Range Gravel\nAt km 90, you get the chance to take home the biggest prizes of the day.\nHit the bullseye and grab a whiskey shot on your way back to the finish 🤠\n\nRead more about the race here: https://www.sportstiming.dk/event/17257",
-      "activity_type": "Ride",
-      "route_id": null,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-05-31T06:55:43.636Z"
-    },
     {
       "id": 3494284811639793700,
       "title": "Women's Social Ride ",
@@ -46,7 +23,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:36.548Z"
+      "fetched_at": "2026-06-01T08:31:12.726Z"
     },
     {
       "id": 3495453632485885400,
@@ -69,7 +46,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:43.636Z"
+      "fetched_at": "2026-06-01T08:31:19.025Z"
     },
     {
       "id": 3428498322104233500,
@@ -92,7 +69,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:43.636Z"
+      "fetched_at": "2026-06-01T08:31:19.025Z"
     },
     {
       "id": 3466011859093106700,
@@ -115,7 +92,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:36.548Z"
+      "fetched_at": "2026-06-01T08:31:12.726Z"
     },
     {
       "id": 3479419395551435000,
@@ -138,7 +115,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:40.497Z"
+      "fetched_at": "2026-06-01T08:31:16.535Z"
     },
     {
       "id": 3482314965869216300,
@@ -161,7 +138,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:39.139Z"
+      "fetched_at": "2026-06-01T08:31:15.059Z"
     },
     {
       "id": 3425187862968180000,
@@ -180,11 +157,11 @@
       "location": null,
       "description": "The Nordic Chase is expanding!\nWe’re launching a brand-new race in 2026: Berlin → Copenhagen.\n\nFor this race we are partnering with Standert as host partner in Berlin.\n\nThe route takes riders through Germany and Denmark, passing historic towns, rolling farmland, dense forests, and scenic coastal roads — finishing in the Capital of Denmark.\n\n🔘 Official Dotwatcher.cc event\n📍 Live tracking via FollowMyChallenge.com\n\nRegistrations are open:\n👉 www.nordicchase.com\n(limited capacity at 100 riders)\n\nRegistration includes:\n1. Rider briefing and Pasta Party @Standert Bicycles (store in Berlin)\n2. Official Race Manual with the race details \n3. Race cap and other goodies\n4. Live GPS tracking\n5. Finisher Certificate\n6. Post-ride ceremony with drinks in Copenhagen\n7. Photos taken by our media team\n8. Entry to WhatsApp group chat to connect other riders\n9. Small bag transfer rom the start to the finish\n\nRegister on https://nordicchase.com/ber-cph-road\n\nQuestions, then email to info@nordicchase.com\n\nPlease note: The final route and exact start location in Berlin will be provided in the race manual. The current route is a draft and will be verified by the organizer. The manual will be emailed to all registered participants three weeks before the race.",
       "activity_type": "Ride",
-      "route_id": 3488455433474622000,
+      "route_id": 3496251504590126600,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:39.139Z"
+      "fetched_at": "2026-06-01T08:31:15.059Z"
     },
     {
       "id": 3495070579450201000,
@@ -207,7 +184,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:38.484Z"
+      "fetched_at": "2026-06-01T08:31:14.436Z"
     },
     {
       "id": 3491096617069993500,
@@ -230,7 +207,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:43.636Z"
+      "fetched_at": "2026-06-01T08:31:19.025Z"
     },
     {
       "id": 3489551601471613400,
@@ -253,7 +230,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:36.548Z"
+      "fetched_at": "2026-06-01T08:31:12.726Z"
     },
     {
       "id": 3488933799502066700,
@@ -276,7 +253,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:36.548Z"
+      "fetched_at": "2026-06-01T08:31:12.726Z"
     },
     {
       "id": "hybridsocial-gmyvzvb5",
@@ -296,7 +273,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-31T06:55:45.594Z"
+      "fetched_at": "2026-06-01T08:31:22.478Z"
     },
     {
       "id": 3488833378240840700,
@@ -319,7 +296,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:36.548Z"
+      "fetched_at": "2026-06-01T08:31:12.726Z"
     },
     {
       "id": "hybridsocial-hgmmh1pb",
@@ -339,7 +316,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-31T06:55:45.594Z"
+      "fetched_at": "2026-06-01T08:31:22.478Z"
     },
     {
       "id": "hybridsocial-rvq5nxml",
@@ -359,7 +336,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-31T06:55:45.594Z"
+      "fetched_at": "2026-06-01T08:31:22.479Z"
     },
     {
       "id": 3482382006930789400,
@@ -382,7 +359,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:39.140Z"
+      "fetched_at": "2026-06-01T08:31:15.059Z"
     },
     {
       "id": 2166645,
@@ -401,11 +378,11 @@
       "location": null,
       "description": "🌲 Nordic Chase – Road Edition 2026 🚴‍♀️\nCopenhagen → Oslo | Self-Supported Ultra-Distance Race\n\nThe Nordic Chase returns in 2026!\n\nThis Strava event is for the Road Edition, guiding riders on a wild and scenic journey from Copenhagen to Oslo, crossing Denmark, Sweden, and Norway through rolling hills, quiet roads, deep forests, and endless Nordic summer days.\n\n🔘 Official Dotwatcher.cc event\n📍 Live tracking via FollowMyChallenge.com\n\n🌍 Full route details and event schedule will be posted on:\n👉 www.nordicchase.com/road\n\nRegistrations are now full — we’ve reached our limit of 100 riders.\n\nFor more information, please visit www.nordicchase.com  or contact us at info@nordicchase.com\n\nPlease note that the final route and exact start location will be provided in the race manual.\n\nThe race manual will be shared by email with all registered participants. The race manual is scheduled for release on May 28th, 2026.",
       "activity_type": "Ride",
-      "route_id": 3418628693845621000,
+      "route_id": 3496251086966069000,
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:39.140Z"
+      "fetched_at": "2026-06-01T08:31:15.059Z"
     },
     {
       "id": "hybridsocial-ye9eh9r0",
@@ -425,7 +402,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-31T06:55:45.594Z"
+      "fetched_at": "2026-06-01T08:31:22.479Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -445,7 +422,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-31T06:55:45.594Z"
+      "fetched_at": "2026-06-01T08:31:22.479Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -465,7 +442,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-31T06:55:45.594Z"
+      "fetched_at": "2026-06-01T08:31:22.479Z"
     },
     {
       "id": 3481936645449361000,
@@ -488,7 +465,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:36.548Z"
+      "fetched_at": "2026-06-01T08:31:12.726Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -508,7 +485,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-31T06:55:45.594Z"
+      "fetched_at": "2026-06-01T08:31:22.479Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -528,7 +505,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-05-31T06:55:45.594Z"
+      "fetched_at": "2026-06-01T08:31:22.479Z"
     },
     {
       "id": 3425188804025399300,
@@ -547,11 +524,11 @@
       "location": null,
       "description": "The Nordic Chase is expanding!\nWe’re launching a brand-new race in 2026: Berlin → Copenhagen.\n\nFor this race we are partnering with Standert as host partner in Berlin.\n\nThis gravel route takes riders through Germany and Denmark, covering historic towns, rolling farmland, forests, and scenic gravel paths — finishing in the heart of Copenhagen.\n\n🔘 Official Dotwatcher.cc event\n📍 Live tracking via FollowMyChallenge.com\n\nRegistrations are open:\n👉 www.nordicchase.com\n(limited capacity at 100 riders)\n\nRegistration includes:\n1. Rider briefing and Pasta Party @Standert Bicycles (store in Berlin)\n2. Official Race Manual with the race details\n3. Race cap and other goodies\n4. Live GPS tracking\n5. Finisher Certificate\n6. Post-ride ceremony with drinks in Copenhagen\n7. Photos taken by our media team\n8. Entry to WhatsApp group chat to connect other riders\n9. Small bag transfer rom the start to the finish\n\nAll info is on www.nordicchase.com\n\nQuestions, then email to info@nordicchase.com\n\nPlease note: The final route and exact start location in Berlin will be provided in the race manual. The current route is a draft and will be verified by the organizer. The manual will be emailed to all registered participants three weeks before the race.",
       "activity_type": "Ride",
-      "route_id": 3446513564287297000,
+      "route_id": 3496243628392423000,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:39.140Z"
+      "fetched_at": "2026-06-01T08:31:15.059Z"
     },
     {
       "id": 2166682,
@@ -574,7 +551,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-05-31T06:55:39.140Z"
+      "fetched_at": "2026-06-01T08:31:15.059Z"
     }
   ]
 }
