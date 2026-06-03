@@ -1,53 +1,7 @@
 {
-  "generated_at": "2026-06-02T07:21:33.321Z",
-  "total_rides": 24,
+  "generated_at": "2026-06-03T08:12:45.853Z",
+  "total_rides": 31,
   "rides": [
-    {
-      "id": 3495453632485885400,
-      "title": "DIRTY TUESDAY | AMAGER SOCIAL | GRAVEL BEERS N BURGERS 🍔",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3495453632485885400",
-      "date": "2026-06-02T15:20:00Z",
-      "upcoming_dates": [
-        "2026-06-02T15:20:00Z"
-      ],
-      "location": null,
-      "description": "Hey all,\n\nJoin our Dirty Tuesday gravel training in and around Amager with a new weekly route.\n\nWhat to expect:\nHill sprint at km 3\nVo2 sprints at km 15, 28 and 41\n\nDetails:\nMeet up 17:20 - Roll out 17:30\nTempo 24-25 - Distance 50km +/-\n2 flats on the house (find your own way)\nBring plugs, co2 & energy.\nYou must be able to ride 50k at 24k avg. \nWe ride in 10-12 pax groups in same tempo.\nCancellation protocol: < 5 riders & heavy rain \n\nWe look forward to riding dirt with you and wrap it up with beer & burgers at our favourite hangout spot - Bootleggers.\n\nTeam Dirty Tuesday ",
-      "activity_type": "Ride",
-      "route_id": 3485978100700197000,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-02T07:21:30.385Z"
-    },
-    {
-      "id": 3428498322104233500,
-      "title": "Women’s weekly gravel training X OTTO 🍕",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3428498322104233500",
-      "date": "2026-06-02T15:20:00Z",
-      "upcoming_dates": [
-        "2026-06-02T15:20:00Z"
-      ],
-      "location": null,
-      "description": "Join us for our weekly women’s gravel. This week we will finish at the shop, where there will be Otto pizza and soft drinks 🍕\nBefore we head out, you need to order and pay for a pizza and a soft drink. Price: 80 DKK.\n\nThe ride will be a training ride with a steady pace. We will do intervals on Manglebjerg (2 loops) and a “mini race” at Chaussen at Dyrehaven (everything is optional) \n\nRemember to bring snacks, spare parts and good vibes🫶🏻\n\n*****************************************\nMeeting point: Klubben aka Copenhagen Cycling Club\nMeet up: 17:20\nRoll-out: 17:30\nDistance: aprox. 60km\nPace: +/- 25-26 km/h\nSurface: gravel \n\nSee you for a fun training \n// Caroline & Julie",
-      "activity_type": "Ride",
-      "route_id": 3486114179545144000,
-      "women_only": true,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-02T07:21:30.385Z"
-    },
     {
       "id": 3466011859093106700,
       "title": "Training Ride",
@@ -69,7 +23,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:25.135Z"
+      "fetched_at": "2026-06-03T08:12:37.984Z"
     },
     {
       "id": 3479419395551435000,
@@ -92,7 +46,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:28.322Z"
+      "fetched_at": "2026-06-03T08:12:40.989Z"
     },
     {
       "id": 3482314965869216300,
@@ -115,7 +69,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:27.007Z"
+      "fetched_at": "2026-06-03T08:12:39.852Z"
     },
     {
       "id": 3425187862968180000,
@@ -138,7 +92,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:27.007Z"
+      "fetched_at": "2026-06-03T08:12:39.852Z"
     },
     {
       "id": 3495070579450201000,
@@ -161,7 +115,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:26.417Z"
+      "fetched_at": "2026-06-03T08:12:39.385Z"
     },
     {
       "id": 3491096617069993500,
@@ -184,7 +138,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:30.385Z"
+      "fetched_at": "2026-06-03T08:12:43.673Z"
     },
     {
       "id": 3489551601471613400,
@@ -207,7 +161,30 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:25.135Z"
+      "fetched_at": "2026-06-03T08:12:37.984Z"
+    },
+    {
+      "id": 3428498322104233500,
+      "title": "Women’s weekly gravel training ✨",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3428498322104233500",
+      "date": "2026-06-09T15:20:00Z",
+      "upcoming_dates": [
+        "2026-06-09T15:20:00Z"
+      ],
+      "location": null,
+      "description": "Join us for our weekly gravel ride🫶🏻\n\nThe ride will be a training ride with a steady pace. We will do intervals on Manglebjerg (2 loops) and a “mini race” at Chaussen at Dyrehaven (everything is optional) \n\nRemember to bring snacks, spare parts and good vibes🫶🏻\n\n*****************************************\nMeeting point: Klubben aka Copenhagen Cycling Club\nMeet up: 17:20\nRoll-out: 17:30\nDistance: aprox. 60km\nPace: +/- 25-26 km/h\nSurface: gravel \n\nSee you for a fun training \n// Caroline & Julie",
+      "activity_type": "Ride",
+      "route_id": 3486114179545144000,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-03T08:12:43.673Z"
     },
     {
       "id": 3488933799502066700,
@@ -230,7 +207,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:25.135Z"
+      "fetched_at": "2026-06-03T08:12:37.984Z"
     },
     {
       "id": "hybridsocial-gmyvzvb5",
@@ -250,7 +227,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-02T07:21:33.320Z"
+      "fetched_at": "2026-06-03T08:12:45.851Z"
     },
     {
       "id": 3488833378240840700,
@@ -273,7 +250,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:25.135Z"
+      "fetched_at": "2026-06-03T08:12:37.984Z"
     },
     {
       "id": "hybridsocial-hgmmh1pb",
@@ -293,7 +270,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-02T07:21:33.320Z"
+      "fetched_at": "2026-06-03T08:12:45.852Z"
     },
     {
       "id": "hybridsocial-rvq5nxml",
@@ -313,7 +290,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-02T07:21:33.320Z"
+      "fetched_at": "2026-06-03T08:12:45.852Z"
     },
     {
       "id": 3482382006930789400,
@@ -336,7 +313,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:27.007Z"
+      "fetched_at": "2026-06-03T08:12:39.852Z"
     },
     {
       "id": 2166645,
@@ -359,7 +336,188 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:27.008Z"
+      "fetched_at": "2026-06-03T08:12:39.852Z"
+    },
+    {
+      "id": 3496914456272812500,
+      "title": "2 Days of Sport - Gravel Ride",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3496914456272812500",
+      "date": "2026-06-20T07:00:00Z",
+      "upcoming_dates": [
+        "2026-06-20T07:00:00Z"
+      ],
+      "location": null,
+      "description": "Join os til et gravel ride.\nVi skyder 2 Days of Sport i gang med en fælles tur ud på gruset. Vi deler op i to grupper – 24–25 km/t og 27–29 km/t – og ruller samlet ud fra Copenhagen Cycling Club mod de nordsjællandske skove.\n\nRuten kombinerer lange stræk med champagnegrus, mindre tekniske sektioner og noget af den smukkeste natur, Nordsjælland har at byde på. En tur med plads til både tempo, oplevelser og gode samtaler undervejs.\n\nHusk energi, plugs, vand og gode vibes.\n\nVi forventer, at alle har ruten på deres cykelcomputer, tidligere har kørt gravel og selv kan håndtere en punktering.\n\nNår vi er tilbage, er der snacks fra Kcal, mulighed for at købe kaffe og sodavand – og tid til at hænge ud med andre ryttere og løbere. \n\nDerudover kan du opleve og teste produkter fra Puronia, Sloe, Good Habit Company og Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club\n Meet up: 08:45 Roll-out: 09:00ish\n Distance: ~70 km \nPace groups: 23–24 km/t · 25–26 km/t Surface: Gravel\n—\nEnglish\nJoin us for a gravel ride.\nWe kick off 2 Days of Sport with a shared ride into the gravel roads and forests north of Copenhagen. We’ll split into two pace groups – 24–25 km/h and 27–29 km/h – and roll out together from Copenhagen Cycling Club.\n\nThe route combines fast-flowing gravel, smaller technical sections and some of the most beautiful forest roads and nature North Zealand has to offer. A ride built around pace, good conversations and time spent outside.\n\nBring energy, plugs, water and good vibes.\n\nWe expect everyone to have the route loaded on their bike computer, previous gravel experience and the ability to fix a flat.\n\nBack at the club there will be snacks from Kcal, coffee and soft drinks available to purchase, and time to hang out with fellow riders and runners. \nYou’ll also get the chance to explore and test products from Puronia, Sloe, Good Habit Company and Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club\n Meet up: 08:45 Roll-out: 09:00ish\n Distance: ~70 km \nPace groups: 24–25 km/h · 27–28 km/h \nSurface: Gravel",
+      "activity_type": "Ride",
+      "route_id": null,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-03T08:12:43.673Z"
+    },
+    {
+      "id": 3496915574818884600,
+      "title": "2 Days of Sport - Road",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3496915574818884600",
+      "date": "2026-06-20T07:00:00Z",
+      "upcoming_dates": [
+        "2026-06-20T07:00:00Z"
+      ],
+      "location": null,
+      "description": "Join os til en landevejstur.\nVi skyder 2 Days of Sport i gang på landevejen med en fælles tur ud nord for København. Vi deler op i to grupper – 27–29 km/t og 30–32 km/t – og ruller samlet ud fra Copenhagen Cycling Club mod nogle af de bedste landeveje i Nordsjælland.\n\nRuten byder på smukke landeveje, smooth tarmac og et let kuperet terræn med bakker nok til at holde benene i gang. En tur med plads til både tempo, gode føringer og mange gode kilometer i sadlen.\n\nHusk energi, vand og gode vibes.\n\nVi forventer, at alle har ruten på deres cykelcomputer, tidligere har kørt landevej og er vant til at køre i gruppe.\n\nNår vi er tilbage, er der snacks fra Kcal, mulighed for at købe kaffe og sodavand – og tid til at hænge ud med andre ryttere og løbere. \nDerudover kan du opleve og teste produkter fra Puronia, Sloe, Good Habit Company og Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 08:45 Roll-out: 09:00ish \nDistance: ~80–90 km \nPace groups: 27–29 km/t · 30–32 km/t\n Surface: Road\n—\nEnglish\nJoin us for a road ride.\nWe kick off 2 Days of Sport with a shared ride out on the roads north of Copenhagen. We’ll split into two pace groups – 27–29 km/h and 30–32 km/h – and roll out together from Copenhagen Cycling Club.\n\nThe route combines beautiful roads, smooth tarmac and rolling terrain with enough climbs to keep the legs working. A ride with room for pace, smooth turns and plenty of quality kilometres in the saddle.\n\nBring energy, water and good vibes.\n\nWe expect everyone to have the route loaded on their bike computer, previous road riding experience and to be comfortable riding in a group.\n\nBack at the club there will be snacks from Kcal, coffee and soft drinks available to purchase, and time to hang out with fellow riders and runners. \nYou’ll also get the chance to explore and test products from Puronia, Sloe, Good Habit Company and Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 08:45 Roll-out: 09:00ish \nDistance: ~80–90 km\n Pace groups: 27–29 km/h · 30–32 km/h \nSurface: Road",
+      "activity_type": "Ride",
+      "route_id": null,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-03T08:12:43.673Z"
+    },
+    {
+      "id": 3496920400234106000,
+      "title": "2 Days of Sport - Social Run",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3496920400234106000",
+      "date": "2026-06-20T09:10:00Z",
+      "upcoming_dates": [
+        "2026-06-20T09:10:00Z"
+      ],
+      "location": null,
+      "description": "Vi skyder 2 Days of Sport i gang med et social run. Vi deler op i to pacegrupper – 5:30 og 6:30 min/km – og løber samlet fra Copenhagen Cycling Club.\n\nRuten tager os ud på lange stræk af rolige og uforstyrrede veje og er lagt op som et social run med plads til både snak og gode kilometer. Et run med fokus på bevægelse, fællesskab og en god oplevelse – uanset om du løber fast eller bare har lyst til at være med.\n\nHusk at medbringe gode vibes.\n\nNår vi er tilbage, er der snacks fra Kcal, mulighed for at købe kaffe og sodavand – og tid til at hænge ud med andre ryttere og løbere. \nDerudover kan du opleve og teste produkter fra Puronia, Sloe, Good Habit Company og Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club\n Meet up: 11:00 \nStart: 11:10ish\n Distance: ~6 km\n Pace groups: 5:30 min/km · 6:30 min/km \nSurface: Asfalt\n—\nEnglish\nJoin us for a social run.\nWe kick off 2 Days of Sport with a social run. We’ll split into two pace groups – 5:30 and 6:30 min/km – and start together from Copenhagen Cycling Club.\n\nThe route takes us onto long stretches of quiet and uninterrupted roads and is designed as a social run with room for conversations and quality kilometres. A run focused on movement, community and a good experience – whether you run regularly or simply want to join.\n\nBring good vibes.\n\nBack at the club there will be snacks from Kcal, coffee and soft drinks available to purchase, and time to hang out with fellow riders and runners. \nYou’ll also get the chance to explore and test products from Puronia, Sloe, Good Habit Company and Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 11:00 \nStart: 11:10ish \nDistance: ~6 km \nPace groups: 5:30 min/km · 6:30 min/km\n Surface: Tarmac",
+      "activity_type": "Run",
+      "route_id": null,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-03T08:12:43.673Z"
+    },
+    {
+      "id": 3496916884443872000,
+      "title": "Women only - Road Ride by Strada Elite Women",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3496916884443872000",
+      "date": "2026-06-20T12:00:00Z",
+      "upcoming_dates": [
+        "2026-06-20T12:00:00Z"
+      ],
+      "location": null,
+      "description": "Women only ride by Strada Elite Women\nLørdag eftermiddag fortsætter 2 Days of Sport med en fælles tur på landevejen – kun for kvinder. Turen ledes af ryttere fra Strada Elite Women, og vi ruller samlet ud fra Copenhagen Cycling Club mod nogle af de bedste landeveje i Nordsjælland.\n\nRuten byder på smukke landeveje, smooth tarmac og cirka 80 km i godt selskab. En tur med fokus på fællesskab, gode føringer, snak undervejs og mange gode kilometer i sadlen.\n\nHusk energi, vand og gode vibes.\n\nVi forventer, at alle har ruten på deres cykelcomputer, tidligere har kørt landevej og er vant til at køre i gruppe.\n\nNår vi er tilbage, fortsætter eftermiddagen i butikken. Der vil være mulighed for at købe pizza (bestilles inden vi ruller ud), købe sodavand, øl og måske en lille drink – mens DJ’en sørger for stemningen.\nDerudover kan du opleve og teste produkter fra Puronia, Sloe, Good Habit Company og Pine Athletic Skincare.\n\nVeninder, kærester, mænd og familie er meget velkomne til at joine den sociale del efterfølgende. Hvis de ønsker pizza, skal den bestilles senest kl. 15.\n\nMeeting point: Copenhagen Cycling Club\n Meet up: 14:45 \nRoll-out: 14:00ish \nDistance: ~80 km \nSurface: Road \nRide leaders: Strada Elite Women\n—\nWomen only road ride.\nOn Saturday afternoon, 2 Days of Sport continues with a shared ride on the road – exclusively for women. \nThe ride will be led by riders from Strada Elite Women as we roll out together from Copenhagen Cycling Club towards some of the best roads north of Copenhagen.\n\nThe route combines beautiful roads, smooth tarmac and around 80 km of good company. A ride built around community, smooth turns, conversations and plenty of quality kilometres in the saddle.\n\nBring energy, water and good vibes.\n\nWe expect everyone to have the route loaded on their bike computer, previous road riding experience and to be comfortable riding in a group.\n\nBack at the club, the afternoon continues. There will be the option to buy pizza (order before roll-out), along with soft drinks, beers and maybe a small drink – while a DJ sets the atmosphere.\nYou’ll also get the chance to explore and test products from Puronia, Sloe, Good Habit Company and Pine Athletic Skincare.\n\nFriends, partners, men and family are all welcome to join the social gathering afterwards. If they would like pizza, orders must be placed before 15:00.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 13:45 \nRoll-out: 14:00ish \nDistance: ~80 km \nSurface: Road \nRide leaders: Strada Elite Women\n",
+      "activity_type": "Ride",
+      "route_id": null,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-03T08:12:43.673Z"
+    },
+    {
+      "id": "hybridsocial-1xv737zn",
+      "title": "Hybrid Social Ride x SYN Solstice Escape",
+      "source": "hybridsocial",
+      "club": {
+        "id": "hybridsocialcph",
+        "name": "Hybrid Social CPH",
+        "strava_url": "https://www.instagram.com/hybridsocialcph"
+      },
+      "event_url": "https://luma.com/1xv737zn",
+      "date": "2026-06-21",
+      "upcoming_dates": [
+        "2026-06-21"
+      ],
+      "location": "Mosehuset, Copenhagen",
+      "description": "",
+      "activity_type": "Ride",
+      "women_only": true,
+      "fetched_at": "2026-06-03T08:12:45.852Z"
+    },
+    {
+      "id": 3496919018707498500,
+      "title": "2 Days of Sport - Sunday Road Ride",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3496919018707498500",
+      "date": "2026-06-21T07:00:00Z",
+      "upcoming_dates": [
+        "2026-06-21T07:00:00Z"
+      ],
+      "location": null,
+      "description": "Søndag fortsætter vi 2 Days of Sport med endnu en tur ud på landevejene. Vi deler igen op i to grupper – 27–29 km/t og 30–32 km/t – og ruller samlet ud fra Copenhagen Cycling Club mod nye veje og nye omgivelser i Nordsjælland.\n\nRuten byder på en ny kombination af smukke landeveje, smooth tarmac og et let kuperet terræn med bakker nok til at holde benene i gang. En tur skabt til at samle kilometer, finde rytmen og afslutte weekenden med gode føringer og godt selskab.\n\nHusk energi, vand og gode vibes.\n\nVi forventer, at alle har ruten på deres cykelcomputer, tidligere har kørt landevej og er vant til at køre i gruppe.\n\nNår vi er tilbage, er der snacks fra Kcal, mulighed for at købe kaffe og sodavand – og tid til at hænge ud med andre ryttere og løbere. \nDerudover kan du opleve og teste produkter fra Puronia, Sloe, Good Habit Company og Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 08:45\n Roll-out: 09:00ish\n Distance: ~80–90 km\n Pace groups: 27–29 km/t · 30–32 km/t Surface: Road\n—\nEnglish\nJoin us for a road ride.\nOn Sunday, we continue 2 Days of Sport with another day out on the roads. We’ll once again split into two pace groups – 27–29 km/h and 30–32 km/h – and roll out together from Copenhagen Cycling Club towards new roads and new surroundings north of Copenhagen.\n\nThe route brings a different mix of beautiful roads, smooth tarmac and rolling terrain with enough climbs to keep the legs working. A ride designed to collect kilometres, settle into the rhythm and finish the weekend with smooth turns and good company.\n\nBring energy, water and good vibes.\n\nWe expect everyone to have the route loaded on their bike computer, previous road riding experience and to be comfortable riding in a group.\n\nBack at the club there will be snacks from Kcal, coffee and soft drinks available to purchase, and time to hang out with fellow riders and runners. \nYou’ll also get the chance to explore and test products from Puronia, Sloe, Good Habit Company and Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 08:45 \nRoll-out: 09:00ish \nDistance: ~80–90 km \nPace groups: 27–29 km/h · 30–32 km/h\n Surface: Road",
+      "activity_type": "Ride",
+      "route_id": null,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-03T08:12:43.673Z"
+    },
+    {
+      "id": 3496917968155936000,
+      "title": "2 Days of Sport - Sunday Gravel Ride",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3496917968155936000",
+      "date": "2026-06-21T07:00:00Z",
+      "upcoming_dates": [
+        "2026-06-21T07:00:00Z"
+      ],
+      "location": null,
+      "description": "Join os til endnu et gravel ride.\nSøndag fortsætter vi 2 Days of Sport med endnu en tur ud på gruset. Vi deler igen op i to grupper – 24–25 km/t og 27–29 km/t – og ruller samlet ud fra Copenhagen Cycling Club mod nye spor og nye omgivelser i Nordsjælland.\n\nRuten byder på en ny kombination af champagnegrus, skovstier og rolige forbindelser gennem noget af den smukkeste natur nord for København. En tur skabt til at samle kilometer, få pulsen ned og afslutte weekenden på den bedst tænkelige måde.\n\nHusk energi, plugs, vand og gode vibes.\n\nVi forventer, at alle har ruten på deres cykelcomputer, tidligere har kørt gravel og selv kan håndtere en punktering.\n\nNår vi er tilbage, er der snacks fra Kcal, mulighed for at købe kaffe og sodavand – og tid til at hænge ud med andre ryttere og løbere. \nDerudover kan du opleve og teste produkter fra Puronia, Sloe, Good Habit Company og Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 08:45 \nRoll-out: 09:00ish \nDistance: ~70 km \nPace groups: 24–25 km/t · 27–29 km/t \nSurface: Gravel\n—\nEnglish\nJoin us for another gravel ride.\nOn Sunday, we continue 2 Days of Sport with another day out on the gravel. We’ll once again split into two pace groups – 24–25 km/h and 27–29 km/h – and roll out together from Copenhagen Cycling Club towards new roads and new surroundings north of Copenhagen.\n\nThis route brings a different mix of fast-flowing gravel, forest sections and quiet connecting roads through some of the most beautiful nature North Zealand has to offer. A ride designed to collect kilometres, settle into the rhythm and finish the weekend the right way.\n\nBring energy, plugs, water and good vibes.\n\nWe expect everyone to have the route loaded on their bike computer, previous gravel experience and the ability to fix a flat.\n\nBack at the club there will be snacks from Kcal, coffee and soft drinks available to purchase, and time to hang out with fellow riders and runners. \nYou’ll also get the chance to explore and test products from Puronia, Sloe, Good Habit Company and Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 08:45 \nRoll-out: 09:00ish \nDistance: ~70 km \nPace groups: 24–25 km/h · 27–28 km/h\n Surface: Gravel\n",
+      "activity_type": "Ride",
+      "route_id": null,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-03T08:12:43.673Z"
+    },
+    {
+      "id": 3496921322080882700,
+      "title": "2 Days of Sport - Sunday Social Run",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3496921322080882700",
+      "date": "2026-06-21T09:10:00Z",
+      "upcoming_dates": [
+        "2026-06-21T09:10:00Z"
+      ],
+      "location": null,
+      "description": "Søndag fortsætter vi 2 Days of Sport med et social run. \nVi deler igen op i to pacegrupper – 5:30 og 6:30 min/km – og løber samlet fra Copenhagen Cycling Club.\n\nRuten tager os ud på lange stræk af rolige og uforstyrrede veje og er lagt op som et social run med plads til både snak og gode kilometer. Et run skabt til at samle kilometer, finde rytmen og afslutte weekenden i godt selskab.\n\nHusk at medbringe gode vibes.\n\nNår vi er tilbage, er der snacks fra Kcal, mulighed for at købe kaffe og sodavand – og tid til at hænge ud med andre ryttere og løbere. \nDerudover kan du opleve og teste produkter fra Puronia, Sloe, Good Habit Company og Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club\n Meet up: 11:00 \nStart: 11:10ish \nDistance: ~6 km\n Pace groups: 5:30 min/km · 6:30 min/km \nSurface: Asfalt\n—\nEnglish\nJoin us for a social run.\nOn Sunday, we continue 2 Days of Sport with another social run. We’ll once again split into two pace groups – 5:30 and 6:30 min/km – and start together from Copenhagen Cycling Club.\n\nThe route takes us onto long stretches of quiet and uninterrupted roads and is designed as a social run with room for conversations and quality kilometres. A run designed to collect kilometres, settle into the rhythm and finish the weekend in good company.\n\nBring good vibes.\n\nBack at the club there will be snacks from Kcal, coffee and soft drinks available to purchase, and time to hang out with fellow riders and runners. \nYou’ll also get the chance to explore and test products from Puronia, Sloe, Good Habit Company and Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 11:00 Start: 11:10ish\n Distance: ~6 km \nPace groups: 5:30 min/km · 6:30 min/km\n Surface: Tarmac",
+      "activity_type": "Run",
+      "route_id": null,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-03T08:12:43.673Z"
     },
     {
       "id": "hybridsocial-ye9eh9r0",
@@ -379,7 +537,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-02T07:21:33.320Z"
+      "fetched_at": "2026-06-03T08:12:45.852Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -399,7 +557,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-02T07:21:33.320Z"
+      "fetched_at": "2026-06-03T08:12:45.852Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -419,7 +577,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-02T07:21:33.320Z"
+      "fetched_at": "2026-06-03T08:12:45.852Z"
     },
     {
       "id": 3481936645449361000,
@@ -442,7 +600,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:25.135Z"
+      "fetched_at": "2026-06-03T08:12:37.984Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -462,7 +620,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-02T07:21:33.320Z"
+      "fetched_at": "2026-06-03T08:12:45.852Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -482,7 +640,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-02T07:21:33.320Z"
+      "fetched_at": "2026-06-03T08:12:45.852Z"
     },
     {
       "id": 3425188804025399300,
@@ -505,7 +663,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:27.008Z"
+      "fetched_at": "2026-06-03T08:12:39.852Z"
     },
     {
       "id": 2166682,
@@ -528,7 +686,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-02T07:21:27.008Z"
+      "fetched_at": "2026-06-03T08:12:39.852Z"
     }
   ]
 }
