@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-06-04T07:21:35.475Z",
-  "total_rides": 31,
+  "generated_at": "2026-06-05T07:05:06.596Z",
+  "total_rides": 39,
   "rides": [
-    {
-      "id": 3479419395551435000,
-      "title": "CRANKS THURSDAY RIDE - Womens",
-      "source": "strava",
-      "club": {
-        "id": 502279,
-        "name": "Cranks Cycling Club",
-        "strava_url": "https://www.strava.com/clubs/502279"
-      },
-      "event_url": "https://www.strava.com/clubs/502279/group_events/3479419395551435000",
-      "date": "2026-06-04T15:30:00Z",
-      "upcoming_dates": [
-        "2026-06-04T15:30:00Z"
-      ],
-      "location": null,
-      "description": "Thursday womens ride.\n\nRide Leaders - Nanna & guests\n\nPace: 28-30km/t.\nDistance: 50-60km.\nRoll out: 17:30\nSurface: Road\n\nRemeber lights.\nHelmets are mandatory.\nBring spare plugs, tubes, tools what you need.\nObey the traffic rules.\nNo drop ride.\n\nSee you!",
-      "activity_type": null,
-      "route_id": null,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-04T07:21:29.294Z"
-    },
     {
       "id": 3482314965869216300,
       "title": "Shake-out ride | Day before BERLIN to COPENHAGEN | Nordic Chase 2026",
@@ -46,7 +23,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:28.265Z"
+      "fetched_at": "2026-06-05T07:04:56.639Z"
     },
     {
       "id": 3425187862968180000,
@@ -69,7 +46,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:28.265Z"
+      "fetched_at": "2026-06-05T07:04:56.639Z"
     },
     {
       "id": 3466012401428104000,
@@ -92,7 +69,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:26.544Z"
+      "fetched_at": "2026-06-05T07:04:54.404Z"
     },
     {
       "id": 3495070579450201000,
@@ -115,7 +92,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:27.825Z"
+      "fetched_at": "2026-06-05T07:04:55.988Z"
     },
     {
       "id": 3491096617069993500,
@@ -138,7 +115,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:33.076Z"
+      "fetched_at": "2026-06-05T07:05:01.445Z"
     },
     {
       "id": 3489551601471613400,
@@ -161,7 +138,53 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:26.545Z"
+      "fetched_at": "2026-06-05T07:04:54.405Z"
+    },
+    {
+      "id": 3494284811639793700,
+      "title": "Women's Social Ride ",
+      "source": "strava",
+      "club": {
+        "id": 1048788,
+        "name": "Pas Normal Studios Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/1048788"
+      },
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3494284811639793700",
+      "date": "2026-06-08T15:00:00Z",
+      "upcoming_dates": [
+        "2026-06-08T15:00:00Z"
+      ],
+      "location": null,
+      "description": "Join us for a Women's Social Ride. We will ride together all the way and change taking turns at the front along the route. We will clearly go through how to ride in a group and which signals we are using before heading out. We expect you are an experienced cyclist and have tried to ride among other cyclist a decent amount of times. It is mandatory to have a cycling computer, where you can download the route. If you have any trouble downloading the route please show up in advance to get help from the store staff or rideleaders. This is not a beginners ride, and  we expect all riders to take care of their own bikes. \nIf you have any questions always reach out to our rideleaders or come by the store.\n\nLooking forward to see you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 17.00\nStart time: 17.15\nDistance: 55 km +/-\nPace: 26-28 km/h +/-\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event. If you have any questions do not hesitate to contact us via copenhagen@pasnormalstudios.com \n#Socialride #Womensride\n",
+      "activity_type": "Ride",
+      "route_id": 3372196008431631400,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-05T07:04:54.405Z"
+    },
+    {
+      "id": 3488933799502066700,
+      "title": "PAS Crit - sign up on Sportstiming",
+      "source": "strava",
+      "club": {
+        "id": 1048788,
+        "name": "Pas Normal Studios Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/1048788"
+      },
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3488933799502066700",
+      "date": "2026-06-09T15:00:00Z",
+      "upcoming_dates": [
+        "2026-06-09T15:00:00Z"
+      ],
+      "location": null,
+      "description": "JOIN US FOR A RACE ON THE CLOSED AIRFIELD! \n\nSign-up for free on Sportstiming: https://www.sportstiming.dk/event/18453\nLatest sign-up 07.06.2026\n\nTo celebrate the launch of the PAS collection, we are hosting a race on flyveren. \n\nConcept: \nThere will be two individual races, one for men and one for women. It will be 5 loops in total and a intermediate sprint at 1. lap. The men will be send out first, and then the women 3 minutes later.   \n\nWe will roll back and forward from the store together in different groups. You are also welcome to join the transport and support and cheer for the race at flyveren. \n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 17.00\nRace start at flyveren: 18.15\nSurface: Road\n\n-------------------------------------\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event. If you have any questions do not hesitate to contact us via copenhagen@pasnormalstudios.com \n",
+      "activity_type": "Ride",
+      "route_id": 3099636772285416400,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-05T07:04:54.405Z"
     },
     {
       "id": 3428498322104233500,
@@ -184,30 +207,30 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:33.076Z"
+      "fetched_at": "2026-06-05T07:05:01.445Z"
     },
     {
-      "id": 3488933799502066700,
-      "title": "PAS Crit - sign up on Sportstiming",
+      "id": 3466011859093106700,
+      "title": "Training Ride",
       "source": "strava",
       "club": {
         "id": 1048788,
         "name": "Pas Normal Studios Copenhagen",
         "strava_url": "https://www.strava.com/clubs/1048788"
       },
-      "event_url": "https://www.strava.com/clubs/1048788/group_events/3488933799502066700",
-      "date": "2026-06-09T16:00:00Z",
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3466011859093106700",
+      "date": "2026-06-10T15:00:00Z",
       "upcoming_dates": [
-        "2026-06-09T16:00:00Z"
+        "2026-06-10T15:00:00Z"
       ],
       "location": null,
-      "description": "JOIN US FOR A RACE ON THE CLOSED AIRFIELD! \n\nSign-up for free on Sportstiming: https://www.sportstiming.dk/event/18453\nLatest sign-up 07.06.2026\n\nTo celebrate the launch of the PAS collection, we are hosting a race on flyveren. \n\nConcept: \nThere will be two individual races, one for men and one for women. It will be 5 loops in total and a intermediate sprint at 1. lap. The men will be send out first, and then the women 3 minutes later.   \n\nWe will roll back and forward from the store together in different groups. You are also welcome to join the transport and support and cheer for the race at flyveren. \n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 17.00\nRace start at flyveren: 18.15\nSurface: Road\n\n-------------------------------------\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event. If you have any questions do not hesitate to contact us via copenhagen@pasnormalstudios.com \n",
+      "description": "Join us for our Training Ride — a challenging group session designed to push your limits alongside dedicated cyclists. We'll ride intervals on different loops, and always regrouping afterwards to return to the city together. During transport we’ll ride as a one group, rotating turns at the front. Riders should be comfortable with group riding and familiar with standard hand and vocal signals. If you have a puncture or mechanical issue, we expect you have the route downloaded and will to rejoin the group on your own. We run a monthly rotation of efforts to vary the training. We encourage doing intervals in smaller groups when appropriate.\n\nWeek 1: 2 x 12 min at Uvelse \nWeek 2: 3 x 8 min at Kettinge **   \nWeek 3: 4 x 4 min at Bregnerød \nWeek 4: Small race at Flyveren 2 laps in total \n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 17.00\nStart time: 17.15\nDistance: 75-80 +/-\nPace: 32-34 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#TrainingRide\n",
       "activity_type": "Ride",
-      "route_id": 3099636772285416400,
+      "route_id": 3250366726281974000,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:26.545Z"
+      "fetched_at": "2026-06-05T07:04:54.405Z"
     },
     {
       "id": "hybridsocial-gmyvzvb5",
@@ -227,7 +250,122 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-04T07:21:35.474Z"
+      "fetched_at": "2026-06-05T07:05:06.595Z"
+    },
+    {
+      "id": 3497554796740363000,
+      "title": "Women's Intermediate Ride",
+      "source": "strava",
+      "club": {
+        "id": 120055,
+        "name": "Rapha Cycle Club Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/120055"
+      },
+      "event_url": "https://www.strava.com/clubs/120055/group_events/3497554796740363000",
+      "date": "2026-06-11T15:00:00Z",
+      "upcoming_dates": [
+        "2026-06-11T15:00:00Z"
+      ],
+      "location": null,
+      "description": "Join us on June 11th for this Women’s Intermediate ride led by our team of Rapha Ride Leaders; Lola, Olivia, Signe & Nora. \n\nIf you’re experienced in a group ride setting and looking for a faster ride then this intermediate ride is for you. These rides will take place with an average speed of 28-30kmh. \n\nWe will ride at a pace of 28-30kmh average. Please ensure you have knowledge of the common hand and voice signals before joining. \n\nPlease remember to bring inner tubes, CO2 cartridges, water and snacks for the ride. Please also download the route onto your computer in advance.\n\nFlat pedals, TT bikes and mountain bikes are not permitted on this ride. \n\nMeet-up: 17:00 at the Rapha Copenhagen Clubhouse (Kristen Bernikows Gade 7)\nDeparture: 17:15\nPace: 28-30kmh\n\nWe look forward to riding with you! \n\nIf you can no longer join this ride, we kindly ask you to leave the ride on Strava so we can open your spot up to the next rider.\n",
+      "activity_type": "Ride",
+      "route_id": 3385240141633067500,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-05T07:04:55.988Z"
+    },
+    {
+      "id": 3479419016960838700,
+      "title": "CRANKS THURSDAY RIDE - fast",
+      "source": "strava",
+      "club": {
+        "id": 502279,
+        "name": "Cranks Cycling Club",
+        "strava_url": "https://www.strava.com/clubs/502279"
+      },
+      "event_url": "https://www.strava.com/clubs/502279/group_events/3479419016960838700",
+      "date": "2026-06-11T15:30:00Z",
+      "upcoming_dates": [
+        "2026-06-11T15:30:00Z"
+      ],
+      "location": null,
+      "description": "Thursday fast ride.\n\nRide Leader - Joakim\n\nPace: +34 km/t.\nDistance: +70km.\nRoll out: 17.30\nSurface: Road\n\nRemeber lights.\nHelmets are mandatory.\nBring spare plugs, tubes, tools what you need.\nObey the traffic rules.\nDrop ride. \n\nSee you!",
+      "activity_type": null,
+      "route_id": null,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-05T07:04:57.940Z"
+    },
+    {
+      "id": 3479417783254889500,
+      "title": "CRANKS THURSDAY RIDE - social+",
+      "source": "strava",
+      "club": {
+        "id": 502279,
+        "name": "Cranks Cycling Club",
+        "strava_url": "https://www.strava.com/clubs/502279"
+      },
+      "event_url": "https://www.strava.com/clubs/502279/group_events/3479417783254889500",
+      "date": "2026-06-11T15:30:00Z",
+      "upcoming_dates": [
+        "2026-06-11T15:30:00Z"
+      ],
+      "location": null,
+      "description": "Thursday social+ ride.\n\nRide Leaders - Christian & Gustav\n\nPace: 30-32km/t.\nDistance: 65-75km.\nRoll out: 17.30\nSurface: Road\nNo drop ride. \n\nRemeber lights.\nHelmets are mandatory.\nBring spare plugs, tubes, tools what you need.\nObey the traffic rules.\n\nSee you!",
+      "activity_type": null,
+      "route_id": null,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-05T07:04:57.940Z"
+    },
+    {
+      "id": 3479417034516131000,
+      "title": "CRANKS THURSDAY RIDE - Social",
+      "source": "strava",
+      "club": {
+        "id": 502279,
+        "name": "Cranks Cycling Club",
+        "strava_url": "https://www.strava.com/clubs/502279"
+      },
+      "event_url": "https://www.strava.com/clubs/502279/group_events/3479417034516131000",
+      "date": "2026-06-11T15:30:00Z",
+      "upcoming_dates": [
+        "2026-06-11T15:30:00Z"
+      ],
+      "location": null,
+      "description": "Thursday social ride. \n\nRide Leaders - Mathias & Victor\n\nPace: 28-30km/t.\nDistance: 50-60km.\nRoll out: 17.30\nSurface: Road\n\nRemeber lights. \nHelmets are mandatory. \nBring spare plugs, tubes, tools what you need. \nObey the traffic rules. \n\nSee you!",
+      "activity_type": "Ride",
+      "route_id": null,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-05T07:04:57.940Z"
+    },
+    {
+      "id": 3479419395551435000,
+      "title": "CRANKS THURSDAY RIDE - Womens",
+      "source": "strava",
+      "club": {
+        "id": 502279,
+        "name": "Cranks Cycling Club",
+        "strava_url": "https://www.strava.com/clubs/502279"
+      },
+      "event_url": "https://www.strava.com/clubs/502279/group_events/3479419395551435000",
+      "date": "2026-06-11T15:30:00Z",
+      "upcoming_dates": [
+        "2026-06-11T15:30:00Z"
+      ],
+      "location": null,
+      "description": "Thursday womens ride.\n\nRide Leaders - Nanna & guests\n\nPace: 28-30km/t.\nDistance: 50-60km.\nRoll out: 17:30\nSurface: Road\n\nRemeber lights.\nHelmets are mandatory.\nBring spare plugs, tubes, tools what you need.\nObey the traffic rules.\nNo drop ride.\n\nSee you!",
+      "activity_type": null,
+      "route_id": null,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-05T07:04:57.940Z"
     },
     {
       "id": 3488833378240840700,
@@ -244,13 +382,13 @@
         "2026-06-12T07:30:00Z"
       ],
       "location": null,
-      "description": "Chasing Daylight with VELUX and PAS Racing during 3 Days of Design\n \nJoin our social design ride (70K) from the Pas Normal Studios location in Nordhavn.\n \nWe depart from Århusgade 126 at 9:30 am and return at 11:30 am for a cozy lunch bite cooked over an open fire.\n \nWe’ll split into two groups, and everyone is welcome, whether you ride a road or a gravel bike.\n\nSign up here - we look forward to seeing you!",
+      "description": "Chasing Daylight with VELUX and PAS Racing during 3 Days of Design\n \nJoin our social design ride (70K) from the Pas Normal Studios location in Nordhavn.\n \nWe depart from Århusgade 126 at 9:30 am and return at 12:00 am for a cozy lunch bite cooked over an open fire.\n \nWe’ll split into two groups, and everyone is welcome, whether you ride a road or a gravel bike.\n\nSign up here - we look forward to seeing you!",
       "activity_type": "Ride",
       "route_id": 3488818568703558000,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:26.545Z"
+      "fetched_at": "2026-06-05T07:04:54.405Z"
     },
     {
       "id": "hybridsocial-hgmmh1pb",
@@ -270,7 +408,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-04T07:21:35.474Z"
+      "fetched_at": "2026-06-05T07:05:06.595Z"
     },
     {
       "id": "hybridsocial-rvq5nxml",
@@ -290,7 +428,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-04T07:21:35.474Z"
+      "fetched_at": "2026-06-05T07:05:06.595Z"
     },
     {
       "id": 3482382006930789400,
@@ -313,7 +451,30 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:28.265Z"
+      "fetched_at": "2026-06-05T07:04:56.639Z"
+    },
+    {
+      "id": 3497555671266522600,
+      "title": "Women's Social",
+      "source": "strava",
+      "club": {
+        "id": 120055,
+        "name": "Rapha Cycle Club Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/120055"
+      },
+      "event_url": "https://www.strava.com/clubs/120055/group_events/3497555671266522600",
+      "date": "2026-06-18T15:00:00Z",
+      "upcoming_dates": [
+        "2026-06-18T15:00:00Z"
+      ],
+      "location": null,
+      "description": "Join us on June 18th for our next Social ride led by our team of Rapha Ride Leaders; Lola, Olivia, Signe & Nora. This time on a Saturday as we enjoy some ice cream at Ismageriet after the ride.\n\nOn this social ride, we will ride together over a social loop of Amager. This ride is designed to increase your confidence riding alongside each other following the guidance of our Rapha Ride Leaders. This ride will take place with an average speed of 24-26kmh.\n\nTips and tricks before joining:\n\nPlease ensure you have knowledge of the common hand and voice signals before joining. \n\nPlease remember to bring inner tubes, CO2 cartridges, water and snacks for the ride. Please also download the route onto your computer in advance.\n\nFlat pedals, TT bikes and mountain bikes are not permitted on this ride. \n\nMeet-up: 17:00 at the Rapha Copenhagen Clubhouse (Kristen Bernikows Gade 7)\nDeparture: 17:15\nPace: 24-26kmh\n\nPre-ride coffee will be served to all at the Rapha Clubhouse before the ride.\n\nPlease remember a form of payment if you would like to purchase some ice cream.\n\nWe look forward to riding with you! \n\nIf you can no longer join this ride, we kindly ask you to leave the ride on Strava so we can open your spot up to the next rider.\n",
+      "activity_type": "Ride",
+      "route_id": 3385226983193510400,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-05T07:04:55.988Z"
     },
     {
       "id": 2166645,
@@ -336,7 +497,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:28.265Z"
+      "fetched_at": "2026-06-05T07:04:56.639Z"
     },
     {
       "id": 3496914456272812500,
@@ -359,7 +520,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:33.076Z"
+      "fetched_at": "2026-06-05T07:05:01.445Z"
     },
     {
       "id": 3496915574818884600,
@@ -382,7 +543,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:33.076Z"
+      "fetched_at": "2026-06-05T07:05:01.445Z"
     },
     {
       "id": 3496920400234106000,
@@ -405,7 +566,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:33.076Z"
+      "fetched_at": "2026-06-05T07:05:01.445Z"
     },
     {
       "id": 3496916884443872000,
@@ -428,7 +589,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:33.076Z"
+      "fetched_at": "2026-06-05T07:05:01.445Z"
     },
     {
       "id": "hybridsocial-1xv737zn",
@@ -448,7 +609,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-04T07:21:35.474Z"
+      "fetched_at": "2026-06-05T07:05:06.595Z"
     },
     {
       "id": 3496919018707498500,
@@ -471,7 +632,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:33.076Z"
+      "fetched_at": "2026-06-05T07:05:01.445Z"
     },
     {
       "id": 3496917968155936000,
@@ -494,7 +655,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:33.076Z"
+      "fetched_at": "2026-06-05T07:05:01.445Z"
     },
     {
       "id": 3496921322080882700,
@@ -517,7 +678,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:33.076Z"
+      "fetched_at": "2026-06-05T07:05:01.445Z"
     },
     {
       "id": "hybridsocial-ye9eh9r0",
@@ -537,7 +698,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-04T07:21:35.474Z"
+      "fetched_at": "2026-06-05T07:05:06.595Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -557,7 +718,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-04T07:21:35.474Z"
+      "fetched_at": "2026-06-05T07:05:06.595Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -577,7 +738,30 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-04T07:21:35.474Z"
+      "fetched_at": "2026-06-05T07:05:06.595Z"
+    },
+    {
+      "id": 3497556238512681500,
+      "title": "Women's Intermediate",
+      "source": "strava",
+      "club": {
+        "id": 120055,
+        "name": "Rapha Cycle Club Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/120055"
+      },
+      "event_url": "https://www.strava.com/clubs/120055/group_events/3497556238512681500",
+      "date": "2026-06-25T15:00:00Z",
+      "upcoming_dates": [
+        "2026-06-25T15:00:00Z"
+      ],
+      "location": null,
+      "description": "Join us on June 25th for this Women’s Intermediate ride led by our team of Rapha Ride Leaders; Lola, Olivia, Signe & Nora. \n\nIf you’re experienced in a group ride setting and looking for a faster ride then this intermediate ride is for you. These rides will take place with an average speed of 28-30kmh. \n\nWe will ride at a pace of 28-30kmh average. Please ensure you have knowledge of the common hand and voice signals before joining. \n\nPlease remember to bring inner tubes, CO2 cartridges, water and snacks for the ride. Please also download the route onto your computer in advance.\n\nFlat pedals, TT bikes and mountain bikes are not permitted on this ride. \n\nMeet-up: 17:00 at the Rapha Copenhagen Clubhouse (Kristen Bernikows Gade 7)\nDeparture: 17:15\nPace: 28-30kmh\n\nWe look forward to riding with you! \n\nIf you can no longer join this ride, we kindly ask you to leave the ride on Strava so we can open your spot up to the next rider.\n",
+      "activity_type": "Ride",
+      "route_id": 3385238264398814700,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-05T07:04:55.989Z"
     },
     {
       "id": 3481936645449361000,
@@ -600,7 +784,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:26.545Z"
+      "fetched_at": "2026-06-05T07:04:54.405Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -620,7 +804,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-04T07:21:35.474Z"
+      "fetched_at": "2026-06-05T07:05:06.595Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -640,7 +824,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-04T07:21:35.474Z"
+      "fetched_at": "2026-06-05T07:05:06.595Z"
     },
     {
       "id": 3425188804025399300,
@@ -663,7 +847,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:28.265Z"
+      "fetched_at": "2026-06-05T07:04:56.639Z"
     },
     {
       "id": 2166682,
@@ -686,7 +870,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-04T07:21:28.265Z"
+      "fetched_at": "2026-06-05T07:04:56.639Z"
     }
   ]
 }
