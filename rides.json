@@ -1,76 +1,7 @@
 {
-  "generated_at": "2026-06-06T06:26:05.985Z",
-  "total_rides": 37,
+  "generated_at": "2026-06-07T07:03:10.423Z",
+  "total_rides": 34,
   "rides": [
-    {
-      "id": 3466012401428104000,
-      "title": "Road Ride",
-      "source": "strava",
-      "club": {
-        "id": 1048788,
-        "name": "Pas Normal Studios Copenhagen",
-        "strava_url": "https://www.strava.com/clubs/1048788"
-      },
-      "event_url": "https://www.strava.com/clubs/1048788/group_events/3466012401428104000",
-      "date": "2026-06-06T07:15:00Z",
-      "upcoming_dates": [
-        "2026-06-06T07:15:00Z"
-      ],
-      "location": null,
-      "description": "Join us for our Long Road Ride — a longer endurance ride, with a high tempo. Depending on numbers of participents we will split up in two groups. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Target average speed: 32–34 km/h. Participants should be comfortable riding in a group and familiar with standard hand and verbal signals. We usually finish at the shop for a drink or something to eat. \n\nIf you have any questions please reach out. Looking forward seeing you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 09.15\nStart time: 09.30\nDistance: 100-120 km +/-\nPace: 32- 34 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n",
-      "activity_type": "Ride",
-      "route_id": 3497205923866888000,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-06T06:25:57.367Z"
-    },
-    {
-      "id": 3495070579450201000,
-      "title": "Women's Ice Cream Ride",
-      "source": "strava",
-      "club": {
-        "id": 120055,
-        "name": "Rapha Cycle Club Copenhagen",
-        "strava_url": "https://www.strava.com/clubs/120055"
-      },
-      "event_url": "https://www.strava.com/clubs/120055/group_events/3495070579450201000",
-      "date": "2026-06-06T07:15:00Z",
-      "upcoming_dates": [
-        "2026-06-06T07:15:00Z"
-      ],
-      "location": null,
-      "description": "Join us on June 6th for our next Social ride led by our team of Rapha Ride Leaders; Lola, Olivia, Signe & Nora. This time on a Saturday as we enjoy some ice cream at Ismageriet in Amager after the ride.\n\nOn this social ride, we will ride together over some social loops on Amager. This ride is designed to increase your confidence riding alongside each other following the guidance of our Rapha Ride Leaders. This ride will take place with an average speed of 24-26kmh.\n\nTips and tricks before joining:\n\nPlease ensure you have knowledge of the common hand and voice signals before joining. \n\nPlease remember to bring inner tubes, CO2 cartridges, water and snacks for the ride. Please also download the route onto your computer in advance.\n\nFlat pedals, TT bikes and mountain bikes are not permitted on this ride. \n\nMeet-up: 09:15 at the Rapha Copenhagen Clubhouse (Kristen Bernikows Gade 7)\nDeparture: 09:30\nPace: 24-26kmh\n\nPre-ride coffee will be served to all at the Rapha Clubhouse before the ride.\n\nPlease remember a form of payment if you would like to purchase some ice cream.\n\nWe look forward to riding with you! \n\nIf you can no longer join this ride, we kindly ask you to leave the ride on Strava so we can open your spot up to the next rider.\n",
-      "activity_type": "Ride",
-      "route_id": 3495056752566579700,
-      "women_only": true,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-06T06:25:58.530Z"
-    },
-    {
-      "id": 3491096617069993500,
-      "title": "Copenhagen Cycling Club Road Saturday",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3491096617069993500",
-      "date": "2026-06-06T07:30:00Z",
-      "upcoming_dates": [
-        "2026-06-06T07:30:00Z"
-      ],
-      "location": null,
-      "description": "Lørdag den 6. juni køres der en ny landevejsrute fra Copenhagen Cycling Club. \n\nVi skal op nordpå mod Tikøb, hvor der køres lidt opvarmning undervejs. Når vi drejer vestover køres der på et udvalg af lækre landeveje inden vi gør stop i Vejby, hvor der kan hældes benzin på dunken. \n\nTempoet vil variere efter om der køres intervaller eller transport, men forvent en hård dag til bentøjet. Husk masser af sukker i dunken, downloadet rute, og plugs, slange, Co2 og den slags. \n\nVi mødes ved butikken kl. 09.15 til de morgenfriske! Afgang 9.30 :)   ",
-      "activity_type": "Ride",
-      "route_id": 3486983524136274400,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-06T06:26:03.164Z"
-    },
     {
       "id": 3489551601471613400,
       "title": "Women's Road Ride ",
@@ -86,13 +17,13 @@
         "2026-06-07T08:00:00Z"
       ],
       "location": null,
-      "description": "Join us for our Women's Road Ride. This is a longer endurance ride. We will ride together as one group all the way along the route. We will change taking turns at the front all the way. We will aim for an average speed of 28 - 30 km/t. We expect people are used to riding in a group and are familiar with the signs being used in a group. Usually we finish the ride at the shop for a drink or something to eat.\nIf you have any questions please reach out. Looking forward seeing you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 10.00\nStart time: 10.15\nDistance: 100-120 km +/-\nPace: 28- 30 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#Womensride\n",
+      "description": "Due to the weather forecast we have shorten the route :) \n\nJoin us for our Women's Road Ride. This is a longer endurance ride. We will ride together as one group all the way along the route. We will change taking turns at the front all the way. We will aim for an average speed of 28 - 30 km/t. We expect people are used to riding in a group and are familiar with the signs being used in a group. Usually we finish the ride at the shop for a drink or something to eat.\nIf you have any questions please reach out. Looking forward seeing you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 10.00\nStart time: 10.15\nDistance: 100-120 km +/-\nPace: 28- 30 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#Womensride\n",
       "activity_type": "Ride",
-      "route_id": 3375069230539040300,
+      "route_id": 3488266592480769500,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:57.368Z"
+      "fetched_at": "2026-06-07T07:03:00.626Z"
     },
     {
       "id": 3494284811639793700,
@@ -115,7 +46,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:57.368Z"
+      "fetched_at": "2026-06-07T07:03:00.626Z"
     },
     {
       "id": 3488933799502066700,
@@ -138,7 +69,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:57.368Z"
+      "fetched_at": "2026-06-07T07:03:00.626Z"
     },
     {
       "id": 3428498322104233500,
@@ -161,7 +92,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:03.164Z"
+      "fetched_at": "2026-06-07T07:03:06.438Z"
     },
     {
       "id": 3466011859093106700,
@@ -184,7 +115,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:57.368Z"
+      "fetched_at": "2026-06-07T07:03:00.626Z"
     },
     {
       "id": "hybridsocial-gmyvzvb5",
@@ -204,7 +135,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-06T06:26:05.984Z"
+      "fetched_at": "2026-06-07T07:03:10.422Z"
     },
     {
       "id": 3497554796740363000,
@@ -227,7 +158,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:58.530Z"
+      "fetched_at": "2026-06-07T07:03:02.054Z"
     },
     {
       "id": 3479419016960838700,
@@ -250,7 +181,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:00.078Z"
+      "fetched_at": "2026-06-07T07:03:03.723Z"
     },
     {
       "id": 3479417783254889500,
@@ -273,7 +204,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:00.078Z"
+      "fetched_at": "2026-06-07T07:03:03.723Z"
     },
     {
       "id": 3479417034516131000,
@@ -296,7 +227,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:00.078Z"
+      "fetched_at": "2026-06-07T07:03:03.723Z"
     },
     {
       "id": 3479419395551435000,
@@ -319,7 +250,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:00.078Z"
+      "fetched_at": "2026-06-07T07:03:03.723Z"
     },
     {
       "id": 3488833378240840700,
@@ -342,7 +273,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:57.368Z"
+      "fetched_at": "2026-06-07T07:03:00.626Z"
     },
     {
       "id": "hybridsocial-hgmmh1pb",
@@ -362,7 +293,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-06T06:26:05.984Z"
+      "fetched_at": "2026-06-07T07:03:10.422Z"
     },
     {
       "id": "hybridsocial-rvq5nxml",
@@ -382,7 +313,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-06T06:26:05.984Z"
+      "fetched_at": "2026-06-07T07:03:10.422Z"
     },
     {
       "id": 3482382006930789400,
@@ -405,7 +336,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:58.998Z"
+      "fetched_at": "2026-06-07T07:03:02.559Z"
     },
     {
       "id": 3497555671266522600,
@@ -428,7 +359,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:58.530Z"
+      "fetched_at": "2026-06-07T07:03:02.054Z"
     },
     {
       "id": 2166645,
@@ -451,7 +382,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:58.999Z"
+      "fetched_at": "2026-06-07T07:03:02.559Z"
     },
     {
       "id": 3496914456272812500,
@@ -474,7 +405,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:03.164Z"
+      "fetched_at": "2026-06-07T07:03:06.438Z"
     },
     {
       "id": 3496915574818884600,
@@ -497,7 +428,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:03.164Z"
+      "fetched_at": "2026-06-07T07:03:06.438Z"
     },
     {
       "id": 3496920400234106000,
@@ -520,7 +451,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:03.164Z"
+      "fetched_at": "2026-06-07T07:03:06.438Z"
     },
     {
       "id": 3496916884443872000,
@@ -543,7 +474,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:03.164Z"
+      "fetched_at": "2026-06-07T07:03:06.438Z"
     },
     {
       "id": "hybridsocial-1xv737zn",
@@ -563,7 +494,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-06T06:26:05.984Z"
+      "fetched_at": "2026-06-07T07:03:10.422Z"
     },
     {
       "id": 3496919018707498500,
@@ -586,7 +517,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:03.164Z"
+      "fetched_at": "2026-06-07T07:03:06.438Z"
     },
     {
       "id": 3496917968155936000,
@@ -609,7 +540,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:03.164Z"
+      "fetched_at": "2026-06-07T07:03:06.438Z"
     },
     {
       "id": 3496921322080882700,
@@ -632,7 +563,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:26:03.164Z"
+      "fetched_at": "2026-06-07T07:03:06.438Z"
     },
     {
       "id": "hybridsocial-ye9eh9r0",
@@ -652,7 +583,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-06T06:26:05.984Z"
+      "fetched_at": "2026-06-07T07:03:10.422Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -672,7 +603,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-06T06:26:05.985Z"
+      "fetched_at": "2026-06-07T07:03:10.422Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -692,7 +623,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-06T06:26:05.985Z"
+      "fetched_at": "2026-06-07T07:03:10.422Z"
     },
     {
       "id": 3497556238512681500,
@@ -715,7 +646,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:58.530Z"
+      "fetched_at": "2026-06-07T07:03:02.054Z"
     },
     {
       "id": 3481936645449361000,
@@ -738,7 +669,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:57.368Z"
+      "fetched_at": "2026-06-07T07:03:00.626Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -758,7 +689,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-06T06:26:05.985Z"
+      "fetched_at": "2026-06-07T07:03:10.422Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -778,7 +709,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-06T06:26:05.985Z"
+      "fetched_at": "2026-06-07T07:03:10.422Z"
     },
     {
       "id": 3425188804025399300,
@@ -801,7 +732,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:58.999Z"
+      "fetched_at": "2026-06-07T07:03:02.559Z"
     },
     {
       "id": 2166682,
@@ -824,7 +755,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-06T06:25:58.999Z"
+      "fetched_at": "2026-06-07T07:03:02.559Z"
     }
   ]
 }
