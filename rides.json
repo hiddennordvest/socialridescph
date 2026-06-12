@@ -1,122 +1,7 @@
 {
-  "generated_at": "2026-06-11T07:27:01.301Z",
-  "total_rides": 30,
+  "generated_at": "2026-06-12T07:19:33.932Z",
+  "total_rides": 25,
   "rides": [
-    {
-      "id": 3497554796740363000,
-      "title": "Women's Intermediate Ride",
-      "source": "strava",
-      "club": {
-        "id": 120055,
-        "name": "Rapha Cycle Club Copenhagen",
-        "strava_url": "https://www.strava.com/clubs/120055"
-      },
-      "event_url": "https://www.strava.com/clubs/120055/group_events/3497554796740363000",
-      "date": "2026-06-11T15:00:00Z",
-      "upcoming_dates": [
-        "2026-06-11T15:00:00Z"
-      ],
-      "location": null,
-      "description": "Join us on June 11th for this Women’s Intermediate ride led by our team of Rapha Ride Leaders; Lola, Olivia, Signe & Nora. \n\nIf you’re experienced in a group ride setting and looking for a faster ride then this intermediate ride is for you. These rides will take place with an average speed of 28-30kmh. \n\nWe will ride at a pace of 28-30kmh average. Please ensure you have knowledge of the common hand and voice signals before joining. \n\nPlease remember to bring inner tubes, CO2 cartridges, water and snacks for the ride. Please also download the route onto your computer in advance.\n\nFlat pedals, TT bikes and mountain bikes are not permitted on this ride. \n\nMeet-up: 17:00 at the Rapha Copenhagen Clubhouse (Kristen Bernikows Gade 7)\nDeparture: 17:15\nPace: 28-30kmh\n\nWe look forward to riding with you! \n\nIf you can no longer join this ride, we kindly ask you to leave the ride on Strava so we can open your spot up to the next rider.\n",
-      "activity_type": "Ride",
-      "route_id": 3385240141633067500,
-      "women_only": true,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-11T07:26:55.633Z"
-    },
-    {
-      "id": 3479419016960838700,
-      "title": "CRANKS THURSDAY RIDE - fast",
-      "source": "strava",
-      "club": {
-        "id": 502279,
-        "name": "Cranks Cycling Club",
-        "strava_url": "https://www.strava.com/clubs/502279"
-      },
-      "event_url": "https://www.strava.com/clubs/502279/group_events/3479419016960838700",
-      "date": "2026-06-11T15:30:00Z",
-      "upcoming_dates": [
-        "2026-06-11T15:30:00Z"
-      ],
-      "location": null,
-      "description": "Thursday fast ride.\n\nRide Leader - Joakim\n\nPace: +34 km/t.\nDistance: +70km.\nRoll out: 17.30\nSurface: Road\n\nRemeber lights.\nHelmets are mandatory.\nBring spare plugs, tubes, tools what you need.\nObey the traffic rules.\nDrop ride. \n\nSee you!",
-      "activity_type": null,
-      "route_id": null,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-11T07:26:57.171Z"
-    },
-    {
-      "id": 3479417783254889500,
-      "title": "CRANKS THURSDAY RIDE - social+",
-      "source": "strava",
-      "club": {
-        "id": 502279,
-        "name": "Cranks Cycling Club",
-        "strava_url": "https://www.strava.com/clubs/502279"
-      },
-      "event_url": "https://www.strava.com/clubs/502279/group_events/3479417783254889500",
-      "date": "2026-06-11T15:30:00Z",
-      "upcoming_dates": [
-        "2026-06-11T15:30:00Z"
-      ],
-      "location": null,
-      "description": "Thursday social+ ride.\n\nRide Leaders - Christian & Gustav\n\nPace: 30-32km/t.\nDistance: 65-75km.\nRoll out: 17.30\nSurface: Road\nNo drop ride. \n\nRemeber lights.\nHelmets are mandatory.\nBring spare plugs, tubes, tools what you need.\nObey the traffic rules.\n\nSee you!",
-      "activity_type": null,
-      "route_id": null,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-11T07:26:57.171Z"
-    },
-    {
-      "id": 3479417034516131000,
-      "title": "CRANKS THURSDAY RIDE - Social",
-      "source": "strava",
-      "club": {
-        "id": 502279,
-        "name": "Cranks Cycling Club",
-        "strava_url": "https://www.strava.com/clubs/502279"
-      },
-      "event_url": "https://www.strava.com/clubs/502279/group_events/3479417034516131000",
-      "date": "2026-06-11T15:30:00Z",
-      "upcoming_dates": [
-        "2026-06-11T15:30:00Z"
-      ],
-      "location": null,
-      "description": "Thursday social ride. \n\nRide Leaders - Mathias & Victor\n\nPace: 28-30km/t.\nDistance: 50-60km.\nRoll out: 17.30\nSurface: Road\n\nRemeber lights. \nHelmets are mandatory. \nBring spare plugs, tubes, tools what you need. \nObey the traffic rules. \n\nSee you!",
-      "activity_type": "Ride",
-      "route_id": null,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-11T07:26:57.171Z"
-    },
-    {
-      "id": 3479419395551435000,
-      "title": "CRANKS THURSDAY RIDE - Womens",
-      "source": "strava",
-      "club": {
-        "id": 502279,
-        "name": "Cranks Cycling Club",
-        "strava_url": "https://www.strava.com/clubs/502279"
-      },
-      "event_url": "https://www.strava.com/clubs/502279/group_events/3479419395551435000",
-      "date": "2026-06-11T15:30:00Z",
-      "upcoming_dates": [
-        "2026-06-11T15:30:00Z"
-      ],
-      "location": null,
-      "description": "Thursday womens ride.\n\nRide Leaders - Nanna & guests\n\nPace: 28-30km/t.\nDistance: 50-60km.\nRoll out: 17:30\nSurface: Road\n\nRemeber lights.\nHelmets are mandatory.\nBring spare plugs, tubes, tools what you need.\nObey the traffic rules.\nNo drop ride.\n\nSee you!",
-      "activity_type": null,
-      "route_id": null,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-11T07:26:57.171Z"
-    },
     {
       "id": 3488833378240840700,
       "title": "Chasing Daylight - 3 Days of Design - VELUX x PAS",
@@ -138,7 +23,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:54.396Z"
+      "fetched_at": "2026-06-12T07:19:25.528Z"
     },
     {
       "id": 3466012401428104000,
@@ -161,7 +46,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:54.396Z"
+      "fetched_at": "2026-06-12T07:19:25.529Z"
     },
     {
       "id": "hybridsocial-hgmmh1pb",
@@ -181,7 +66,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-11T07:27:01.300Z"
+      "fetched_at": "2026-06-12T07:19:33.932Z"
     },
     {
       "id": "hybridsocial-rvq5nxml",
@@ -201,7 +86,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-11T07:27:01.300Z"
+      "fetched_at": "2026-06-12T07:19:33.932Z"
     },
     {
       "id": 3428498322104233500,
@@ -224,7 +109,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:59.717Z"
+      "fetched_at": "2026-06-12T07:19:31.356Z"
     },
     {
       "id": 3482382006930789400,
@@ -247,7 +132,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:56.144Z"
+      "fetched_at": "2026-06-12T07:19:27.337Z"
     },
     {
       "id": 3497555671266522600,
@@ -270,7 +155,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:55.633Z"
+      "fetched_at": "2026-06-12T07:19:26.852Z"
     },
     {
       "id": 2166645,
@@ -293,7 +178,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:56.144Z"
+      "fetched_at": "2026-06-12T07:19:27.337Z"
     },
     {
       "id": 3496914456272812500,
@@ -316,7 +201,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:59.717Z"
+      "fetched_at": "2026-06-12T07:19:31.356Z"
     },
     {
       "id": 3496915574818884600,
@@ -339,7 +224,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:59.717Z"
+      "fetched_at": "2026-06-12T07:19:31.356Z"
     },
     {
       "id": 3496920400234106000,
@@ -362,7 +247,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:59.717Z"
+      "fetched_at": "2026-06-12T07:19:31.356Z"
     },
     {
       "id": 3496916884443872000,
@@ -385,7 +270,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:59.717Z"
+      "fetched_at": "2026-06-12T07:19:31.356Z"
     },
     {
       "id": "hybridsocial-1xv737zn",
@@ -405,7 +290,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-11T07:27:01.300Z"
+      "fetched_at": "2026-06-12T07:19:33.932Z"
     },
     {
       "id": 3496919018707498500,
@@ -428,7 +313,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:59.717Z"
+      "fetched_at": "2026-06-12T07:19:31.356Z"
     },
     {
       "id": 3496917968155936000,
@@ -451,7 +336,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:59.717Z"
+      "fetched_at": "2026-06-12T07:19:31.356Z"
     },
     {
       "id": 3496921322080882700,
@@ -474,7 +359,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:59.717Z"
+      "fetched_at": "2026-06-12T07:19:31.356Z"
     },
     {
       "id": "hybridsocial-ye9eh9r0",
@@ -494,7 +379,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-11T07:27:01.300Z"
+      "fetched_at": "2026-06-12T07:19:33.932Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -514,7 +399,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-11T07:27:01.300Z"
+      "fetched_at": "2026-06-12T07:19:33.932Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -534,7 +419,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-11T07:27:01.300Z"
+      "fetched_at": "2026-06-12T07:19:33.932Z"
     },
     {
       "id": 3497556238512681500,
@@ -557,7 +442,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:55.633Z"
+      "fetched_at": "2026-06-12T07:19:26.852Z"
     },
     {
       "id": 3481936645449361000,
@@ -580,7 +465,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:54.396Z"
+      "fetched_at": "2026-06-12T07:19:25.529Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -600,7 +485,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-11T07:27:01.300Z"
+      "fetched_at": "2026-06-12T07:19:33.932Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -620,7 +505,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-11T07:27:01.300Z"
+      "fetched_at": "2026-06-12T07:19:33.932Z"
     },
     {
       "id": 3425188804025399300,
@@ -643,7 +528,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:56.144Z"
+      "fetched_at": "2026-06-12T07:19:27.337Z"
     },
     {
       "id": 2166682,
@@ -666,7 +551,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-11T07:26:56.145Z"
+      "fetched_at": "2026-06-12T07:19:27.337Z"
     }
   ]
 }
