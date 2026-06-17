@@ -1,53 +1,7 @@
 {
-  "generated_at": "2026-06-16T08:43:15.956Z",
-  "total_rides": 30,
+  "generated_at": "2026-06-17T08:25:38.422Z",
+  "total_rides": 32,
   "rides": [
-    {
-      "id": 3428498322104233500,
-      "title": "Women’s weekly gravel training ✨",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3428498322104233500",
-      "date": "2026-06-16T15:20:00Z",
-      "upcoming_dates": [
-        "2026-06-16T15:20:00Z"
-      ],
-      "location": null,
-      "description": "Join us for our weekly gravel ride🫶🏻\n\nThe ride will be a training ride with a steady pace. We will do intervals on Manglebjerg (2 loops) and a “mini race” at Chaussen at Dyrehaven (everything is optional) \n\nRemember to bring snacks, spare parts and good vibes🫶🏻\n\n*****************************************\nMeeting point: Klubben aka Copenhagen Cycling Club\nMeet up: 17:20\nRoll-out: 17:30\nDistance: aprox. 60km\nPace: +/- 25-26 km/h\nSurface: gravel \n\nSee you for a fun training \n// Caroline & Julie",
-      "activity_type": "Ride",
-      "route_id": 3486114179545144000,
-      "women_only": true,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-16T08:43:13.265Z"
-    },
-    {
-      "id": 3500841088718978600,
-      "title": "DIRTY TUESDAY | AMAGER SOCIAL | GRAVEL BEERS N BURGERS 🍔",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3500841088718978600",
-      "date": "2026-06-16T15:20:00Z",
-      "upcoming_dates": [
-        "2026-06-16T15:20:00Z"
-      ],
-      "location": null,
-      "description": "Hey all,\n\nJoin our Dirty Tuesday gravel training in and around Amager with a new weekly route.\n\nWhat to expect:\nWarm up, reverse vo2 max sprints at Airport + Reservatvej, hill sprint at km 49.\n\nDetails:\nMeet up 17:20 - Roll out 17:30\nTempo 24-25 - Distance 50km +/-\n2 flats on the house (find your own way)\nRemember plugs, Co2 & energy.\nYou must be able to ride 50k at 24k avg. \nWe ride in 10-12 pax groups in same tempo.\nCancellation protocol: < 5 riders & heavy rain \n\nWe look forward to riding dirt with you and wrap it up with beer & burgers at our favourite hangout spot - Bootleggers.\n\nTeam Dirty Tuesday ",
-      "activity_type": "Ride",
-      "route_id": 3500839173488839000,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-16T08:43:13.265Z"
-    },
     {
       "id": 3482382006930789400,
       "title": " Shake-out ride | Day before COPENHAGEN to OSLO | Nordic Chase 2026",
@@ -69,7 +23,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:08.759Z"
+      "fetched_at": "2026-06-17T08:25:32.146Z"
     },
     {
       "id": 3497555671266522600,
@@ -92,7 +46,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:08.165Z"
+      "fetched_at": "2026-06-17T08:25:31.596Z"
     },
     {
       "id": 2166645,
@@ -115,30 +69,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:08.759Z"
-    },
-    {
-      "id": 3500445899595327000,
-      "title": "PNS x Cranks Midsummer Ride WOMEN'S ",
-      "source": "strava",
-      "club": {
-        "id": 1048788,
-        "name": "Pas Normal Studios Copenhagen",
-        "strava_url": "https://www.strava.com/clubs/1048788"
-      },
-      "event_url": "https://www.strava.com/clubs/1048788/group_events/3500445899595327000",
-      "date": "2026-06-20T06:00:00Z",
-      "upcoming_dates": [
-        "2026-06-20T06:00:00Z"
-      ],
-      "location": null,
-      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve.\n\nThis is the sign-up for the WOMEN'S group. Target speed 28-30 km/t. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route to refill bottles and more nutrition.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#midsummerchallange #womensride",
-      "activity_type": "Ride",
-      "route_id": null,
-      "women_only": true,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-16T08:43:06.777Z"
+      "fetched_at": "2026-06-17T08:25:32.146Z"
     },
     {
       "id": 3500445286594027000,
@@ -155,13 +86,36 @@
         "2026-06-20T06:00:00Z"
       ],
       "location": null,
-      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve.\n\nThis is the sign-up for the social group. Target speed 30-32 km/t. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route to refill bottles and more nutrition.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#midsummerchallange",
+      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve.\n\nThis is the sign-up for the social group. Target speed 30-32 km/t. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route in Roskilde and Frederikssund to refill bottles and more nutrition.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#midsummerchallange",
       "activity_type": "Ride",
-      "route_id": null,
+      "route_id": 3501867396365652500,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:06.778Z"
+      "fetched_at": "2026-06-17T08:25:29.989Z"
+    },
+    {
+      "id": 3500445899595327000,
+      "title": "PNS x Cranks Midsummer Ride WOMEN'S ",
+      "source": "strava",
+      "club": {
+        "id": 1048788,
+        "name": "Pas Normal Studios Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/1048788"
+      },
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3500445899595327000",
+      "date": "2026-06-20T06:00:00Z",
+      "upcoming_dates": [
+        "2026-06-20T06:00:00Z"
+      ],
+      "location": null,
+      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve.\n\nThis is the sign-up for the WOMEN'S group. Target speed 28-30 km/t. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route in Roskilde and Frederikssund to refill bottles and more nutrition.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#midsummerchallange #womensride",
+      "activity_type": "Ride",
+      "route_id": 3501867396365652500,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-17T08:25:29.990Z"
     },
     {
       "id": 3500443987518011400,
@@ -178,13 +132,59 @@
         "2026-06-20T06:00:00Z"
       ],
       "location": null,
-      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve. \n\nThis is the sign-up for the FAST group. Target speed 32-34 km/t. First 100k will be social pace, last 100k will be fast/drop pace. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route to refill bottles and more nutrition. \n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event. \n#midsummerchallange \n",
+      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve. \n\nThis is the sign-up for the FAST group. Target speed 32-34 km/t. First 100k will be social pace, last 100k after Frederikssund will be fast/drop pace. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route in Roskilde and Frederikssund to refill bottles and more nutrition.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event. \n#midsummerchallange \n",
       "activity_type": "Ride",
-      "route_id": null,
+      "route_id": 3501867396365652500,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:06.778Z"
+      "fetched_at": "2026-06-17T08:25:29.990Z"
+    },
+    {
+      "id": 3501935330426797600,
+      "title": "Midsummerride m. PNS X cranks",
+      "source": "strava",
+      "club": {
+        "id": 502279,
+        "name": "Cranks Cycling Club",
+        "strava_url": "https://www.strava.com/clubs/502279"
+      },
+      "event_url": "https://www.strava.com/clubs/502279/group_events/3501935330426797600",
+      "date": "2026-06-20T06:00:00Z",
+      "upcoming_dates": [
+        "2026-06-20T06:00:00Z"
+      ],
+      "location": null,
+      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve. \n\nThis is the sign-up for the FAST group. Target speed 32-34 km/t. First 100k will be social pace, last 100k after Frederikssund will be fast/drop pace. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route in Roskilde and Frederikssund to refill bottles and more nutrition.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event. \n#midsummerchallange ",
+      "activity_type": "Ride",
+      "route_id": 3501922355598308400,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-17T08:25:33.481Z"
+    },
+    {
+      "id": 3501935903089538000,
+      "title": "Midsummerride social PNS x CRANKS",
+      "source": "strava",
+      "club": {
+        "id": 502279,
+        "name": "Cranks Cycling Club",
+        "strava_url": "https://www.strava.com/clubs/502279"
+      },
+      "event_url": "https://www.strava.com/clubs/502279/group_events/3501935903089538000",
+      "date": "2026-06-20T06:00:00Z",
+      "upcoming_dates": [
+        "2026-06-20T06:00:00Z"
+      ],
+      "location": null,
+      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve.\n\nThis is the sign-up for the social group. Target speed 30-32 km/t. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route in Roskilde and Frederikssund to refill bottles and more nutrition.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#midsummerchallange",
+      "activity_type": "Ride",
+      "route_id": 3501922355598308400,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-17T08:25:33.481Z"
     },
     {
       "id": 3496915574818884600,
@@ -207,7 +207,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:13.265Z"
+      "fetched_at": "2026-06-17T08:25:36.172Z"
     },
     {
       "id": 3496914456272812500,
@@ -230,7 +230,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:13.265Z"
+      "fetched_at": "2026-06-17T08:25:36.172Z"
     },
     {
       "id": 3496920400234106000,
@@ -253,7 +253,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:13.265Z"
+      "fetched_at": "2026-06-17T08:25:36.172Z"
     },
     {
       "id": 3496916884443872000,
@@ -276,7 +276,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:13.265Z"
+      "fetched_at": "2026-06-17T08:25:36.172Z"
     },
     {
       "id": "hybridsocial-1xv737zn",
@@ -296,7 +296,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-16T08:43:15.956Z"
+      "fetched_at": "2026-06-17T08:25:38.421Z"
     },
     {
       "id": 3496919018707498500,
@@ -319,7 +319,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:13.265Z"
+      "fetched_at": "2026-06-17T08:25:36.172Z"
     },
     {
       "id": 3496917968155936000,
@@ -342,7 +342,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:13.265Z"
+      "fetched_at": "2026-06-17T08:25:36.172Z"
     },
     {
       "id": 3496921322080882700,
@@ -365,7 +365,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:13.265Z"
+      "fetched_at": "2026-06-17T08:25:36.172Z"
     },
     {
       "id": "hybridsocial-ye9eh9r0",
@@ -385,7 +385,30 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-16T08:43:15.956Z"
+      "fetched_at": "2026-06-17T08:25:38.421Z"
+    },
+    {
+      "id": 3502241144081615000,
+      "title": "DIRTY MIDSUMMER TUESDAY | AMAGER SOCIAL | GRAVEL BEERS N BONFIRE 🔥 ☀️",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3502241144081615000",
+      "date": "2026-06-23T15:00:00Z",
+      "upcoming_dates": [
+        "2026-06-23T15:00:00Z"
+      ],
+      "location": null,
+      "description": "Hey all,\n\nLet’s celebrate the longest day of the year the Dirty Tuesday way. Gravel, good company and making the most of the endless summer nights. \n\nWe ride earlier and further than usual and grab a pizza slice and sixpack on our return to the bonfire at Islands Brygge/Kalvebod Brygge at 9pm. \n\nWhat to expect:\nHill sprint at Herstedhøje and ‘stram kæde’\n\nDetails:\nMeet up 16:50 - Roll out 17:00\nTempo 25 - Distance 50km +/-\n2 flats on the house (find your own way)\nRemember plugs, Co2 & energy.\nYou must be able to ride 50k at 25k avg. \nWe ride in 10-12 pax groups in same tempo.\nCancellation protocol: < 5 riders & heavy rain \n\nWe look forward to riding dirt with you and wrap it up with bonfire & beers at Islands Brygge 🔥☀️\n\nTeam Dirty Tuesday ",
+      "activity_type": "Ride",
+      "route_id": null,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-17T08:25:36.172Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -405,7 +428,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-16T08:43:15.956Z"
+      "fetched_at": "2026-06-17T08:25:38.421Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -425,7 +448,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-16T08:43:15.956Z"
+      "fetched_at": "2026-06-17T08:25:38.421Z"
     },
     {
       "id": 3497556238512681500,
@@ -448,7 +471,30 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:08.165Z"
+      "fetched_at": "2026-06-17T08:25:31.596Z"
+    },
+    {
+      "id": 3466012401428104000,
+      "title": "Road Ride",
+      "source": "strava",
+      "club": {
+        "id": 1048788,
+        "name": "Pas Normal Studios Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/1048788"
+      },
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3466012401428104000",
+      "date": "2026-06-27T07:15:00Z",
+      "upcoming_dates": [
+        "2026-06-27T07:15:00Z"
+      ],
+      "location": null,
+      "description": "Join us for our Long Road Ride — a longer endurance ride, with a high tempo. Depending on numbers of participents we will split up in two groups. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Target average speed: 32–34 km/h. Participants should be comfortable riding in a group and familiar with standard hand and verbal signals. We usually finish at the shop for a drink or something to eat. \n\nIf you have any questions please reach out. Looking forward seeing you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 09.15\nStart time: 09.30\nDistance: 100-120 km +/-\nPace: 32- 34 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n",
+      "activity_type": "Ride",
+      "route_id": 3465993379176408000,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-17T08:25:29.990Z"
     },
     {
       "id": 3501455587248958500,
@@ -471,7 +517,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:13.265Z"
+      "fetched_at": "2026-06-17T08:25:36.172Z"
     },
     {
       "id": 3481936645449361000,
@@ -494,7 +540,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:06.778Z"
+      "fetched_at": "2026-06-17T08:25:29.990Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -514,7 +560,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-16T08:43:15.956Z"
+      "fetched_at": "2026-06-17T08:25:38.421Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -534,7 +580,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-16T08:43:15.956Z"
+      "fetched_at": "2026-06-17T08:25:38.421Z"
     },
     {
       "id": "hybridsocial-dnzjp0wh",
@@ -554,7 +600,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-16T08:43:15.955Z"
+      "fetched_at": "2026-06-17T08:25:38.421Z"
     },
     {
       "id": "hybridsocial-cte3xfz1",
@@ -574,7 +620,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-16T08:43:15.956Z"
+      "fetched_at": "2026-06-17T08:25:38.421Z"
     },
     {
       "id": "hybridsocial-ji829uah",
@@ -594,7 +640,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-16T08:43:15.956Z"
+      "fetched_at": "2026-06-17T08:25:38.421Z"
     },
     {
       "id": "hybridsocial-dx6iu5s3",
@@ -614,7 +660,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-16T08:43:15.956Z"
+      "fetched_at": "2026-06-17T08:25:38.421Z"
     },
     {
       "id": 3425188804025399300,
@@ -637,7 +683,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:08.759Z"
+      "fetched_at": "2026-06-17T08:25:32.146Z"
     },
     {
       "id": 2166682,
@@ -660,7 +706,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-16T08:43:08.759Z"
+      "fetched_at": "2026-06-17T08:25:32.146Z"
     }
   ]
 }
