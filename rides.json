@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T08:25:38.422Z",
-  "total_rides": 32,
+  "generated_at": "2026-06-18T08:04:51.094Z",
+  "total_rides": 31,
   "rides": [
     {
       "id": 3482382006930789400,
@@ -23,7 +23,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:32.146Z"
+      "fetched_at": "2026-06-18T08:04:44.917Z"
     },
     {
       "id": 3497555671266522600,
@@ -46,7 +46,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:31.596Z"
+      "fetched_at": "2026-06-18T08:04:44.442Z"
     },
     {
       "id": 2166645,
@@ -69,7 +69,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:32.146Z"
+      "fetched_at": "2026-06-18T08:04:44.917Z"
     },
     {
       "id": 3500445286594027000,
@@ -92,7 +92,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:29.989Z"
+      "fetched_at": "2026-06-18T08:04:43.100Z"
     },
     {
       "id": 3500445899595327000,
@@ -115,7 +115,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:29.990Z"
+      "fetched_at": "2026-06-18T08:04:43.100Z"
     },
     {
       "id": 3500443987518011400,
@@ -138,7 +138,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:29.990Z"
+      "fetched_at": "2026-06-18T08:04:43.100Z"
     },
     {
       "id": 3501935330426797600,
@@ -161,7 +161,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:33.481Z"
+      "fetched_at": "2026-06-18T08:04:45.996Z"
     },
     {
       "id": 3501935903089538000,
@@ -184,7 +184,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:33.481Z"
+      "fetched_at": "2026-06-18T08:04:45.996Z"
     },
     {
       "id": 3496915574818884600,
@@ -207,7 +207,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:36.172Z"
+      "fetched_at": "2026-06-18T08:04:48.700Z"
     },
     {
       "id": 3496914456272812500,
@@ -230,7 +230,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:36.172Z"
+      "fetched_at": "2026-06-18T08:04:48.700Z"
     },
     {
       "id": 3496920400234106000,
@@ -249,34 +249,11 @@
       "location": null,
       "description": "Vi skyder 2 Days of Sport i gang med et social run. Vi deler op i to pacegrupper – 5:30 og 6:30 min/km – og løber samlet fra Copenhagen Cycling Club.\n\nRuten tager os ud på lange stræk af rolige og uforstyrrede veje og er lagt op som et social run med plads til både snak og gode kilometer. Et run med fokus på bevægelse, fællesskab og en god oplevelse – uanset om du løber fast eller bare har lyst til at være med.\n\nHusk at medbringe gode vibes.\n\nNår vi er tilbage, er der snacks fra Kcal, mulighed for at købe kaffe og sodavand – og tid til at hænge ud med andre ryttere og løbere. \nDerudover kan du opleve og teste produkter fra Puronia, Sloe, Good Habit Company og Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club\n Meet up: 11:00 \nStart: 11:10ish\n Distance: ~6 km\n Pace groups: 5:30 min/km · 6:30 min/km \nSurface: Asfalt\n—\nEnglish\nJoin us for a social run.\nWe kick off 2 Days of Sport with a social run. We’ll split into two pace groups – 5:30 and 6:30 min/km – and start together from Copenhagen Cycling Club.\n\nThe route takes us onto long stretches of quiet and uninterrupted roads and is designed as a social run with room for conversations and quality kilometres. A run focused on movement, community and a good experience – whether you run regularly or simply want to join.\n\nBring good vibes.\n\nBack at the club there will be snacks from Kcal, coffee and soft drinks available to purchase, and time to hang out with fellow riders and runners. \nYou’ll also get the chance to explore and test products from Puronia, Sloe, Good Habit Company and Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 11:00 \nStart: 11:10ish \nDistance: ~6 km \nPace groups: 5:30 min/km · 6:30 min/km\n Surface: Tarmac",
       "activity_type": "Run",
-      "route_id": null,
+      "route_id": 3501794485442349000,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:36.172Z"
-    },
-    {
-      "id": 3496916884443872000,
-      "title": "Women only - Social Road Ride by Strada Elite Women",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3496916884443872000",
-      "date": "2026-06-20T12:00:00Z",
-      "upcoming_dates": [
-        "2026-06-20T12:00:00Z"
-      ],
-      "location": null,
-      "description": "Women only ride by Strada Elite Women\nLørdag eftermiddag fortsætter 2 Days of Sport med en fælles tur på landevejen – kun for kvinder. Turen ledes af ryttere fra Strada Elite Women, og vi ruller samlet ud fra Copenhagen Cycling Club mod nogle af de bedste landeveje i Nordsjælland.\n\nRuten byder på smukke landeveje, smooth tarmac og cirka 80 km i godt selskab. En tur med fokus på fællesskab, gode føringer, snak undervejs og mange gode kilometer i sadlen.\n\nHusk energi, vand og gode vibes.\n\nVi forventer, at alle har ruten på deres cykelcomputer, tidligere har kørt landevej og er vant til at køre i gruppe.\n\nNår vi er tilbage, fortsætter eftermiddagen i butikken. Der vil være mulighed for at købe pizza (bestilles inden vi ruller ud), købe sodavand, øl og måske en lille drink.\n\nDerudover kan du opleve og teste produkter fra Puronia, Sloe, Good Habit Company og Pine Athletic Skincare.\n\nVeninder, kærester, mænd og familie er meget velkomne til at joine den sociale del efterfølgende. Hvis de ønsker pizza, skal den bestilles senest kl. 15.\n\nMeeting point: Copenhagen Cycling Club\n Meet up: 14:45 \nRoll-out: 14:00ish \nDistance: ~80 km \nSurface: Road \nRide leaders: Strada Elite Women\n—\nWomen only road ride.\nOn Saturday afternoon, 2 Days of Sport continues with a shared ride on the road – exclusively for women. \nThe ride will be led by riders from Strada Elite Women as we roll out together from Copenhagen Cycling Club towards some of the best roads north of Copenhagen.\n\nThe route combines beautiful roads, smooth tarmac and around 80 km of good company. A ride built around community, smooth turns, conversations and plenty of quality kilometres in the saddle.\n\nBring energy, water and good vibes.\n\nWe expect everyone to have the route loaded on their bike computer, previous road riding experience and to be comfortable riding in a group.\n\nBack at the club, the afternoon continues. There will be the option to buy pizza (order before roll-out), along with soft drinks, beers and maybe a small drink.\n\nYou’ll also get the chance to explore and test products from Puronia, Sloe, Good Habit Company and Pine Athletic Skincare.\n\nFriends, partners, men and family are all welcome to join the social gathering afterwards. If they would like pizza, orders must be placed before 15:00.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 13:45 \nRoll-out: 14:00ish \nDistance: ~80 km \nSurface: Road \nRide leaders: Strada Elite Women",
-      "activity_type": "Ride",
-      "route_id": 3501622353215958000,
-      "women_only": true,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-17T08:25:36.172Z"
+      "fetched_at": "2026-06-18T08:04:48.700Z"
     },
     {
       "id": "hybridsocial-1xv737zn",
@@ -296,7 +273,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-17T08:25:38.421Z"
+      "fetched_at": "2026-06-18T08:04:51.093Z"
     },
     {
       "id": 3496919018707498500,
@@ -319,7 +296,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:36.172Z"
+      "fetched_at": "2026-06-18T08:04:48.700Z"
     },
     {
       "id": 3496917968155936000,
@@ -342,7 +319,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:36.172Z"
+      "fetched_at": "2026-06-18T08:04:48.700Z"
     },
     {
       "id": 3496921322080882700,
@@ -365,7 +342,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:36.172Z"
+      "fetched_at": "2026-06-18T08:04:48.700Z"
     },
     {
       "id": "hybridsocial-ye9eh9r0",
@@ -385,11 +362,11 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-17T08:25:38.421Z"
+      "fetched_at": "2026-06-18T08:04:51.093Z"
     },
     {
       "id": 3502241144081615000,
-      "title": "DIRTY MIDSUMMER TUESDAY | AMAGER SOCIAL | GRAVEL BEERS N BONFIRE 🔥 ☀️",
+      "title": "DIRTY MIDSUMMER | AMAGER SOCIAL | GRAVEL BEERS N BONFIRE 🔥 ☀️",
       "source": "strava",
       "club": {
         "id": 299419,
@@ -404,11 +381,11 @@
       "location": null,
       "description": "Hey all,\n\nLet’s celebrate the longest day of the year the Dirty Tuesday way. Gravel, good company and making the most of the endless summer nights. \n\nWe ride earlier and further than usual and grab a pizza slice and sixpack on our return to the bonfire at Islands Brygge/Kalvebod Brygge at 9pm. \n\nWhat to expect:\nHill sprint at Herstedhøje and ‘stram kæde’\n\nDetails:\nMeet up 16:50 - Roll out 17:00\nTempo 25 - Distance 50km +/-\n2 flats on the house (find your own way)\nRemember plugs, Co2 & energy.\nYou must be able to ride 50k at 25k avg. \nWe ride in 10-12 pax groups in same tempo.\nCancellation protocol: < 5 riders & heavy rain \n\nWe look forward to riding dirt with you and wrap it up with bonfire & beers at Islands Brygge 🔥☀️\n\nTeam Dirty Tuesday ",
       "activity_type": "Ride",
-      "route_id": null,
+      "route_id": 3502270520206201000,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:36.172Z"
+      "fetched_at": "2026-06-18T08:04:48.700Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -428,7 +405,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-17T08:25:38.421Z"
+      "fetched_at": "2026-06-18T08:04:51.093Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -448,7 +425,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-17T08:25:38.421Z"
+      "fetched_at": "2026-06-18T08:04:51.093Z"
     },
     {
       "id": 3497556238512681500,
@@ -471,7 +448,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:31.596Z"
+      "fetched_at": "2026-06-18T08:04:44.442Z"
     },
     {
       "id": 3466012401428104000,
@@ -494,7 +471,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:29.990Z"
+      "fetched_at": "2026-06-18T08:04:43.100Z"
     },
     {
       "id": 3501455587248958500,
@@ -517,7 +494,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:36.172Z"
+      "fetched_at": "2026-06-18T08:04:48.701Z"
     },
     {
       "id": 3481936645449361000,
@@ -540,7 +517,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:29.990Z"
+      "fetched_at": "2026-06-18T08:04:43.100Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -560,7 +537,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-17T08:25:38.421Z"
+      "fetched_at": "2026-06-18T08:04:51.093Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -580,7 +557,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-17T08:25:38.421Z"
+      "fetched_at": "2026-06-18T08:04:51.093Z"
     },
     {
       "id": "hybridsocial-dnzjp0wh",
@@ -600,7 +577,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-17T08:25:38.421Z"
+      "fetched_at": "2026-06-18T08:04:51.093Z"
     },
     {
       "id": "hybridsocial-cte3xfz1",
@@ -620,7 +597,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-17T08:25:38.421Z"
+      "fetched_at": "2026-06-18T08:04:51.093Z"
     },
     {
       "id": "hybridsocial-ji829uah",
@@ -640,7 +617,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-17T08:25:38.421Z"
+      "fetched_at": "2026-06-18T08:04:51.093Z"
     },
     {
       "id": "hybridsocial-dx6iu5s3",
@@ -660,7 +637,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-17T08:25:38.421Z"
+      "fetched_at": "2026-06-18T08:04:51.093Z"
     },
     {
       "id": 3425188804025399300,
@@ -683,7 +660,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:32.146Z"
+      "fetched_at": "2026-06-18T08:04:44.917Z"
     },
     {
       "id": 2166682,
@@ -706,7 +683,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-17T08:25:32.146Z"
+      "fetched_at": "2026-06-18T08:04:44.918Z"
     }
   ]
 }
