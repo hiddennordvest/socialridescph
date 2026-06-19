@@ -1,79 +1,33 @@
 {
-  "generated_at": "2026-06-18T08:04:51.094Z",
-  "total_rides": 31,
+  "generated_at": "2026-06-19T08:28:49.066Z",
+  "total_rides": 28,
   "rides": [
     {
-      "id": 3482382006930789400,
-      "title": " Shake-out ride | Day before COPENHAGEN to OSLO | Nordic Chase 2026",
+      "id": 3500443987518011400,
+      "title": "PNS x CRANKS Midsummer Ride FAST",
       "source": "strava",
       "club": {
-        "id": 1383419,
-        "name": "Nordic Chase",
-        "strava_url": "https://www.strava.com/clubs/1383419"
+        "id": 1048788,
+        "name": "Pas Normal Studios Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/1048788"
       },
-      "event_url": "https://www.strava.com/clubs/1383419/group_events/3482382006930789400",
-      "date": "2026-06-18T13:30:00Z",
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3500443987518011400",
+      "date": "2026-06-20T06:00:00Z",
       "upcoming_dates": [
-        "2026-06-18T13:30:00Z"
+        "2026-06-20T06:00:00Z"
       ],
       "location": null,
-      "description": "The Pre-Chase Shake Out 🇩🇰🥐\n\nOne final spin before the big push to Oslo!\n\nThis ride is all about the ice breaker. Use these kms to meet the riders you’ll be chasing over the next few days. It’s also the perfect time for a final equipment test.\n\n📍 The Details\n\nWhen: Friday, June 5th, 2026\n\nMeetup: 3:30 PM\n\nRoll-out: 3:30 PM Sharp ⏱️\n\nStart Point: Dampfærgevej 30, 2100 København (Official Race Start)\n\nDistance: ~58 km (Social shake out)\n\nPace: 27–28 km/h\n\nFinish: Back at  GoNordic HQ (Dampfærgevej 30) for the Rider Briefing at 5h30 pm\n\n🛠️ What You Need to Know\n\nGroups: We will split into smaller groups on the road to keep things safe.\nNavigation: Please ensure you have the route downloaded to your head unit. ⚠️\nKit: Bring a flat kit for punctures and your best post-taper vibes.\n\nWaitlist / Registration 🚨\nThe official race to Oslo is currently sold out! If you aren't on the roster yet but still want to join the chase, shoot us an email to see if we can squeeze you in:\n\n👉 info@nordicchase.com\n\nSee you there! ✌️",
+      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve. \n\nThis is the sign-up for the FAST group. Target speed 32-34 km/t. First 100k will be social pace, last 100k after Frederikssund will be fast/drop pace. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route in Roskilde and Frederikssund to refill bottles and more nutrition.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event. \n#midsummerchallange \n",
       "activity_type": "Ride",
-      "route_id": 3501212144515915000,
+      "route_id": 3501867396365652500,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:44.917Z"
-    },
-    {
-      "id": 3497555671266522600,
-      "title": "Women's Social",
-      "source": "strava",
-      "club": {
-        "id": 120055,
-        "name": "Rapha Cycle Club Copenhagen",
-        "strava_url": "https://www.strava.com/clubs/120055"
-      },
-      "event_url": "https://www.strava.com/clubs/120055/group_events/3497555671266522600",
-      "date": "2026-06-18T15:00:00Z",
-      "upcoming_dates": [
-        "2026-06-18T15:00:00Z"
-      ],
-      "location": null,
-      "description": "Join us on June 18th for our next Social ride led by our team of Rapha Ride Leaders; Lola, Olivia, Signe & Nora. \n\nOn this social ride, we will ride together over a social loop of Amager. This ride is designed to increase your confidence riding alongside each other following the guidance of our Rapha Ride Leaders. This ride will take place with an average speed of 24-26kmh.\n\nTips and tricks before joining:\n\nPlease ensure you have knowledge of the common hand and voice signals before joining. \n\nPlease remember to bring inner tubes, CO2 cartridges, water and snacks for the ride. Please also download the route onto your computer in advance.\n\nFlat pedals, TT bikes and mountain bikes are not permitted on this ride. \n\nMeet-up: 17:00 at the Rapha Copenhagen Clubhouse (Kristen Bernikows Gade 7)\nDeparture: 17:15\nPace: 24-26kmh\n\nPre-ride coffee will be served to all at the Rapha Clubhouse before the ride.\n\nWe look forward to riding with you! \n\nIf you can no longer join this ride, we kindly ask you to leave the ride on Strava so we can open your spot up to the next rider.\n",
-      "activity_type": "Ride",
-      "route_id": 3385226983193510400,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-18T08:04:44.442Z"
-    },
-    {
-      "id": 2166645,
-      "title": "Copenhagen to Oslo - Road Edition - Part of Nordic Chase 2026 (Ultra Cycling Series)",
-      "source": "strava",
-      "club": {
-        "id": 1383419,
-        "name": "Nordic Chase",
-        "strava_url": "https://www.strava.com/clubs/1383419"
-      },
-      "event_url": "https://www.strava.com/clubs/1383419/group_events/2166645",
-      "date": "2026-06-19T05:00:00Z",
-      "upcoming_dates": [
-        "2026-06-19T05:00:00Z"
-      ],
-      "location": null,
-      "description": "🌲 Nordic Chase – Road Edition 2026 🚴‍♀️\nCopenhagen → Oslo | Self-Supported Ultra-Distance Race\n\nThe Nordic Chase returns in 2026!\n\nThis Strava event is for the Road Edition, guiding riders on a wild and scenic journey from Copenhagen to Oslo, crossing Denmark, Sweden, and Norway through rolling hills, quiet roads, deep forests, and endless Nordic summer days.\n\n🔘 Official Dotwatcher.cc event\n📍 Live tracking via FollowMyChallenge.com\n\n🌍 Full route details and event schedule will be posted on:\n👉 www.nordicchase.com/road\n\nRegistrations are now full — we’ve reached our limit of 100 riders.\n\nFor more information, please visit www.nordicchase.com  or contact us at info@nordicchase.com\n\nPlease note that the final route and exact start location will be provided in the race manual.\n\nThe race manual will be shared by email with all registered participants. The race manual is scheduled for release on May 28th, 2026.",
-      "activity_type": "Ride",
-      "route_id": 3496251086966069000,
-      "women_only": false,
-      "skill_levels": 4,
-      "terrain": [],
-      "fetched_at": "2026-06-18T08:04:44.917Z"
+      "fetched_at": "2026-06-19T08:28:40.943Z"
     },
     {
       "id": 3500445286594027000,
-      "title": "PNS x Cranks Midsummer ride SOCIAL ",
+      "title": "PNS x Cranks Midsummer ride SOCIAL",
       "source": "strava",
       "club": {
         "id": 1048788,
@@ -86,13 +40,13 @@
         "2026-06-20T06:00:00Z"
       ],
       "location": null,
-      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve.\n\nThis is the sign-up for the social group. Target speed 30-32 km/t. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route in Roskilde and Frederikssund to refill bottles and more nutrition.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#midsummerchallange",
+      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve.\n\nThis is the sign-up for the social group. Target speed 30-32 km/t. On the way home we will speed up the pace, and people that would like to push a bit more, can take the front on the way home. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route in Roskilde and Frederikssund to refill bottles and more nutrition.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#midsummerchallange",
       "activity_type": "Ride",
       "route_id": 3501867396365652500,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:43.100Z"
+      "fetched_at": "2026-06-19T08:28:40.943Z"
     },
     {
       "id": 3500445899595327000,
@@ -115,30 +69,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:43.100Z"
-    },
-    {
-      "id": 3500443987518011400,
-      "title": "PNS x CRANKS Midsummer Ride FAST ",
-      "source": "strava",
-      "club": {
-        "id": 1048788,
-        "name": "Pas Normal Studios Copenhagen",
-        "strava_url": "https://www.strava.com/clubs/1048788"
-      },
-      "event_url": "https://www.strava.com/clubs/1048788/group_events/3500443987518011400",
-      "date": "2026-06-20T06:00:00Z",
-      "upcoming_dates": [
-        "2026-06-20T06:00:00Z"
-      ],
-      "location": null,
-      "description": "Join us for our yearly MIDSUMMER CHALLANGE. We will start at Pas Normal Studios Copenhagen, and end at our friends from Cranks and Coffee for something to eat. There is a limit of riders in each group, first come, first serve. \n\nThis is the sign-up for the FAST group. Target speed 32-34 km/t. First 100k will be social pace, last 100k after Frederikssund will be fast/drop pace. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Participants should be experienced riding in a group and familiar with standard hand and verbal signals. We will stop along the route in Roskilde and Frederikssund to refill bottles and more nutrition.\n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 08.00\nStart time: 08.15\nDistance: 200 km\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event. \n#midsummerchallange \n",
-      "activity_type": "Ride",
-      "route_id": 3501867396365652500,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-18T08:04:43.100Z"
+      "fetched_at": "2026-06-19T08:28:40.943Z"
     },
     {
       "id": 3501935330426797600,
@@ -161,7 +92,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:45.996Z"
+      "fetched_at": "2026-06-19T08:28:43.899Z"
     },
     {
       "id": 3501935903089538000,
@@ -184,7 +115,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:45.996Z"
+      "fetched_at": "2026-06-19T08:28:43.899Z"
     },
     {
       "id": 3496915574818884600,
@@ -207,7 +138,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:48.700Z"
+      "fetched_at": "2026-06-19T08:28:46.606Z"
     },
     {
       "id": 3496914456272812500,
@@ -230,7 +161,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:48.700Z"
+      "fetched_at": "2026-06-19T08:28:46.606Z"
     },
     {
       "id": 3496920400234106000,
@@ -253,7 +184,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:48.700Z"
+      "fetched_at": "2026-06-19T08:28:46.606Z"
     },
     {
       "id": "hybridsocial-1xv737zn",
@@ -273,7 +204,30 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-18T08:04:51.093Z"
+      "fetched_at": "2026-06-19T08:28:49.066Z"
+    },
+    {
+      "id": 3496917968155936000,
+      "title": "2 Days of Sport - Sunday Gravel Ride",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3496917968155936000",
+      "date": "2026-06-21T07:00:00Z",
+      "upcoming_dates": [
+        "2026-06-21T07:00:00Z"
+      ],
+      "location": null,
+      "description": "Join os til endnu et gravel ride.\nSøndag fortsætter vi 2 Days of Sport med endnu en tur ud på gruset. Vi ruller samlet ud fra Copenhagen Cycling Club mod nye spor og nye omgivelser i Nordsjælland.\n\nRuten byder på en ny kombination af champagnegrus, skovstier og rolige forbindelser gennem noget af den smukkeste natur nord for København. En tur skabt til at samle kilometer, få pulsen ned og afslutte weekenden på den bedst tænkelige måde.\n\nHusk energi, plugs, vand og gode vibes.\n\nVi forventer, at alle har ruten på deres cykelcomputer, tidligere har kørt gravel og selv kan håndtere en punktering.\n\nNår vi er tilbage, er der snacks fra Kcal, mulighed for at købe kaffe og sodavand – og tid til at hænge ud med andre ryttere og løbere. \nDerudover kan du opleve og teste produkter fra Puronia, Sloe, Good Habit Company og Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 08:45 \nRoll-out: 09:00ish \nDistance: ~60 km \nPace groups: 23–25 km/t\nSurface: Gravel\n—\nEnglish\nJoin us for another gravel ride.\nOn Sunday, we continue 2 Days of Sport with another day out on the gravel. We’ll roll out together from Copenhagen Cycling Club towards new roads and new surroundings north of Copenhagen.\n\nThis route brings a different mix of fast-flowing gravel, forest sections and quiet connecting roads through some of the most beautiful nature North Zealand has to offer. A ride designed to collect kilometres, settle into the rhythm and finish the weekend the right way.\n\nBring energy, plugs, water and good vibes.\n\nWe expect everyone to have the route loaded on their bike computer, previous gravel experience and the ability to fix a flat.\n\nBack at the club there will be snacks from Kcal, coffee and soft drinks available to purchase, and time to hang out with fellow riders and runners. \nYou’ll also get the chance to explore and test products from Puronia, Sloe, Good Habit Company and Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 08:45 \nRoll-out: 09:00ish \nDistance: ~70 km \nPace groups: 23–25 km/h\n Surface: Gravel",
+      "activity_type": "Ride",
+      "route_id": 3502725370137968600,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-19T08:28:46.606Z"
     },
     {
       "id": 3496919018707498500,
@@ -296,30 +250,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:48.700Z"
-    },
-    {
-      "id": 3496917968155936000,
-      "title": "2 Days of Sport - Sunday Gravel Ride",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3496917968155936000",
-      "date": "2026-06-21T07:00:00Z",
-      "upcoming_dates": [
-        "2026-06-21T07:00:00Z"
-      ],
-      "location": null,
-      "description": "Join os til endnu et gravel ride.\nSøndag fortsætter vi 2 Days of Sport med endnu en tur ud på gruset. Vi ruller samlet ud fra Copenhagen Cycling Club mod nye spor og nye omgivelser i Nordsjælland.\n\nRuten byder på en ny kombination af champagnegrus, skovstier og rolige forbindelser gennem noget af den smukkeste natur nord for København. En tur skabt til at samle kilometer, få pulsen ned og afslutte weekenden på den bedst tænkelige måde.\n\nHusk energi, plugs, vand og gode vibes.\n\nVi forventer, at alle har ruten på deres cykelcomputer, tidligere har kørt gravel og selv kan håndtere en punktering.\n\nNår vi er tilbage, er der snacks fra Kcal, mulighed for at købe kaffe og sodavand – og tid til at hænge ud med andre ryttere og løbere. \nDerudover kan du opleve og teste produkter fra Puronia, Sloe, Good Habit Company og Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 08:45 \nRoll-out: 09:00ish \nDistance: ~70 km \nPace groups: 23–25 km/t\nSurface: Gravel\n—\nEnglish\nJoin us for another gravel ride.\nOn Sunday, we continue 2 Days of Sport with another day out on the gravel. We’ll roll out together from Copenhagen Cycling Club towards new roads and new surroundings north of Copenhagen.\n\nThis route brings a different mix of fast-flowing gravel, forest sections and quiet connecting roads through some of the most beautiful nature North Zealand has to offer. A ride designed to collect kilometres, settle into the rhythm and finish the weekend the right way.\n\nBring energy, plugs, water and good vibes.\n\nWe expect everyone to have the route loaded on their bike computer, previous gravel experience and the ability to fix a flat.\n\nBack at the club there will be snacks from Kcal, coffee and soft drinks available to purchase, and time to hang out with fellow riders and runners. \nYou’ll also get the chance to explore and test products from Puronia, Sloe, Good Habit Company and Pine Athletic Skincare.\n\nMeeting point: Copenhagen Cycling Club \nMeet up: 08:45 \nRoll-out: 09:00ish \nDistance: ~70 km \nPace groups: 23–25 km/h\n Surface: Gravel",
-      "activity_type": "Ride",
-      "route_id": 3226207720231486500,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-18T08:04:48.700Z"
+      "fetched_at": "2026-06-19T08:28:46.606Z"
     },
     {
       "id": 3496921322080882700,
@@ -342,7 +273,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:48.700Z"
+      "fetched_at": "2026-06-19T08:28:46.606Z"
     },
     {
       "id": "hybridsocial-ye9eh9r0",
@@ -362,7 +293,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-18T08:04:51.093Z"
+      "fetched_at": "2026-06-19T08:28:49.066Z"
     },
     {
       "id": 3502241144081615000,
@@ -385,7 +316,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:48.700Z"
+      "fetched_at": "2026-06-19T08:28:46.606Z"
     },
     {
       "id": "hybridsocial-06abqebq",
@@ -405,7 +336,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-18T08:04:51.093Z"
+      "fetched_at": "2026-06-19T08:28:49.066Z"
     },
     {
       "id": "hybridsocial-cyogmcpx",
@@ -425,7 +356,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-18T08:04:51.093Z"
+      "fetched_at": "2026-06-19T08:28:49.066Z"
     },
     {
       "id": 3497556238512681500,
@@ -448,7 +379,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:44.442Z"
+      "fetched_at": "2026-06-19T08:28:42.368Z"
     },
     {
       "id": 3466012401428104000,
@@ -471,7 +402,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:43.100Z"
+      "fetched_at": "2026-06-19T08:28:40.943Z"
     },
     {
       "id": 3501455587248958500,
@@ -494,7 +425,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:48.701Z"
+      "fetched_at": "2026-06-19T08:28:46.606Z"
     },
     {
       "id": 3481936645449361000,
@@ -517,7 +448,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:43.100Z"
+      "fetched_at": "2026-06-19T08:28:40.943Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -537,7 +468,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-18T08:04:51.093Z"
+      "fetched_at": "2026-06-19T08:28:49.066Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -557,7 +488,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-18T08:04:51.093Z"
+      "fetched_at": "2026-06-19T08:28:49.066Z"
     },
     {
       "id": "hybridsocial-dnzjp0wh",
@@ -577,7 +508,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-18T08:04:51.093Z"
+      "fetched_at": "2026-06-19T08:28:49.066Z"
     },
     {
       "id": "hybridsocial-cte3xfz1",
@@ -597,7 +528,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-18T08:04:51.093Z"
+      "fetched_at": "2026-06-19T08:28:49.066Z"
     },
     {
       "id": "hybridsocial-ji829uah",
@@ -617,7 +548,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-18T08:04:51.093Z"
+      "fetched_at": "2026-06-19T08:28:49.066Z"
     },
     {
       "id": "hybridsocial-dx6iu5s3",
@@ -637,7 +568,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-18T08:04:51.093Z"
+      "fetched_at": "2026-06-19T08:28:49.066Z"
     },
     {
       "id": 3425188804025399300,
@@ -660,7 +591,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:44.917Z"
+      "fetched_at": "2026-06-19T08:28:42.899Z"
     },
     {
       "id": 2166682,
@@ -683,7 +614,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-18T08:04:44.918Z"
+      "fetched_at": "2026-06-19T08:28:42.900Z"
     }
   ]
 }
