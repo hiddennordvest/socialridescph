@@ -1,70 +1,7 @@
 {
-  "generated_at": "2026-06-23T06:45:54.563Z",
-  "total_rides": 18,
+  "generated_at": "2026-06-24T06:42:56.927Z",
+  "total_rides": 16,
   "rides": [
-    {
-      "id": 3502241144081615000,
-      "title": "DIRTY MIDSUMMER | AMAGER SOCIAL | GRAVEL BEERS N BONFIRE 🔥 ☀️",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3502241144081615000",
-      "date": "2026-06-23T15:00:00Z",
-      "upcoming_dates": [
-        "2026-06-23T15:00:00Z"
-      ],
-      "location": null,
-      "description": "Hey all,\n\nLet’s celebrate the longest day of the year the Dirty Tuesday way. Gravel, good company and making the most of the endless summer nights. \n\nWe ride earlier and further than usual and grab a pizza slice and sixpack on our return to the bonfire at Islands Brygge/Kalvebod Brygge at 9pm. \n\nWhat to expect:\nHill sprint at Herstedhøje and ‘stram kæde’\n\nDetails:\nMeet up 16:50 - Roll out 17:00\nTempo 25 - Distance 50km +/-\n2 flats on the house (find your own way)\nRemember plugs, Co2 & energy.\nYou must be able to ride 50k at 25k avg. \nWe ride in 10-12 pax groups in same tempo.\nCancellation protocol: < 5 riders & heavy rain \n\nWe look forward to riding dirt with you and wrap it up with bonfire & beers at Islands Brygge 🔥☀️\n\nTeam Dirty Tuesday ",
-      "activity_type": "Ride",
-      "route_id": 3502270520206201000,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-23T06:45:51.543Z"
-    },
-    {
-      "id": "hybridsocial-06abqebq",
-      "title": "Hybrid Social Ride (Pace 26-28)",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/06abqebq",
-      "date": "2026-06-24",
-      "upcoming_dates": [
-        "2026-06-24"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-06-23T06:45:54.562Z"
-    },
-    {
-      "id": "hybridsocial-cyogmcpx",
-      "title": "Hybrid Social Ride+ (Pace 27-29)",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/cyogmcpx",
-      "date": "2026-06-24",
-      "upcoming_dates": [
-        "2026-06-24"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-06-23T06:45:54.562Z"
-    },
     {
       "id": 3466011859093106700,
       "title": "Training Ride",
@@ -86,7 +23,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-23T06:45:44.690Z"
+      "fetched_at": "2026-06-24T06:42:49.031Z"
     },
     {
       "id": 3497556238512681500,
@@ -109,7 +46,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-23T06:45:46.287Z"
+      "fetched_at": "2026-06-24T06:42:50.305Z"
     },
     {
       "id": 3504038861315981000,
@@ -132,7 +69,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-23T06:45:44.690Z"
+      "fetched_at": "2026-06-24T06:42:49.032Z"
     },
     {
       "id": 3466012401428104000,
@@ -151,11 +88,11 @@
       "location": null,
       "description": "Join us for our Long Road Ride — a longer endurance ride, with a high tempo. Depending on numbers of participents we will split up in two groups. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Target average speed: 32–34 km/h. Participants should be comfortable riding in a group and familiar with standard hand and verbal signals. We usually finish at the shop for a drink or something to eat. \n\nIf you have any questions please reach out. Looking forward seeing you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 09.15\nStart time: 09.30\nDistance: 100-120 km +/-\nPace: 32- 34 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n",
       "activity_type": "Ride",
-      "route_id": 3465993379176408000,
+      "route_id": 3494271149284564000,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-23T06:45:44.690Z"
+      "fetched_at": "2026-06-24T06:42:49.032Z"
     },
     {
       "id": 3501455587248958500,
@@ -178,7 +115,30 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-23T06:45:51.543Z"
+      "fetched_at": "2026-06-24T06:42:54.386Z"
+    },
+    {
+      "id": 3504403597091890000,
+      "title": "Psycho Sunday Gravel Ride",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3504403597091890000",
+      "date": "2026-06-28T07:00:00Z",
+      "upcoming_dates": [
+        "2026-06-28T07:00:00Z"
+      ],
+      "location": null,
+      "description": "Summer has properly arrived in DK and its time for a Dirt Squad gravel classic: Psycho Sunday.\n\nWe start the day off at 8:50 with a coffee at CCC before we head out on the route. Along the way we'll do some pace games so make sure to stay on top of your nutrition and hydration because the temperatures are going to be in the high twenties. So fill your bottles and pockets from the morning.\n\nIf you have a puncture, no worries, we'll hold up but we don't wait for those getting dropped multiple times. Then you picked the wrong group ride :)\n\nSurface: Gravel\nTime: Expect a 5+ hours ride\nSpeed: 29-31 kph\nCoffee stop: Cafe Hammermøllen (at 95 km)\nPain in the legs: Probably\nGood times?: Definetely!\n\nCCC Dirt Squad",
+      "activity_type": "Ride",
+      "route_id": 3504381927446028300,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-24T06:42:54.386Z"
     },
     {
       "id": 3481936645449361000,
@@ -201,7 +161,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-23T06:45:44.690Z"
+      "fetched_at": "2026-06-24T06:42:49.032Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -221,7 +181,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-23T06:45:54.562Z"
+      "fetched_at": "2026-06-24T06:42:56.927Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -241,7 +201,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-23T06:45:54.562Z"
+      "fetched_at": "2026-06-24T06:42:56.927Z"
     },
     {
       "id": 3428498322104233500,
@@ -264,7 +224,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-23T06:45:51.543Z"
+      "fetched_at": "2026-06-24T06:42:54.386Z"
     },
     {
       "id": "hybridsocial-dnzjp0wh",
@@ -284,7 +244,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-23T06:45:54.562Z"
+      "fetched_at": "2026-06-24T06:42:56.927Z"
     },
     {
       "id": "hybridsocial-cte3xfz1",
@@ -304,7 +264,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-23T06:45:54.562Z"
+      "fetched_at": "2026-06-24T06:42:56.927Z"
     },
     {
       "id": "hybridsocial-ji829uah",
@@ -324,7 +284,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-23T06:45:54.562Z"
+      "fetched_at": "2026-06-24T06:42:56.927Z"
     },
     {
       "id": "hybridsocial-dx6iu5s3",
@@ -344,7 +304,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-23T06:45:54.562Z"
+      "fetched_at": "2026-06-24T06:42:56.927Z"
     },
     {
       "id": 3425188804025399300,
@@ -367,7 +327,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-23T06:45:46.934Z"
+      "fetched_at": "2026-06-24T06:42:50.824Z"
     },
     {
       "id": 2166682,
@@ -390,7 +350,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-23T06:45:46.934Z"
+      "fetched_at": "2026-06-24T06:42:50.825Z"
     }
   ]
 }
