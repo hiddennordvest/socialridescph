@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-06-24T06:42:56.927Z",
+  "generated_at": "2026-06-25T06:43:59.917Z",
   "total_rides": 16,
   "rides": [
-    {
-      "id": 3466011859093106700,
-      "title": "Training Ride",
-      "source": "strava",
-      "club": {
-        "id": 1048788,
-        "name": "Pas Normal Studios Copenhagen",
-        "strava_url": "https://www.strava.com/clubs/1048788"
-      },
-      "event_url": "https://www.strava.com/clubs/1048788/group_events/3466011859093106700",
-      "date": "2026-06-24T15:00:00Z",
-      "upcoming_dates": [
-        "2026-06-24T15:00:00Z"
-      ],
-      "location": null,
-      "description": "Join us for our Training Ride — a challenging group session designed to push your limits alongside dedicated cyclists. We'll ride intervals on different loops, and always regrouping afterwards to return to the city together. During transport we’ll ride as a one group, rotating turns at the front. Riders should be comfortable with group riding and familiar with standard hand and vocal signals. If you have a puncture or mechanical issue, we expect you have the route downloaded and will to rejoin the group on your own. We run a monthly rotation of efforts to vary the training. We encourage doing intervals in smaller groups when appropriate.\n\nWeek 1: 2 x 12 min at Uvelse \nWeek 2: 3 x 8 min at Kettinge    \nWeek 3: 4 x 4 min at Bregnerød \nWeek 4: Small race at Flyveren 2 laps in total ** \n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 17.00\nStart time: 17.15\nDistance: 75-80 +/-\nPace: 32-34 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#TrainingRide\n",
-      "activity_type": "Ride",
-      "route_id": 3461465202453140000,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-24T06:42:49.031Z"
-    },
     {
       "id": 3497556238512681500,
       "title": "Women's Intermediate",
@@ -46,7 +23,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-24T06:42:50.305Z"
+      "fetched_at": "2026-06-25T06:43:52.123Z"
     },
     {
       "id": 3504038861315981000,
@@ -69,7 +46,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-24T06:42:49.032Z"
+      "fetched_at": "2026-06-25T06:43:50.621Z"
     },
     {
       "id": 3466012401428104000,
@@ -92,7 +69,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-24T06:42:49.032Z"
+      "fetched_at": "2026-06-25T06:43:50.622Z"
     },
     {
       "id": 3501455587248958500,
@@ -109,13 +86,13 @@
         "2026-06-27T07:30:00Z"
       ],
       "location": null,
-      "description": "A true classic heading from CCC through the beautiful northern sealand terrain visiting the volunteers driven café Jordnær in Gadevang for a coffee stop before finishing the route approx 100.k \n\nMeet up 09:15 \nRoll out 09:30 \n\nWe head out in two groups 1 tempo 26-28 kph/avg and 1 moderate 24-25 kph/avg\n\nThis is a no drop ride, but you need to be able to keep the pace of the group you choose. \n\nTwo punctures on the house rule in full effect - more, and you need to find your way home han-solo. \n\nBring energy, wear a helmet and a smile. \n\nLet’s hit the trails together. \n\nTeam CCC ",
+      "description": "A true classic heading from CCC through the beautiful northern sealand terrain visiting the volunteers driven café Jordnær in Gadevang for a coffee stop before finishing the route approx 100.k \n\nMeet up 09:15 \nRoll out 09:30 \n\nThis is a no drop ride, but you need to be able to keep the pace of the group. \n\nTwo punctures on the house rule in full effect - more, and you need to find your way home han-solo. \n\nBring energy, run tubeless. wear a helmet and a smile. \n\nLet’s hit the trails together. \n\nTeam CCC ",
       "activity_type": "Ride",
       "route_id": 3099943401591194600,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-24T06:42:54.386Z"
+      "fetched_at": "2026-06-25T06:43:57.650Z"
     },
     {
       "id": 3504403597091890000,
@@ -138,7 +115,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-24T06:42:54.386Z"
+      "fetched_at": "2026-06-25T06:43:57.650Z"
     },
     {
       "id": 3481936645449361000,
@@ -161,7 +138,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-24T06:42:49.032Z"
+      "fetched_at": "2026-06-25T06:43:50.622Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -181,7 +158,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-24T06:42:56.927Z"
+      "fetched_at": "2026-06-25T06:43:59.916Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -201,7 +178,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-24T06:42:56.927Z"
+      "fetched_at": "2026-06-25T06:43:59.916Z"
     },
     {
       "id": 3428498322104233500,
@@ -224,7 +201,30 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-24T06:42:54.386Z"
+      "fetched_at": "2026-06-25T06:43:57.650Z"
+    },
+    {
+      "id": 3476630108573175000,
+      "title": "Last Dance Around Maglebjerg",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3476630108573175000",
+      "date": "2026-07-01T15:45:00Z",
+      "upcoming_dates": [
+        "2026-07-01T15:45:00Z"
+      ],
+      "location": null,
+      "description": "Last one before the summer vacation where we wind down in July to return back stronger in the beginning of August. \n\n- - - \n\nMeet-up 17:30 \nDeparture 17:45 \nPick-up at the Red Gate Klampenborg approx. 18:00 \n\nFault weather protocol = shitty weather = cancelled \n\n<5 participants at 14:00 - Cancelled \n\nRun tubeless as we won’t wait for tube shifts - have your tools ready and we’ll wait \n\nEverything else - business as usual. \n\nBe welcome, ",
+      "activity_type": "Ride",
+      "route_id": 3395327402398558700,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-06-25T06:43:57.650Z"
     },
     {
       "id": "hybridsocial-dnzjp0wh",
@@ -244,7 +244,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-24T06:42:56.927Z"
+      "fetched_at": "2026-06-25T06:43:59.916Z"
     },
     {
       "id": "hybridsocial-cte3xfz1",
@@ -264,7 +264,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-24T06:42:56.927Z"
+      "fetched_at": "2026-06-25T06:43:59.916Z"
     },
     {
       "id": "hybridsocial-ji829uah",
@@ -284,7 +284,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-24T06:42:56.927Z"
+      "fetched_at": "2026-06-25T06:43:59.916Z"
     },
     {
       "id": "hybridsocial-dx6iu5s3",
@@ -304,7 +304,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-24T06:42:56.927Z"
+      "fetched_at": "2026-06-25T06:43:59.916Z"
     },
     {
       "id": 3425188804025399300,
@@ -327,7 +327,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-24T06:42:50.824Z"
+      "fetched_at": "2026-06-25T06:43:52.760Z"
     },
     {
       "id": 2166682,
@@ -350,7 +350,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-24T06:42:50.825Z"
+      "fetched_at": "2026-06-25T06:43:52.760Z"
     }
   ]
 }
