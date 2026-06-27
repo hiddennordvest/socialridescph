@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-06-26T06:51:21.629Z",
-  "total_rides": 17,
+  "generated_at": "2026-06-27T06:26:51.670Z",
+  "total_rides": 18,
   "rides": [
-    {
-      "id": 3504038861315981000,
-      "title": "Gravel Ride x Pizza ",
-      "source": "strava",
-      "club": {
-        "id": 1048788,
-        "name": "Pas Normal Studios Copenhagen",
-        "strava_url": "https://www.strava.com/clubs/1048788"
-      },
-      "event_url": "https://www.strava.com/clubs/1048788/group_events/3504038861315981000",
-      "date": "2026-06-26T14:00:00Z",
-      "upcoming_dates": [
-        "2026-06-26T14:00:00Z"
-      ],
-      "location": null,
-      "description": "Join us for our monthly Gravel and Pizza Ride. This is a shorter gravel ride, to kick of the weekend. We will ride together as one group all the way along the route. We will aim for an average speed of 25 km/t. We expect people are used to riding in a group and are familiar with the signs being used in a group. After the ride we will have pizza and drinks in the shop, and it cost 100 DKK pr. person, and you pay the desk before the ride. It is possible to leave a bag or jacket at the shop.\n\nIf you have any questions please reach out. Looking forward seeing you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 16.15\nStart time: 16.30\nDistance: 50 km\nPace: 25 +/- km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#Gravelride",
-      "activity_type": "Ride",
-      "route_id": 3393250885743621600,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-26T06:51:14.532Z"
-    },
     {
       "id": 3466012401428104000,
       "title": "Road Ride",
@@ -46,30 +23,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-26T06:51:14.532Z"
-    },
-    {
-      "id": 3501455587248958500,
-      "title": "CCC JORDNÆR (Gravel)",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3501455587248958500",
-      "date": "2026-06-27T07:30:00Z",
-      "upcoming_dates": [
-        "2026-06-27T07:30:00Z"
-      ],
-      "location": null,
-      "description": "A true classic heading from CCC through the beautiful northern sealand terrain visiting the volunteers driven café Jordnær in Gadevang for a coffee stop before finishing the route approx 100.k \n\nMeet up 09:15 \nRoll out 09:30 \n\nThis is a no drop ride, but you need to be able to keep the pace of the group. \n\nTwo punctures on the house rule in full effect - more, and you need to find your way home han-solo. \n\nBring energy, run tubeless. wear a helmet and a smile. \n\nLet’s hit the trails together. \n\nTeam CCC ",
-      "activity_type": "Ride",
-      "route_id": 3099943401591194600,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-26T06:51:20.141Z"
+      "fetched_at": "2026-06-27T06:26:43.091Z"
     },
     {
       "id": 3504403597091890000,
@@ -92,7 +46,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-26T06:51:20.141Z"
+      "fetched_at": "2026-06-27T06:26:49.485Z"
     },
     {
       "id": 3481936645449361000,
@@ -115,7 +69,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-26T06:51:14.532Z"
+      "fetched_at": "2026-06-27T06:26:43.091Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -135,7 +89,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-26T06:51:21.629Z"
+      "fetched_at": "2026-06-27T06:26:51.670Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -155,7 +109,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-26T06:51:21.629Z"
+      "fetched_at": "2026-06-27T06:26:51.670Z"
     },
     {
       "id": 3428498322104233500,
@@ -178,7 +132,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-26T06:51:20.141Z"
+      "fetched_at": "2026-06-27T06:26:49.485Z"
     },
     {
       "id": 3466011859093106700,
@@ -201,7 +155,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-26T06:51:14.532Z"
+      "fetched_at": "2026-06-27T06:26:43.091Z"
     },
     {
       "id": 3476630108573175000,
@@ -224,7 +178,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-26T06:51:20.141Z"
+      "fetched_at": "2026-06-27T06:26:49.485Z"
     },
     {
       "id": 3494284811639793700,
@@ -247,7 +201,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-26T06:51:14.532Z"
+      "fetched_at": "2026-06-27T06:26:43.091Z"
     },
     {
       "id": "hybridsocial-dnzjp0wh",
@@ -267,7 +221,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-26T06:51:21.628Z"
+      "fetched_at": "2026-06-27T06:26:51.670Z"
     },
     {
       "id": "hybridsocial-cte3xfz1",
@@ -287,7 +241,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-26T06:51:21.629Z"
+      "fetched_at": "2026-06-27T06:26:51.670Z"
     },
     {
       "id": "hybridsocial-ji829uah",
@@ -307,7 +261,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-26T06:51:21.629Z"
+      "fetched_at": "2026-06-27T06:26:51.670Z"
     },
     {
       "id": "hybridsocial-dx6iu5s3",
@@ -327,7 +281,47 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-26T06:51:21.629Z"
+      "fetched_at": "2026-06-27T06:26:51.670Z"
+    },
+    {
+      "id": "hybridsocial-tb3h629u",
+      "title": "Beginner Ride (No Pace - No Drop)",
+      "source": "hybridsocial",
+      "club": {
+        "id": "hybridsocialcph",
+        "name": "Hybrid Social CPH",
+        "strava_url": "https://www.instagram.com/hybridsocialcph"
+      },
+      "event_url": "https://luma.com/tb3h629u",
+      "date": "2026-07-15",
+      "upcoming_dates": [
+        "2026-07-15"
+      ],
+      "location": "Mosehuset, Copenhagen",
+      "description": "",
+      "activity_type": "Ride",
+      "women_only": true,
+      "fetched_at": "2026-06-27T06:26:51.670Z"
+    },
+    {
+      "id": "hybridsocial-adcwsqtz",
+      "title": "Hybrid Social Fast Paced Ride (Pace+29)",
+      "source": "hybridsocial",
+      "club": {
+        "id": "hybridsocialcph",
+        "name": "Hybrid Social CPH",
+        "strava_url": "https://www.instagram.com/hybridsocialcph"
+      },
+      "event_url": "https://luma.com/adcwsqtz",
+      "date": "2026-07-22",
+      "upcoming_dates": [
+        "2026-07-22"
+      ],
+      "location": "Mosehuset, Copenhagen",
+      "description": "",
+      "activity_type": "Ride",
+      "women_only": true,
+      "fetched_at": "2026-06-27T06:26:51.670Z"
     },
     {
       "id": 3425188804025399300,
@@ -350,7 +344,27 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-26T06:51:16.363Z"
+      "fetched_at": "2026-06-27T06:26:45.145Z"
+    },
+    {
+      "id": "hybridsocial-9xn5ein5",
+      "title": "Hybrid Social Ride+ (Pace 27-29)",
+      "source": "hybridsocial",
+      "club": {
+        "id": "hybridsocialcph",
+        "name": "Hybrid Social CPH",
+        "strava_url": "https://www.instagram.com/hybridsocialcph"
+      },
+      "event_url": "https://luma.com/9xn5ein5",
+      "date": "2026-08-03",
+      "upcoming_dates": [
+        "2026-08-03"
+      ],
+      "location": "Mosehuset, Copenhagen",
+      "description": "",
+      "activity_type": "Ride",
+      "women_only": true,
+      "fetched_at": "2026-06-27T06:26:51.670Z"
     },
     {
       "id": 2166682,
@@ -373,7 +387,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-26T06:51:16.363Z"
+      "fetched_at": "2026-06-27T06:26:45.145Z"
     }
   ]
 }
