@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-06-27T06:26:51.670Z",
-  "total_rides": 18,
+  "generated_at": "2026-06-28T06:59:44.282Z",
+  "total_rides": 17,
   "rides": [
-    {
-      "id": 3466012401428104000,
-      "title": "Road Ride",
-      "source": "strava",
-      "club": {
-        "id": 1048788,
-        "name": "Pas Normal Studios Copenhagen",
-        "strava_url": "https://www.strava.com/clubs/1048788"
-      },
-      "event_url": "https://www.strava.com/clubs/1048788/group_events/3466012401428104000",
-      "date": "2026-06-27T07:15:00Z",
-      "upcoming_dates": [
-        "2026-06-27T07:15:00Z"
-      ],
-      "location": null,
-      "description": "Join us for our Long Road Ride — a longer endurance ride, with a high tempo. Depending on numbers of participents we will split up in two groups. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Target average speed: 32–34 km/h. Participants should be comfortable riding in a group and familiar with standard hand and verbal signals. We usually finish at the shop for a drink or something to eat. \n\nIf you have any questions please reach out. Looking forward seeing you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 09.15\nStart time: 09.30\nDistance: 100-120 km +/-\nPace: 32- 34 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n",
-      "activity_type": "Ride",
-      "route_id": 3494271149284564000,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-27T06:26:43.091Z"
-    },
     {
       "id": 3504403597091890000,
       "title": "Psycho Sunday Gravel Ride",
@@ -35,18 +12,18 @@
         "strava_url": "https://www.strava.com/clubs/299419"
       },
       "event_url": "https://www.strava.com/clubs/299419/group_events/3504403597091890000",
-      "date": "2026-06-28T07:00:00Z",
+      "date": "2026-06-28T07:50:00Z",
       "upcoming_dates": [
-        "2026-06-28T07:00:00Z"
+        "2026-06-28T07:50:00Z"
       ],
       "location": null,
-      "description": "Summer has properly arrived in DK and its time for a Dirt Squad gravel classic: Psycho Sunday.\n\nWe start the day off at 8:50 with a coffee at CCC before we head out on the route. Along the way we'll do some pace games so make sure to stay on top of your nutrition and hydration because the temperatures are going to be in the high twenties. So fill your bottles and pockets from the morning.\n\nIf you have a puncture, no worries, we'll hold up but we don't wait for those getting dropped multiple times. Then you picked the wrong group ride :)\n\nSurface: Gravel\nTime: Expect a 5+ hours ride\nSpeed: 29-31 kph\nCoffee stop: Cafe Hammermøllen (at 95 km)\nPain in the legs: Probably\nGood times?: Definetely!\n\nCCC Dirt Squad",
+      "description": "Summer has properly arrived in DK and its time for a Dirt Squad gravel classic: Psycho Sunday.\n\nWe start the day off at 9:50 with a coffee at CCC before we head out on the route. Along the way we'll do some pace games so make sure to stay on top of your nutrition and hydration because the temperatures are going to be in the high twenties. So fill your bottles and pockets from the morning.\n\nIf you have a puncture, no worries, we'll hold up but we don't wait for those getting dropped multiple times. Then you picked the wrong group ride :)\n\nSurface: Gravel\nTime: Expect a 5+ hours ride\nSpeed: 28-30 kph\nCoffee stop: Cafe Hammermøllen (at 95 km)\nPain in the legs: Probably\nGood times?: Definetely!\n\nCCC Dirt Squad",
       "activity_type": "Ride",
       "route_id": 3504381927446028300,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-27T06:26:49.485Z"
+      "fetched_at": "2026-06-28T06:59:42.116Z"
     },
     {
       "id": 3481936645449361000,
@@ -69,7 +46,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-27T06:26:43.091Z"
+      "fetched_at": "2026-06-28T06:59:35.906Z"
     },
     {
       "id": "hybridsocial-i3ey0ctt",
@@ -89,7 +66,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-27T06:26:51.670Z"
+      "fetched_at": "2026-06-28T06:59:44.282Z"
     },
     {
       "id": "hybridsocial-lvsw92l6",
@@ -109,7 +86,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-27T06:26:51.670Z"
+      "fetched_at": "2026-06-28T06:59:44.282Z"
     },
     {
       "id": 3428498322104233500,
@@ -132,7 +109,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-27T06:26:49.485Z"
+      "fetched_at": "2026-06-28T06:59:42.116Z"
     },
     {
       "id": 3466011859093106700,
@@ -155,7 +132,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-27T06:26:43.091Z"
+      "fetched_at": "2026-06-28T06:59:35.906Z"
     },
     {
       "id": 3476630108573175000,
@@ -178,7 +155,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-27T06:26:49.485Z"
+      "fetched_at": "2026-06-28T06:59:42.116Z"
     },
     {
       "id": 3494284811639793700,
@@ -201,7 +178,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-27T06:26:43.091Z"
+      "fetched_at": "2026-06-28T06:59:35.906Z"
     },
     {
       "id": "hybridsocial-dnzjp0wh",
@@ -221,7 +198,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-27T06:26:51.670Z"
+      "fetched_at": "2026-06-28T06:59:44.282Z"
     },
     {
       "id": "hybridsocial-cte3xfz1",
@@ -241,7 +218,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-27T06:26:51.670Z"
+      "fetched_at": "2026-06-28T06:59:44.282Z"
     },
     {
       "id": "hybridsocial-ji829uah",
@@ -261,7 +238,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-27T06:26:51.670Z"
+      "fetched_at": "2026-06-28T06:59:44.282Z"
     },
     {
       "id": "hybridsocial-dx6iu5s3",
@@ -281,7 +258,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-27T06:26:51.670Z"
+      "fetched_at": "2026-06-28T06:59:44.282Z"
     },
     {
       "id": "hybridsocial-tb3h629u",
@@ -301,7 +278,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-27T06:26:51.670Z"
+      "fetched_at": "2026-06-28T06:59:44.282Z"
     },
     {
       "id": "hybridsocial-adcwsqtz",
@@ -321,7 +298,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-27T06:26:51.670Z"
+      "fetched_at": "2026-06-28T06:59:44.282Z"
     },
     {
       "id": 3425188804025399300,
@@ -344,7 +321,7 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-27T06:26:45.145Z"
+      "fetched_at": "2026-06-28T06:59:37.938Z"
     },
     {
       "id": "hybridsocial-9xn5ein5",
@@ -364,7 +341,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-27T06:26:51.670Z"
+      "fetched_at": "2026-06-28T06:59:44.282Z"
     },
     {
       "id": 2166682,
@@ -387,7 +364,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-27T06:26:45.145Z"
+      "fetched_at": "2026-06-28T06:59:37.938Z"
     }
   ]
 }
