@@ -1,98 +1,52 @@
 {
-  "generated_at": "2026-06-30T06:53:18.097Z",
-  "total_rides": 17,
+  "generated_at": "2026-07-02T06:36:59.991Z",
+  "total_rides": 24,
   "rides": [
     {
-      "id": 3428498322104233500,
-      "title": "Women’s weekly gravel training - ice cream edition ✨",
+      "id": 3479419395551435000,
+      "title": "CRANKS THURSDAY RIDE - Womens",
       "source": "strava",
       "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
+        "id": 502279,
+        "name": "Cranks Cycling Club",
+        "strava_url": "https://www.strava.com/clubs/502279"
       },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3428498322104233500",
-      "date": "2026-06-30T15:00:00Z",
+      "event_url": "https://www.strava.com/clubs/502279/group_events/3479419395551435000",
+      "date": "2026-07-02T15:30:00Z",
       "upcoming_dates": [
-        "2026-06-30T15:00:00Z"
+        "2026-07-02T15:30:00Z"
       ],
       "location": null,
-      "description": "Last ride before summerbreak! There will be Hansen Is ice cream and “snik-snak” at 17:00 at the klub before we head out at 17:30 🍦Bring you trainingpartner or a good friend ✨\n\nThe ride will be a training ride with a steady pace. We will do intervals on Manglebjerg (2 loops) and a “mini race” at Chaussen at Dyrehaven (everything is optional) \n\nRemember to bring snacks, spare parts and good vibes🫶🏻\n\n*****************************************\nMeeting point: Klubben aka Copenhagen Cycling Club\nMeet up: 17:20\nRoll-out: 17:30\nDistance: aprox. 60km\nPace: +/- 25-26 km/h\nSurface: gravel \n\nSee you for a fun training \n// Caroline & Julie",
-      "activity_type": "Ride",
-      "route_id": 3486114179545144000,
-      "women_only": true,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-30T06:53:15.536Z"
-    },
-    {
-      "id": 3506255456347708000,
-      "title": "DIRTY TUESDAY | AMAGER SOCIAL | GRAVEL BEERS N BURGERS 🍔",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3506255456347708000",
-      "date": "2026-06-30T15:20:00Z",
-      "upcoming_dates": [
-        "2026-06-30T15:20:00Z"
-      ],
-      "location": null,
-      "description": "Hey all,\n\nJoin our Dirty Tuesday gravel training in and around Amager with a new weekly route.\n\nWhat to expect:\nNice mix of new and old segments, some reverse and technical. First vo2 max is 4km long through Fasanskoven from km 8 to km 12 half champagne gravel half very technical. Then a regular vo2 max from km 19 to km 21. Rest of the route is easy technical.\n\nDetails:\nMeet up 17:20 - Roll out 17:30\nTempo 24-25 - Distance 50km +/-\n2 flats on the house (find your own way)\nRemember plugs, Co2 & energy.\nYou must be able to ride 50k at 24k avg. \nWe ride in 10-12 pax groups in same tempo.\nCancellation protocol: < 5 riders & heavy rain \n\nWe look forward to riding dirt with you and wrap it up with beer & burgers at our favourite hangout spot - Bootleggers.\n\nTeam Dirty Tuesday ",
-      "activity_type": "Ride",
-      "route_id": 3504898940905075000,
+      "description": "Thursday womens ride.\n\nRide Leaders - Nanna & guests\n\nPace: 28-30km/t.\nDistance: 50-60km.\nRoll out: 17:30\nSurface: Road\n\nRemeber lights.\nHelmets are mandatory.\nBring spare plugs, tubes, tools what you need.\nObey the traffic rules.\nNo drop ride.\n\nSee you!",
+      "activity_type": null,
+      "route_id": 3507339951461184000,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-30T06:53:15.536Z"
+      "fetched_at": "2026-07-02T06:36:54.842Z"
     },
     {
-      "id": 3466011859093106700,
-      "title": "Training Ride",
+      "id": 3507385347469512000,
+      "title": "Social Ride 72 km | Copenhagen | Road | Nordic Chase 2026",
       "source": "strava",
       "club": {
-        "id": 1048788,
-        "name": "Pas Normal Studios Copenhagen",
-        "strava_url": "https://www.strava.com/clubs/1048788"
+        "id": 1383419,
+        "name": "Nordic Chase",
+        "strava_url": "https://www.strava.com/clubs/1383419"
       },
-      "event_url": "https://www.strava.com/clubs/1048788/group_events/3466011859093106700",
-      "date": "2026-07-01T15:00:00Z",
+      "event_url": "https://www.strava.com/clubs/1383419/group_events/3507385347469512000",
+      "date": "2026-07-04T06:00:00Z",
       "upcoming_dates": [
-        "2026-07-01T15:00:00Z"
+        "2026-07-04T06:00:00Z"
       ],
       "location": null,
-      "description": "Join us for our Training Ride — a challenging group session designed to push your limits alongside dedicated cyclists. We'll ride intervals on different loops, and always regrouping afterwards to return to the city together. During transport we’ll ride as a one group, rotating turns at the front. Riders should be comfortable with group riding and familiar with standard hand and vocal signals. If you have a puncture or mechanical issue, we expect you have the route downloaded and will to rejoin the group on your own. We run a monthly rotation of efforts to vary the training. We encourage doing intervals in smaller groups when appropriate.\n\nWeek 1: 2 x 12 min at Uvelse **\nWeek 2: 3 x 8 min at Kettinge    \nWeek 3: 4 x 4 min at Bregnerød \nWeek 4: Small race at Flyveren 3 laps in total \n\nIf you have any questions please reach out. Looking forward seeing you!\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 17.00\nStart time: 17.15\nDistance: 75-80 +/-\nPace: 32-34 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#TrainingRide\n",
+      "description": "Nordic Chase is organizes a 72 km social ride around Copenhagen.\n\nWe start from the Go Nordic Cruiseline terminal; same spot the Chase to Oslo kicked off from.\n\nPace will be around 30 km/h, with a few hill sprints thrown in to keep it spicy.\n\nFair warning: this isn't a beginners ride. You need to be comfortable riding in a group.\n\nBring your puncture kit and enough food to keep your energy up. First two punctures are on us; after that, you're getting dropped 😅\n\nWe'll finish at Kliché Bicycle Store for coffee and cold beers/sodas.\n\nPS: in case of bad weather, we will cancel this social ride. \n\nCheers, hope to see you there!\n\n",
       "activity_type": "Ride",
-      "route_id": 3368578404868703700,
+      "route_id": 3507375354287392300,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-30T06:53:08.560Z"
-    },
-    {
-      "id": 3476630108573175000,
-      "title": "Last Dance Around Maglebjerg",
-      "source": "strava",
-      "club": {
-        "id": 299419,
-        "name": "Copenhagen CC",
-        "strava_url": "https://www.strava.com/clubs/299419"
-      },
-      "event_url": "https://www.strava.com/clubs/299419/group_events/3476630108573175000",
-      "date": "2026-07-01T15:45:00Z",
-      "upcoming_dates": [
-        "2026-07-01T15:45:00Z"
-      ],
-      "location": null,
-      "description": "Last one before the summer vacation where we wind down in July to return back stronger in the beginning of August. \n\n- - - \n\nMeet-up 17:30 \nDeparture 17:45 \nPick-up at the Red Gate Klampenborg approx. 18:00 \n\nFault weather protocol = shitty weather = cancelled \n\n<5 participants at 14:00 - Cancelled \n\nRun tubeless as we won’t wait for tube shifts - have your tools ready and we’ll wait \n\nEverything else - business as usual. \n\nBe welcome, ",
-      "activity_type": "Ride",
-      "route_id": 3395327402398558700,
-      "women_only": false,
-      "skill_levels": [],
-      "terrain": [],
-      "fetched_at": "2026-06-30T06:53:15.536Z"
+      "fetched_at": "2026-07-02T06:36:53.033Z"
     },
     {
       "id": 3466012401428104000,
@@ -115,7 +69,30 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-30T06:53:08.560Z"
+      "fetched_at": "2026-07-02T06:36:50.732Z"
+    },
+    {
+      "id": 3506942034540876000,
+      "title": "Women's Road Ride",
+      "source": "strava",
+      "club": {
+        "id": 1048788,
+        "name": "Pas Normal Studios Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/1048788"
+      },
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3506942034540876000",
+      "date": "2026-07-05T08:00:00Z",
+      "upcoming_dates": [
+        "2026-07-05T08:00:00Z"
+      ],
+      "location": null,
+      "description": "Join us for our Women's Road Ride. This is a longer endurance ride. We will ride together as one group all the way along the route. We will change taking turns at the front all the way. We will aim for an average speed of 28 - 30 km/t. We expect people are used to riding in a group and are familiar with the signs being used in a group. It is mandatory to have a cycling computer with the route. Usually we finish the ride at the shop for a drink or something to eat.\nIf you have any questions please reach out. Looking forward seeing you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 10.00\nStart time: 10.15\nDistance: 100-120 km +/-\nPace: 28- 30 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#Womensride\n",
+      "activity_type": null,
+      "route_id": 3494271149284564000,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-07-02T06:36:50.732Z"
     },
     {
       "id": 3494284811639793700,
@@ -138,27 +115,7 @@
       "women_only": true,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-30T06:53:08.560Z"
-    },
-    {
-      "id": "hybridsocial-dnzjp0wh",
-      "title": "Hybrid Social Ride (Pace 26-28)",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/dnzjp0wh",
-      "date": "2026-07-07",
-      "upcoming_dates": [
-        "2026-07-07"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-06-30T06:53:18.096Z"
+      "fetched_at": "2026-07-02T06:36:50.732Z"
     },
     {
       "id": "hybridsocial-ihibyyq7",
@@ -178,7 +135,27 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-30T06:53:18.096Z"
+      "fetched_at": "2026-07-02T06:36:59.990Z"
+    },
+    {
+      "id": "hybridsocial-dnzjp0wh",
+      "title": "Hybrid Social Ride (Pace 26-28)",
+      "source": "hybridsocial",
+      "club": {
+        "id": "hybridsocialcph",
+        "name": "Hybrid Social CPH",
+        "strava_url": "https://www.instagram.com/hybridsocialcph"
+      },
+      "event_url": "https://luma.com/dnzjp0wh",
+      "date": "2026-07-07",
+      "upcoming_dates": [
+        "2026-07-07"
+      ],
+      "location": "Mosehuset, Copenhagen",
+      "description": "",
+      "activity_type": "Ride",
+      "women_only": true,
+      "fetched_at": "2026-07-02T06:36:59.990Z"
     },
     {
       "id": "hybridsocial-cte3xfz1",
@@ -198,7 +175,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-30T06:53:18.096Z"
+      "fetched_at": "2026-07-02T06:36:59.990Z"
     },
     {
       "id": "hybridsocial-ji829uah",
@@ -218,7 +195,27 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-30T06:53:18.096Z"
+      "fetched_at": "2026-07-02T06:36:59.990Z"
+    },
+    {
+      "id": "hybridsocial-uv9nlekl",
+      "title": "Hybrid Social Ride (Pace 26-28) Fueled by Purepower ⚡️",
+      "source": "hybridsocial",
+      "club": {
+        "id": "hybridsocialcph",
+        "name": "Hybrid Social CPH",
+        "strava_url": "https://www.instagram.com/hybridsocialcph"
+      },
+      "event_url": "https://luma.com/uv9nlekl",
+      "date": "2026-07-08",
+      "upcoming_dates": [
+        "2026-07-08"
+      ],
+      "location": "Mosehuset, Copenhagen",
+      "description": "",
+      "activity_type": "Ride",
+      "women_only": true,
+      "fetched_at": "2026-07-02T06:36:59.990Z"
     },
     {
       "id": "hybridsocial-dx6iu5s3",
@@ -238,7 +235,30 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-30T06:53:18.096Z"
+      "fetched_at": "2026-07-02T06:36:59.990Z"
+    },
+    {
+      "id": 3506951316680259600,
+      "title": "Tour de France stage 8 Road Ride ",
+      "source": "strava",
+      "club": {
+        "id": 1048788,
+        "name": "Pas Normal Studios Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/1048788"
+      },
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3506951316680259600",
+      "date": "2026-07-11T07:15:00Z",
+      "upcoming_dates": [
+        "2026-07-11T07:15:00Z"
+      ],
+      "location": null,
+      "description": "Join us for our Long Road Ride and screening stage 8 of this years Tour de France.  Depending on numbers of participants we will split up in two groups. Grouping and splits will be based on pace and fitness. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Target average speed: 32–34 km/h. Participants should be comfortable riding in a group and familiar with standard hand and verbal signals. We will stop a long the route to refuel. \n\nComing back from the ride we will serve food and dessert for all riders joining. The opening hours of the shop will be extended, so we can watch the final together. The stage is supposed to end at 17.20.  \n\nIf you have any questions please reach out. Looking forward seeing you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 09.15\nStart time: 09.30\nDistance: 150 km +/-\nPace: 32- 34 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.\n#RoadRide\n",
+      "activity_type": "Ride",
+      "route_id": 3506595911094188500,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-07-02T06:36:50.732Z"
     },
     {
       "id": 3506878296569673700,
@@ -261,7 +281,30 @@
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-30T06:53:15.536Z"
+      "fetched_at": "2026-07-02T06:36:57.475Z"
+    },
+    {
+      "id": 3428498322104233500,
+      "title": "Women’s weekly gravel training - ice cream edition ✨",
+      "source": "strava",
+      "club": {
+        "id": 299419,
+        "name": "Copenhagen CC",
+        "strava_url": "https://www.strava.com/clubs/299419"
+      },
+      "event_url": "https://www.strava.com/clubs/299419/group_events/3428498322104233500",
+      "date": "2026-07-14T15:00:00Z",
+      "upcoming_dates": [
+        "2026-07-14T15:00:00Z"
+      ],
+      "location": null,
+      "description": "Last ride before summerbreak! There will be Hansen Is ice cream and “snik-snak” at 17:00 at the klub before we head out at 17:30 🍦Bring you trainingpartner or a good friend ✨\n\nThe ride will be a training ride with a steady pace. We will do intervals on Manglebjerg (2 loops) and a “mini race” at Chaussen at Dyrehaven (everything is optional) \n\nRemember to bring snacks, spare parts and good vibes🫶🏻\n\n*****************************************\nMeeting point: Klubben aka Copenhagen Cycling Club\nMeet up: 17:20\nRoll-out: 17:30\nDistance: aprox. 60km\nPace: +/- 25-26 km/h\nSurface: gravel \n\nSee you for a fun training \n// Caroline & Julie",
+      "activity_type": "Ride",
+      "route_id": 3486114179545144000,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-07-02T06:36:57.475Z"
     },
     {
       "id": "hybridsocial-tb3h629u",
@@ -281,7 +324,30 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-30T06:53:18.096Z"
+      "fetched_at": "2026-07-02T06:36:59.990Z"
+    },
+    {
+      "id": 3506952539490799000,
+      "title": "Tour de France stage 14 Road Ride",
+      "source": "strava",
+      "club": {
+        "id": 1048788,
+        "name": "Pas Normal Studios Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/1048788"
+      },
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3506952539490799000",
+      "date": "2026-07-18T07:15:00Z",
+      "upcoming_dates": [
+        "2026-07-18T07:15:00Z"
+      ],
+      "location": null,
+      "description": "Join us for our Long Road Ride and screening stage 14 of this years Tour de France. Depending on numbers of participants we will split up in two groups. Grouping and splits will be based on pace and fitness. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Target average speed: 32–34 km/h. Participants should be comfortable riding in a group and familiar with standard hand and verbal signals. We will stop a long the route to refuel.\n\nComing back from the ride we will serve food and dessert for all riders joining. The opening hours of the shop will be extended, so we can watch the final together. The stage is supposed to end at 17.20.\n\nIf you have any questions please reach out. Looking forward seeing you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 09.15\nStart time: 09.30\nDistance: 150 km +/-\nPace: 32- 34 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event.",
+      "activity_type": null,
+      "route_id": 3506596887448320500,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-07-02T06:36:50.732Z"
     },
     {
       "id": "hybridsocial-adcwsqtz",
@@ -301,7 +367,76 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-30T06:53:18.096Z"
+      "fetched_at": "2026-07-02T06:36:59.990Z"
+    },
+    {
+      "id": 3506955820382939000,
+      "title": "Tour de France stage 20 Road Ride",
+      "source": "strava",
+      "club": {
+        "id": 1048788,
+        "name": "Pas Normal Studios Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/1048788"
+      },
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3506955820382939000",
+      "date": "2026-07-25T07:15:00Z",
+      "upcoming_dates": [
+        "2026-07-25T07:15:00Z"
+      ],
+      "location": null,
+      "description": "Join us for our Long Road Ride and screening the final KING stage 20 of this years Tour de France. Depending on numbers of participants we will split up in two groups. Grouping and splits will be based on pace and fitness. Riders will rotate turns at the front throughout the ride. Always download the route to your headunit. Target average speed: 32–34 km/h. Participants should be comfortable riding in a group and familiar with standard hand and verbal signals. We will stop a long the route to refuel.\n\nComing back from the ride we will serve food and dessert for all riders joining. The opening hours of the shop will be extended, so we can watch the final together. The stage is supposed to end at 16.10.\n\nIf you have any questions please reach out. Looking forward seeing you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 09.15\nStart time: 09.30\nDistance: 130 km +/-\nPace: 32- 34 km/h\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event\n#RoadRide ",
+      "activity_type": null,
+      "route_id": 3471853026218703000,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-07-02T06:36:50.732Z"
+    },
+    {
+      "id": 3481936645449361000,
+      "title": "Women's Social Ride x Pizza",
+      "source": "strava",
+      "club": {
+        "id": 1048788,
+        "name": "Pas Normal Studios Copenhagen",
+        "strava_url": "https://www.strava.com/clubs/1048788"
+      },
+      "event_url": "https://www.strava.com/clubs/1048788/group_events/3481936645449361000",
+      "date": "2026-07-27T15:00:00Z",
+      "upcoming_dates": [
+        "2026-07-27T15:00:00Z"
+      ],
+      "location": null,
+      "description": "Join us for a Women's Social Ride and Pizza in the store after the ride. We will ride together all the way and change taking turns at the front along the route. We will clearly go through how to ride in a group and which signals we are using before heading out, if anyone is new. We expect you have click pedals, are capable of sitting on someone's wheel, and can handle your bike safely. Please make sure to download the route to your cycling computer, or ask the store staff or rideleader for help in advance.\n\nIt cost 100 DKK, if you wan't to join for Pizza in the store after the ride. You can pay at the desk before heading out on the ride. It is possible to leave a bag in the store. If you have any questions always reach out to our rideleaders or come by the store.\nLooking forward to see you!\n\nMeeting Point: Århusgade 126, 2150 Nordhavn\nMeeting time: 17.00\nStart time: 17.15\nDistance: 55 km +/-\nPace: 26-28 km/h +/-\nSurface: Road\n____________________\nBring a spare tube/plugs/tools, ride food and hydration. For everyone's safety, please obey all traffic lights and signs. If you have any questions do not hesitate to ask the rider leader at the event. And please download the route before the ride. Please \"attend\" if you intend to join the event. If you have any questions do not hesitate to contact us via copenhagen@pasnormalstudios.com\n#Socialride #Womensride\n",
+      "activity_type": "Ride",
+      "route_id": 3506578022863672000,
+      "women_only": true,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-07-02T06:36:50.732Z"
+    },
+    {
+      "id": 3507364833610927600,
+      "title": "Shake-out ride | Day before BERLIN to COPENHAGEN | Nordic Chase 2026 | Gravel",
+      "source": "strava",
+      "club": {
+        "id": 1383419,
+        "name": "Nordic Chase",
+        "strava_url": "https://www.strava.com/clubs/1383419"
+      },
+      "event_url": "https://www.strava.com/clubs/1383419/group_events/3507364833610927600",
+      "date": "2026-07-31T13:30:00Z",
+      "upcoming_dates": [
+        "2026-07-31T13:30:00Z"
+      ],
+      "location": null,
+      "description": "Nordic Chase organizes an ultra-gravel race from Berlin to Copenhagen - 739 km.\n\nThis shake-out ride is the final spin before the big push to Copenhagen! It's all about breaking the ice; use these kms to meet the riders you'll be chasing over the next few days. It's also the perfect time for a final equipment test.\n\nWe'll be hosting the shake-out ride and the start of the race from the old Standert bike shop location. We'll finish back at the Standert shop at 17:30 for the rider briefing and pasta party.\n\n🛠️ What you need to know\nGroups: We'll split into smaller groups on the road to keep things safe.\nNavigation: Please make sure you have the route downloaded to your head unit. ⚠️\nKit: Bring a flat kit for punctures — and your best post-taper vibes.\n\nStill want to join Nordic Chase 2026? Head over and register:\n👉 https://nordicchase.com/ber-cph-gravel\n\nWe have 29 spots left, out of a maximum of 100 riders.\n\nSee you there! ✌️",
+      "activity_type": "Ride",
+      "route_id": 3507348717428807000,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-07-02T06:36:53.033Z"
     },
     {
       "id": 3425188804025399300,
@@ -318,13 +453,13 @@
         "2026-08-01T05:00:00Z"
       ],
       "location": null,
-      "description": "The Nordic Chase is expanding!\nWe’re launching a brand-new race in 2026: Berlin → Copenhagen.\n\nFor this race we are partnering with Standert as host partner in Berlin.\n\nThis gravel route takes riders through Germany and Denmark, covering historic towns, rolling farmland, forests, and scenic gravel paths — finishing in the heart of Copenhagen.\n\n🔘 Official Dotwatcher.cc event\n📍 Live tracking via FollowMyChallenge.com\n\nRegistrations are open:\n👉 www.nordicchase.com\n(limited capacity at 100 riders)\n\nRegistration includes:\n1. Rider briefing and Pasta Party @Standert Bicycles (store in Berlin)\n2. Official Race Manual with the race details\n3. Race cap and other goodies\n4. Live GPS tracking\n5. Finisher Certificate\n6. Post-ride ceremony with drinks in Copenhagen\n7. Photos taken by our media team\n8. Entry to WhatsApp group chat to connect other riders\n9. Small bag transfer rom the start to the finish\n\nAll info is on www.nordicchase.com\n\nQuestions, then email to info@nordicchase.com\n\nPlease note: The final route and exact start location in Berlin will be provided in the race manual. The current route is a draft and will be verified by the organizer. The manual will be emailed to all registered participants three weeks before the race.",
+      "description": "The big CHASE to Copenhagen! Part of the Nordic Chase Ultra Cycling Series!\n\nAre you ready to Chase: Berlin → Copenhagen.\n\nFor this GRAVEL race we are partnering with Standert as host partner in Berlin.\n\nThis gravel route takes riders through Germany and Denmark, covering historic towns, rolling farmland, forests, and scenic gravel paths; finishing in the heart of Copenhagen.\n\n🔘 Official Dotwatcher.cc event\n📍 Live tracking via FollowMyChallenge.com\n\nRegistrations are open:\n👉 www.nordicchase.com\n(limited capacity at 100 riders) - we have currently a few spots left only.\n\nRegistration includes:\n1. Rider briefing and Pasta Party @Standert Bicycles (store in Berlin)\n2. Official Race Manual with the race details\n3. Race cap and other goodies\n4. Live GPS tracking\n5. Finisher Certificate\n6. Post-ride ceremony with drinks in Copenhagen\n7. Photos taken by our media team\n8. Entry to WhatsApp group chat to connect other riders\n9.  Bag transfer rom the start to the finish\n\nAll info is on www.nordicchase.com\n\nQuestions, then email to info@nordicchase.com\n\nPlease note: The final route will be provided in the race manual. The current route is a draft and will be verified by the organizer. The manual will be emailed to all registered participants three weeks before the race.",
       "activity_type": "Ride",
       "route_id": 3496243628392423000,
       "women_only": false,
       "skill_levels": [],
       "terrain": [],
-      "fetched_at": "2026-06-30T06:53:10.865Z"
+      "fetched_at": "2026-07-02T06:36:53.034Z"
     },
     {
       "id": "hybridsocial-9xn5ein5",
@@ -344,7 +479,30 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-06-30T06:53:18.096Z"
+      "fetched_at": "2026-07-02T06:36:59.990Z"
+    },
+    {
+      "id": 3507373055323408000,
+      "title": "Shake-out ride | Day before COPENHAGEN to OSLO | Nordic Chase 2026 | Gravel",
+      "source": "strava",
+      "club": {
+        "id": 1383419,
+        "name": "Nordic Chase",
+        "strava_url": "https://www.strava.com/clubs/1383419"
+      },
+      "event_url": "https://www.strava.com/clubs/1383419/group_events/3507373055323408000",
+      "date": "2026-08-13T13:30:00Z",
+      "upcoming_dates": [
+        "2026-08-13T13:30:00Z"
+      ],
+      "location": null,
+      "description": "Nordic Chase organizes an ultra-gravel race from COPENHAGEN to OSLO - 800 km!\n\nThis shake-out ride is the final spin before the big push to Oslo! It's all about breaking the ice; to use these kms to meet the riders you'll be chasing over the next few days. It's also the perfect time for a final equipment test.\n\nWe'll be hosting the shake-out ride and the start of the race from the HQ office of Go Nordic Cruiseline. We'll finish back at the HQ office at 17:30 for the rider briefing.\n\n🛠️ What you need to know\nGroups: We'll split into smaller groups on the road to keep things safe.\nNavigation: Please make sure you have the route downloaded to your head unit. ⚠️\nKit: Bring a flat kit for punctures — and your best post-taper vibes.\n\nStill want to join the chase to Oslo? \nWe are currently at full capacity with 100 riders at the starting line however you can put yourself on the waiting list or have a look at the other gravel ultra (Berlin to Copenhagen) we organize:\n\n👉 https://nordicchase.com/cph-osl-gravel\n\nSee you there! ✌️",
+      "activity_type": "Ride",
+      "route_id": 3507359883219872300,
+      "women_only": false,
+      "skill_levels": [],
+      "terrain": [],
+      "fetched_at": "2026-07-02T06:36:53.034Z"
     },
     {
       "id": 2166682,
@@ -367,7 +525,7 @@
       "women_only": false,
       "skill_levels": 4,
       "terrain": [],
-      "fetched_at": "2026-06-30T06:53:10.865Z"
+      "fetched_at": "2026-07-02T06:36:53.034Z"
     }
   ]
 }
