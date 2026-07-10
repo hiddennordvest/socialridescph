@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T06:37:53.398Z",
-  "total_rides": 4,
+  "generated_at": "2026-07-10T06:38:50.359Z",
+  "total_rides": 5,
   "rides": [
     {
       "id": "hybridsocial-66ktrrxk",
@@ -20,7 +20,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-07-09T06:37:53.398Z"
+      "fetched_at": "2026-07-10T06:38:50.358Z"
     },
     {
       "id": "hybridsocial-tb3h629u",
@@ -40,11 +40,31 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-07-09T06:37:53.398Z"
+      "fetched_at": "2026-07-10T06:38:50.358Z"
+    },
+    {
+      "id": "hybridsocial-15fs8ypr",
+      "title": "Hybrid Social Ride (Pace 26-28)",
+      "source": "hybridsocial",
+      "club": {
+        "id": "hybridsocialcph",
+        "name": "Hybrid Social CPH",
+        "strava_url": "https://www.instagram.com/hybridsocialcph"
+      },
+      "event_url": "https://luma.com/15fs8ypr",
+      "date": "2026-07-22",
+      "upcoming_dates": [
+        "2026-07-22"
+      ],
+      "location": "Mosehuset, Copenhagen",
+      "description": "",
+      "activity_type": "Ride",
+      "women_only": true,
+      "fetched_at": "2026-07-10T06:38:50.358Z"
     },
     {
       "id": "hybridsocial-adcwsqtz",
-      "title": "Hybrid Social Fast Paced Ride (Pace+29)",
+      "title": "Hybrid Social Fast Paced Ride (Pace+29 Intervals)",
       "source": "hybridsocial",
       "club": {
         "id": "hybridsocialcph",
@@ -60,7 +80,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-07-09T06:37:53.398Z"
+      "fetched_at": "2026-07-10T06:38:50.358Z"
     },
     {
       "id": "hybridsocial-9xn5ein5",
@@ -80,7 +100,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-07-09T06:37:53.398Z"
+      "fetched_at": "2026-07-10T06:38:50.358Z"
     }
   ]
 }
