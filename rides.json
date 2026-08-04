@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-08-02T05:57:05.962Z",
-  "total_rides": 10,
+  "generated_at": "2026-08-04T05:42:10.030Z",
+  "total_rides": 9,
   "rides": [
-    {
-      "id": "hybridsocial-9xn5ein5",
-      "title": "Hybrid Social Ride+ (Pace 27-29)",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/9xn5ein5",
-      "date": "2026-08-03",
-      "upcoming_dates": [
-        "2026-08-03"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-08-02T05:57:05.962Z"
-    },
     {
       "id": "hybridsocial-nj097vcr",
       "title": "Hybrid Social Fast Paced Ride (Pace+29 + Intervals)",
@@ -40,7 +20,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-02T05:57:05.962Z"
+      "fetched_at": "2026-08-04T05:42:10.029Z"
     },
     {
       "id": "hybridsocial-oxqfpv0i",
@@ -60,7 +40,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-02T05:57:05.962Z"
+      "fetched_at": "2026-08-04T05:42:10.029Z"
     },
     {
       "id": "hybridsocial-fevc5ler",
@@ -80,7 +60,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-02T05:57:05.962Z"
+      "fetched_at": "2026-08-04T05:42:10.029Z"
     },
     {
       "id": "hybridsocial-zrlx8b1n",
@@ -100,7 +80,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-02T05:57:05.962Z"
+      "fetched_at": "2026-08-04T05:42:10.029Z"
     },
     {
       "id": "hybridsocial-kmzk15bd",
@@ -120,7 +100,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-02T05:57:05.962Z"
+      "fetched_at": "2026-08-04T05:42:10.029Z"
     },
     {
       "id": "hybridsocial-q12eoeds",
@@ -140,7 +120,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-02T05:57:05.962Z"
+      "fetched_at": "2026-08-04T05:42:10.029Z"
     },
     {
       "id": "hybridsocial-h2ws97my",
@@ -160,7 +140,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-02T05:57:05.962Z"
+      "fetched_at": "2026-08-04T05:42:10.029Z"
     },
     {
       "id": "hybridsocial-ljvktebo",
@@ -180,7 +160,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-02T05:57:05.962Z"
+      "fetched_at": "2026-08-04T05:42:10.029Z"
     },
     {
       "id": "hybridsocial-qwxu68gu",
@@ -200,7 +180,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-02T05:57:05.962Z"
+      "fetched_at": "2026-08-04T05:42:10.029Z"
     }
   ]
 }
