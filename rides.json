@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-08-12T04:42:54.238Z",
-  "total_rides": 6,
+  "generated_at": "2026-08-13T04:46:40.295Z",
+  "total_rides": 5,
   "rides": [
-    {
-      "id": "hybridsocial-zrlx8b1n",
-      "title": "Beginner Ride (No Pace - No Drop)",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/zrlx8b1n",
-      "date": "2026-08-13",
-      "upcoming_dates": [
-        "2026-08-13"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-08-12T04:42:54.238Z"
-    },
     {
       "id": "hybridsocial-kmzk15bd",
       "title": "Hybrid Social Ride (Pace 26-28)",
@@ -40,7 +20,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-12T04:42:54.238Z"
+      "fetched_at": "2026-08-13T04:46:40.294Z"
     },
     {
       "id": "hybridsocial-q12eoeds",
@@ -60,7 +40,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-12T04:42:54.238Z"
+      "fetched_at": "2026-08-13T04:46:40.294Z"
     },
     {
       "id": "hybridsocial-h2ws97my",
@@ -80,7 +60,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-12T04:42:54.238Z"
+      "fetched_at": "2026-08-13T04:46:40.294Z"
     },
     {
       "id": "hybridsocial-ljvktebo",
@@ -100,7 +80,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-12T04:42:54.238Z"
+      "fetched_at": "2026-08-13T04:46:40.294Z"
     },
     {
       "id": "hybridsocial-qwxu68gu",
@@ -120,7 +100,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-12T04:42:54.238Z"
+      "fetched_at": "2026-08-13T04:46:40.294Z"
     }
   ]
 }
