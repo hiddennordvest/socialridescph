@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T04:46:40.295Z",
+  "generated_at": "2026-08-14T04:43:58.910Z",
   "total_rides": 5,
   "rides": [
     {
@@ -20,7 +20,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-13T04:46:40.294Z"
+      "fetched_at": "2026-08-14T04:43:58.910Z"
     },
     {
       "id": "hybridsocial-q12eoeds",
@@ -40,7 +40,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-13T04:46:40.294Z"
+      "fetched_at": "2026-08-14T04:43:58.910Z"
     },
     {
       "id": "hybridsocial-h2ws97my",
@@ -60,7 +60,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-13T04:46:40.294Z"
+      "fetched_at": "2026-08-14T04:43:58.910Z"
     },
     {
       "id": "hybridsocial-ljvktebo",
@@ -80,7 +80,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-13T04:46:40.294Z"
+      "fetched_at": "2026-08-14T04:43:58.910Z"
     },
     {
       "id": "hybridsocial-qwxu68gu",
@@ -100,7 +100,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-13T04:46:40.294Z"
+      "fetched_at": "2026-08-14T04:43:58.910Z"
     }
   ]
 }
