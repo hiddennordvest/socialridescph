@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-08-16T03:42:11.591Z",
-  "total_rides": 5,
+  "generated_at": "2026-08-17T03:43:57.642Z",
+  "total_rides": 3,
   "rides": [
-    {
-      "id": "hybridsocial-kmzk15bd",
-      "title": "Hybrid Social Ride (Pace 26-28)",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/kmzk15bd",
-      "date": "2026-08-17",
-      "upcoming_dates": [
-        "2026-08-17"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-08-16T03:42:11.590Z"
-    },
-    {
-      "id": "hybridsocial-q12eoeds",
-      "title": "Hybrid Social Ride+ (Pace 27-29)",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/q12eoeds",
-      "date": "2026-08-17",
-      "upcoming_dates": [
-        "2026-08-17"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-08-16T03:42:11.590Z"
-    },
     {
       "id": "hybridsocial-h2ws97my",
       "title": "Hybrid Social Ride (Pace 26-28)",
@@ -60,7 +20,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-16T03:42:11.591Z"
+      "fetched_at": "2026-08-17T03:43:57.642Z"
     },
     {
       "id": "hybridsocial-ljvktebo",
@@ -80,7 +40,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-16T03:42:11.591Z"
+      "fetched_at": "2026-08-17T03:43:57.642Z"
     },
     {
       "id": "hybridsocial-qwxu68gu",
@@ -100,7 +60,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-16T03:42:11.591Z"
+      "fetched_at": "2026-08-17T03:43:57.642Z"
     }
   ]
 }
