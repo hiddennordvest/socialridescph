@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T03:40:38.435Z",
+  "generated_at": "2026-08-20T03:40:45.764Z",
   "total_rides": 3,
   "rides": [
     {
@@ -20,27 +20,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-19T03:40:38.435Z"
-    },
-    {
-      "id": "hybridsocial-ljvktebo",
-      "title": "Hybrid Social Ride+ (Pace 27-29)",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/ljvktebo",
-      "date": "2026-08-21",
-      "upcoming_dates": [
-        "2026-08-21"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-08-19T03:40:38.435Z"
+      "fetched_at": "2026-08-20T03:40:45.764Z"
     },
     {
       "id": "hybridsocial-qwxu68gu",
@@ -60,7 +40,27 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-19T03:40:38.435Z"
+      "fetched_at": "2026-08-20T03:40:45.764Z"
+    },
+    {
+      "id": "hybridsocial-mu6i0udq",
+      "title": "08.09.26 – Hybrid Social x Davinci Cykler – Cycling Workshop",
+      "source": "hybridsocial",
+      "club": {
+        "id": "hybridsocialcph",
+        "name": "Hybrid Social CPH",
+        "strava_url": "https://www.instagram.com/hybridsocialcph"
+      },
+      "event_url": "https://luma.com/mu6i0udq",
+      "date": "2026-09-08",
+      "upcoming_dates": [
+        "2026-09-08"
+      ],
+      "location": "Mosehuset, Copenhagen",
+      "description": "",
+      "activity_type": "Ride",
+      "women_only": true,
+      "fetched_at": "2026-08-20T03:40:45.764Z"
     }
   ]
 }
