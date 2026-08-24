@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:44:15.863Z",
+  "generated_at": "2026-08-24T03:49:11.166Z",
   "total_rides": 2,
   "rides": [
     {
@@ -20,7 +20,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-23T03:44:15.863Z"
+      "fetched_at": "2026-08-24T03:49:11.166Z"
     },
     {
       "id": "hybridsocial-mu6i0udq",
@@ -40,7 +40,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-08-23T03:44:15.863Z"
+      "fetched_at": "2026-08-24T03:49:11.166Z"
     }
   ]
 }
