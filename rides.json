@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T07:31:24.130Z",
+  "generated_at": "2026-09-03T07:38:42.365Z",
   "total_rides": 8,
   "rides": [
     {
@@ -20,7 +20,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-02T07:31:24.129Z"
+      "fetched_at": "2026-09-03T07:38:42.364Z"
     },
     {
       "id": "hybridsocial-9z0sb1cl",
@@ -40,7 +40,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-02T07:31:24.129Z"
+      "fetched_at": "2026-09-03T07:38:42.365Z"
     },
     {
       "id": "hybridsocial-mu6i0udq",
@@ -60,7 +60,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-02T07:31:24.129Z"
+      "fetched_at": "2026-09-03T07:38:42.365Z"
     },
     {
       "id": "hybridsocial-uil4othj",
@@ -80,7 +80,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-02T07:31:24.129Z"
+      "fetched_at": "2026-09-03T07:38:42.365Z"
     },
     {
       "id": "hybridsocial-4a9xbmfm",
@@ -100,7 +100,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-02T07:31:24.129Z"
+      "fetched_at": "2026-09-03T07:38:42.365Z"
     },
     {
       "id": "hybridsocial-qra6758a",
@@ -120,7 +120,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-02T07:31:24.129Z"
+      "fetched_at": "2026-09-03T07:38:42.365Z"
     },
     {
       "id": "hybridsocial-kmotm6b5",
@@ -140,7 +140,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-02T07:31:24.129Z"
+      "fetched_at": "2026-09-03T07:38:42.365Z"
     },
     {
       "id": "hybridsocial-hnjwmas7",
@@ -160,7 +160,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-02T07:31:24.129Z"
+      "fetched_at": "2026-09-03T07:38:42.365Z"
     }
   ]
 }
