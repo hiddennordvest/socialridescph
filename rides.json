@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-09-07T07:47:39.099Z",
-  "total_rides": 6,
+  "generated_at": "2026-09-08T07:42:57.457Z",
+  "total_rides": 5,
   "rides": [
-    {
-      "id": "hybridsocial-mu6i0udq",
-      "title": "08.09.26 – Hybrid Social x Davinci Cykler – Cycling Workshop",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/mu6i0udq",
-      "date": "2026-09-08",
-      "upcoming_dates": [
-        "2026-09-08"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-09-07T07:47:39.099Z"
-    },
     {
       "id": "hybridsocial-uil4othj",
       "title": "09.09.26 – Hybrid Social x Åben (Social Ride – Pace 26-28) Post ride beers",
@@ -40,7 +20,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-07T07:47:39.099Z"
+      "fetched_at": "2026-09-08T07:42:57.457Z"
     },
     {
       "id": "hybridsocial-4a9xbmfm",
@@ -60,7 +40,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-07T07:47:39.099Z"
+      "fetched_at": "2026-09-08T07:42:57.457Z"
     },
     {
       "id": "hybridsocial-qra6758a",
@@ -80,7 +60,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-07T07:47:39.099Z"
+      "fetched_at": "2026-09-08T07:42:57.457Z"
     },
     {
       "id": "hybridsocial-kmotm6b5",
@@ -100,7 +80,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-07T07:47:39.099Z"
+      "fetched_at": "2026-09-08T07:42:57.457Z"
     },
     {
       "id": "hybridsocial-hnjwmas7",
@@ -120,7 +100,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-07T07:47:39.099Z"
+      "fetched_at": "2026-09-08T07:42:57.457Z"
     }
   ]
 }
