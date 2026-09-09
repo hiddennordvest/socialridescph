@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-09-08T07:42:57.457Z",
-  "total_rides": 5,
+  "generated_at": "2026-09-09T07:45:49.408Z",
+  "total_rides": 4,
   "rides": [
-    {
-      "id": "hybridsocial-uil4othj",
-      "title": "09.09.26 – Hybrid Social x Åben (Social Ride – Pace 26-28) Post ride beers",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/uil4othj",
-      "date": "2026-09-09",
-      "upcoming_dates": [
-        "2026-09-09"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-09-08T07:42:57.457Z"
-    },
-    {
-      "id": "hybridsocial-4a9xbmfm",
-      "title": "09.09.26 – Hybrid Social x Åben (Social+ Ride — Pace 27-29) Post ride beers",
-      "source": "hybridsocial",
-      "club": {
-        "id": "hybridsocialcph",
-        "name": "Hybrid Social CPH",
-        "strava_url": "https://www.instagram.com/hybridsocialcph"
-      },
-      "event_url": "https://luma.com/4a9xbmfm",
-      "date": "2026-09-09",
-      "upcoming_dates": [
-        "2026-09-09"
-      ],
-      "location": "Mosehuset, Copenhagen",
-      "description": "",
-      "activity_type": "Ride",
-      "women_only": true,
-      "fetched_at": "2026-09-08T07:42:57.457Z"
-    },
     {
       "id": "hybridsocial-qra6758a",
       "title": "Hybrid Social Beginner Ride (No Pace - No Drop)",
@@ -60,7 +20,27 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-08T07:42:57.457Z"
+      "fetched_at": "2026-09-09T07:45:49.407Z"
+    },
+    {
+      "id": "hybridsocial-qewxq2wr",
+      "title": "Hybrid Social Ride+ (Pace 27-29)",
+      "source": "hybridsocial",
+      "club": {
+        "id": "hybridsocialcph",
+        "name": "Hybrid Social CPH",
+        "strava_url": "https://www.instagram.com/hybridsocialcph"
+      },
+      "event_url": "https://luma.com/qewxq2wr",
+      "date": "2026-09-25",
+      "upcoming_dates": [
+        "2026-09-25"
+      ],
+      "location": "Mosehuset, Copenhagen",
+      "description": "",
+      "activity_type": "Ride",
+      "women_only": true,
+      "fetched_at": "2026-09-09T07:45:49.407Z"
     },
     {
       "id": "hybridsocial-kmotm6b5",
@@ -80,7 +60,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-08T07:42:57.457Z"
+      "fetched_at": "2026-09-09T07:45:49.407Z"
     },
     {
       "id": "hybridsocial-hnjwmas7",
@@ -100,7 +80,7 @@
       "description": "",
       "activity_type": "Ride",
       "women_only": true,
-      "fetched_at": "2026-09-08T07:42:57.457Z"
+      "fetched_at": "2026-09-09T07:45:49.407Z"
     }
   ]
 }
